@@ -4,6 +4,10 @@
 
 A [concept](./concept.md) that is not physical. All perception of [language](./language.md) & thoughts are abstract.
 
+## [Axiology](./axiology.md)
+
+Abstract concepts matter because they liberate thought from the physical — enabling [entities](./entity.md) to reason about [patterns](./pattern.md), communicate across [contexts](./context.md), and build shared [models](./model.md) of [Existence](./existence.md). Without abstraction, no [language](./language.md), mathematics, or philosophy would be possible.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

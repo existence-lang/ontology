@@ -4,6 +4,10 @@
 
 A tool that an [Entity](./entity.md) uses for a leveraged effect.
 
+## [Axiology](./axiology.md)
+
+Technology matters because it extends the capabilities of [entities](./entity.md) beyond their innate capacity. It amplifies [focus](./focus.md), scales [communication](./communication.md), and enables [systems](./system.md) that would otherwise be impossible. Technology is the lever by which entities reshape their [environment](./environment.md).
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

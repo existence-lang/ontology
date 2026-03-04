@@ -4,6 +4,10 @@
 
 Law of [nature](./nature.md); relating to natural phenomena of [physical](./physical-system.md) & [conceptual](./conceptual-system.md) systems.
 
+## [Axiology](./axiology.md)
+
+Natural law matters because it represents the fixed [patterns](./pattern.md) that govern all of [Existence](./existence.md). Understanding natural law provides the most reliable foundation for predicting outcomes, designing [systems](./system.md), and aligning with the inherent order of [nature](./nature.md).
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

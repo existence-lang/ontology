@@ -4,6 +4,10 @@
 
 The scientific study of language understood by animals (e.g. humans).
 
+## [Axiology](./axiology.md)
+
+Linguistics matters because [language](./language.md) is the primary medium through which [entities](./entity.md) share [abstractions](./abstraction.md), build [culture](./culture.md), and coordinate action. Studying language scientifically deepens understanding of how [information](./information.md) is constructed and transmitted.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

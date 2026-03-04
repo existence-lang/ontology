@@ -4,6 +4,10 @@
 
 Art is the product of a [creative](./create.md) activity & expression.
 
+## [Axiology](./axiology.md)
+
+Art matters because it is the vehicle through which [entities](./entity.md) express [novelty](./novelty.md), communicate understanding, and explore [perspectives](./perspective.md). Art bridges subjective experience and shared [culture](./culture.md), enabling empathy, reflection, and the [evolution](./evolution.md) of consciousness.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

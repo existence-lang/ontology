@@ -4,6 +4,10 @@
 
 Nature is the [unabstracted](./abstraction.md) [entity](./entity.md) of [existence](./existence.md). Nature can be [scoped](./scope.md) by a qualifying word (e.g. the Nature of the biology of Earth, the Nature of Mathematics, the Nature of the mind, the Nature of [emotions](./emotion.md)).
 
+## [Axiology](./axiology.md)
+
+Nature matters because it is [Existence](./existence.md) in its unabstracted form — the baseline reality against which all [abstractions](./abstraction.md) are measured. Aligning with nature promotes [coherence](./coherence.md), while departing from it without [awareness](./awareness.md) leads to distortion and fragility.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

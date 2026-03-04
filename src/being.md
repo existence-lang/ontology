@@ -6,6 +6,10 @@ To be, to [exist](./exist.md).
 
 A being is an [entity](./entity.md) that exists (which is all Entities in the system of Existence). We tend to use being, in place of entity, to place [anthropomorphic](./anthropomorphism.md) characteristics on the Entity.
 
+## [Axiology](./axiology.md)
+
+Being matters because it names the most fundamental fact of [Existence](./existence.md) — that something IS. Recognizing being in all [entities](./entity.md), not just those with [anthropomorphic](./anthropomorphism.md) traits, expands [compassion](./compassion.md) and [awareness](./awareness.md) to encompass all of Existence.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

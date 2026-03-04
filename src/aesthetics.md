@@ -4,6 +4,10 @@
 
 The study or philosophy of beauty. Aesthetics is related to [Axiology](./axiology.md).
 
+## [Axiology](./axiology.md)
+
+Aesthetics matters because it grounds value judgments about beauty, form, and taste — shaping how [entities](./entity.md) perceive and create [art](./art.md). It connects subjective experience to shared [cultural](./culture.md) standards, influencing what is valued and how meaning is expressed.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

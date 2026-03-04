@@ -6,6 +6,10 @@ Multiple [Entities](./entity.md) agree on an [abstraction](./abstraction.md) whe
 
 Agreements are required for [concrescence](./concrescence.md) to occur.
 
+## [Axiology](./axiology.md)
+
+Agreement is essential for [coherence](./coherence.md) among [entities](./entity.md). Without shared agreement on [definitions](./definition.md) and [language](./language.md), no cooperative [system](./system.md) can function. Agreement enables collective action, trust, and the formation of [culture](./culture.md).
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

@@ -4,6 +4,10 @@
 
 To use [violence](./violence.md) in attempt to compel one to act against his will. This violence can be physical, emotional, spiritual, mental, social, intellectual, etc.
 
+## [Axiology](./axiology.md)
+
+Understanding coercion matters because it illuminates the boundary between voluntary and involuntary action. Recognizing coercion in all its forms — physical, emotional, social — enables [entities](./entity.md) to protect autonomy and promote [coherence](./coherence.md) based on genuine [agreement](./agreement.md) rather than force.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

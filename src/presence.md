@@ -4,6 +4,10 @@
 
 Presence is a state of an [entity](./entity.md) with energetic [focus](./focus.md) toward the [environment](./environment).
 
+## [Axiology](./axiology.md)
+
+Presence matters because it determines the quality of an [entity's](./entity.md) engagement with its [environment](./environment.md). An entity that is present brings its full [focus](./focus.md) and [awareness](./awareness.md) to bear, enabling deeper [communication](./communication.md), richer perception, and more effective action.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

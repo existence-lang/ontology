@@ -4,6 +4,10 @@
 
 An [Entity's](./entity.md) trust in a [concept](./concept.md). Related to [faith](./faith.md).
 
+## [Axiology](./axiology.md)
+
+Belief matters because it is the substrate of action and self-definition. What an [entity](./entity.md) believes shapes its [perspective](./perspective.md), guides its decisions, and defines its relationship to [Existence](./existence.md). Belief systems form the foundation of [philosophy](./philosophy.md), [culture](./culture.md), and collective coordination.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

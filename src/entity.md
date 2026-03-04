@@ -6,6 +6,10 @@ Any [information](./information.md) in [Existence](./existence.md).
 
 Entities can be a [abstraction](./abstraction.md), [concept](./concept.md), person, [system](./system.md), object, animal, [collective group of people](./collective.md), a planet, the Universe, Existence (or [God](./god.md)) itself.
 
+## [Axiology](./axiology.md)
+
+Entity is the most fundamental unit of discourse in this [ontology](./ontology.md). Recognizing that all [information](./information.md) in [Existence](./existence.md) constitutes an entity — from a thought to a galaxy — enables a unified [perspective](./perspective.md) that treats all of Existence with [coherence](./coherence.md) and [compassion](./compassion.md).
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

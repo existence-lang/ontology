@@ -4,6 +4,10 @@
 
 To create is to add [novelty](./novelty.md) to Existence.
 
+## [Axiology](./axiology.md)
+
+Creativity matters because it is the process by which [novelty](./novelty.md) enters [Existence](./existence.md). All [evolution](./evolution.md), [art](./art.md), and progress depend on the creative act. To create is to participate in the ongoing expansion and diversification of Existence itself.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

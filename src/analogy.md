@@ -4,6 +4,10 @@
 
 Analogies allow the entity to utilize the [patterns](./pattern.md) of a known [entity](./entity.md) on another entity. The patterns of the known entity are associated with experience and knowledge.
 
+## [Axiology](./axiology.md)
+
+Analogy is a powerful cognitive [tool](./tool.md) that enables [entities](./entity.md) to transfer knowledge across [domains](./domain.md). By mapping known [patterns](./pattern.md) onto unfamiliar territory, analogy accelerates learning, deepens understanding, and makes the abstract concrete.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

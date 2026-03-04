@@ -4,6 +4,10 @@
 
 An [Entity](./entity.md) using [signals](./signal.md) and [language](./language.md) to affect another entity.
 
+## [Axiology](./axiology.md)
+
+Communication matters because it is the mechanism by which [entities](./entity.md) share [context](./context.md), coordinate action, and build shared [models](./model.md). Without communication, no [collective](./collective.md) can form and no [language](./language.md) can evolve. The quality of communication determines the [coherence](./coherence.md) of any [system](./system.md).
+
 ## [Ethics](./ethics.md)
 
 Since communication affects other entities in constructive & destructive ways, the communicating entity is responsible to exhibit [compassion](./compassion.md) with communication.

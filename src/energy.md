@@ -4,6 +4,10 @@
 
 Energy is a property of objects, transferable among them via fundamental interactions, which can be converted in form but not created or destroyed. The ability of a [system](./system.md) ([physical](./physical-system.md)/[conceptual](./conceptual-system.md)) to do work on other systems (physical/conceptual).
 
+## [Axiology](./axiology.md)
+
+Energy matters because it is the capacity for change and work in all [systems](./system.md). Without energy, no [entity](./entity.md) can act, no [evolution](./evolution.md) can occur, and no [signal](./signal.md) can be transmitted. Energy is the currency of all interaction in [Existence](./existence.md).
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

@@ -12,6 +12,10 @@ Abstraction is a form of [illusion](./illusion.md), since it alters the percepti
 
 An [entity](./entity.md) has a limited ability to [focus](./focus.md) on complexity. Somehow, humans make sense of the world with [language](./language.md).
 
+## [Axiology](./axiology.md)
+
+Abstraction is the fundamental mechanism by which [entities](./entity.md) manage complexity. It enables [communication](./communication.md), [models](./model.md), and shared understanding. Without abstraction, no [perspective](./perspective.md) could be applied and no [system](./system.md) could be reasoned about.
+
 ## [Ethics](./ethics.md)
 
 The more an entity is abstracted, the less [novelty](./novelty.md) that individual is perceived to have. One should be aware that all entities have novel personalities & lives. One should have [compassion](./compassion.md) & [respect](./respect.md) for everyone.

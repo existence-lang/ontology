@@ -4,6 +4,10 @@
 
 Ethics are the code of conduct according to the [Entity's](./entity.md) [Belief System](./belief-system.md). Ethics is related to [Axiology](./axiology.md).
 
+## [Axiology](./axiology.md)
+
+Ethics matters because it provides the framework for right conduct within any [belief system](./belief-system.md). Without ethics, [entities](./entity.md) lack guidance for how to treat one another. Ethics translates [values](./axiology.md) into actionable principles that govern relationships and [systems](./system.md).
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

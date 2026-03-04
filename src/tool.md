@@ -1,6 +1,12 @@
 # Tool
 
+## [Ontology](./ontology.md)
+
 [Conceptual](./conceptual-system.md) or [Physical](./physical-system.md) [System](./system.md) that is used to create a desired effect on another System or itself.
+
+## [Axiology](./axiology.md)
+
+Tools matter because they extend an [entity's](./entity.md) capacity to act upon its [environment](./environment.md). A tool amplifies [focus](./focus.md) and [energy](./energy.md), enabling outcomes that would be impossible through the entity's innate abilities alone. Tools are the bridge between intention and effect.
 
 ## [Epistemology](./epistemology.md)
 

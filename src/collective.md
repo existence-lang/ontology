@@ -4,6 +4,10 @@
 
 A group of [Entities](./entity.md). The Collective is an entity.
 
+## [Axiology](./axiology.md)
+
+Collectives matter because they enable [entities](./entity.md) to achieve outcomes beyond individual capacity. The emergent [patterns](./pattern.md) and [intelligence](./intelligence.md) of a collective are qualitatively different from those of its members. Understanding collectives is essential for building coherent [systems](./system.md) at every [scope](./scope.md).
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

@@ -4,6 +4,10 @@
 
 Attribution of the [Entity's](./entity.md) form or other characteristics to anything other than that Entity.
 
+## [Axiology](./axiology.md)
+
+Anthropomorphism matters because it reveals how [entities](./entity.md) project their own characteristics to understand the unfamiliar. It can be a valuable [tool](./tool.md) for building empathy and [compassion](./compassion.md), but can also distort understanding by imposing [perspectives](./perspective.md) that do not fit the target entity.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

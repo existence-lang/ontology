@@ -4,6 +4,10 @@
 
 The Attention Schema are the [abstractions](./abstraction.md) available to the current [consciousness](./consciousness.md) of the [Entity](./entity.md).
 
+## [Axiology](./axiology.md)
+
+The Attention Schema matters because it determines what an [entity](./entity.md) can perceive and reason about at any given moment. It bounds [consciousness](./consciousness.md) and shapes [focus](./focus.md) — the quality and structure of an entity's attention schema directly governs its capacity for understanding and action.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

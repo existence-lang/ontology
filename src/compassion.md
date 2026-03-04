@@ -6,6 +6,10 @@ Compassion enables the compassionate [entity](./entity.md) to enter into the sam
 
 Through the connection between entities that compassion facilitates, functioning cooperative groups form. The more ways one can be compassionate for another, the stronger the functioning bond.
 
+## [Axiology](./axiology.md)
+
+Compassion matters because it is the bridge that connects [entities](./entity.md) across different [contexts](./context.md). By enabling one entity to enter another's context, compassion forms the basis for cooperation, healing, and mutual growth. It is the affective complement to intellectual understanding.
+
 ## [Ethics](./ethics.md)
 
 > “Greek and Roman philosophers distrusted (feeling) compassion. In their view, reason alone was the proper guide to conduct. They regarded compassion (a virtue) as an effect, neither admirable nor contemptible.” —Thomas Szasz, Cruel Compassion

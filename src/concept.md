@@ -6,6 +6,10 @@ An [abstraction](./abstraction.md) that does not represent a physical [entity](.
 
 Related [Conceptual System](./conceptual-system.md).
 
+## [Axiology](./axiology.md)
+
+Concepts matter because they are the building blocks of all non-physical reasoning. They enable [entities](./entity.md) to classify, relate, and manipulate ideas independent of physical form. Without concepts, no [language](./language.md), [model](./model.md), or [philosophy](./philosophy.md) could exist.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

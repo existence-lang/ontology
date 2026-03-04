@@ -4,6 +4,10 @@
 
 Love is the attractive force that bonds an [Entity](./entity.md) to another entity to benefit the other entity.
 
+## [Axiology](./axiology.md)
+
+Love matters because it is the attractive force that bonds [entities](./entity.md) together for mutual benefit. It motivates [creation](./create.md), sustains bonds between [entities](./entity.md), and drives the [evolution](./evolution.md) of [systems](./system.md) toward greater [coherence](./coherence.md). Love, broadly scoped, is the foundation of all cooperative behavior in [Existence](./existence.md).
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

@@ -4,6 +4,10 @@
 
 The theory of a particular [philosophy](./philosophy.md) concerning the fundamental types of entity in the universe.
 
+## [Axiology](./axiology.md)
+
+Ontology matters because it establishes the foundational categories of [Existence](./existence.md). Without a clear ontology, [entities](./entity.md) cannot agree on what exists, how things relate, or what [language](./language.md) means. Ontology is the prerequisite for coherent [philosophy](./philosophy.md) and shared understanding.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

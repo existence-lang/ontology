@@ -4,6 +4,10 @@
 
 The surroundings of, and influences on, a particular [Entity](./entity.md). The Environment is also an Entity.
 
+## [Axiology](./axiology.md)
+
+Environment matters because it provides the [context](./context.md) in which every [entity](./entity.md) operates. An entity's capabilities, limitations, and [evolution](./evolution.md) are all shaped by its environment. Understanding environment is essential for understanding any [system](./system.md).
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

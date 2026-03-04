@@ -4,6 +4,10 @@
 
 The study of the origin, nature, functions, types, and interrelations of values; value theory of a [Philosophy](./philosophy.md). Axiology includes [Ethics](./ethics.md) and [Aesthetics](./aesthetics.md).
 
+## [Axiology](./axiology.md)
+
+Axiology matters because all action, judgment, and prioritization derive from values. Without a theory of value, no [entity](./entity.md) can distinguish what is worth pursuing, preserving, or creating. It is the branch of [philosophy](./philosophy.md) that gives direction to both [ethics](./ethics.md) and [aesthetics](./aesthetics.md).
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

@@ -6,6 +6,10 @@ Awareness is the attentive ability of the [Entity](./entity.md) to perceive self
 
 Awareness is related to [consciousness](./consciousness.md) and [feeling](./feeling.md).
 
+## [Axiology](./axiology.md)
+
+Awareness matters because it is the foundation of [consciousness](./consciousness.md) and meaningful interaction. An [entity's](./entity.md) capacity to perceive itself and its [environment](./environment.md) determines its ability to respond, adapt, and [evolve](./evolution.md). Greater awareness expands the [scope](./scope.md) of what an entity can engage with.
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition

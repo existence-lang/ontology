@@ -4,6 +4,10 @@
 
 A [system](./system.md) to manage, command, direct or regulate the behavior of other systems.
 
+## [Axiology](./axiology.md)
+
+Control systems matter because they govern the behavior of [entities](./entity.md) within [Existence](./existence.md). Understanding control systems — whether physical, biological, or conceptual — enables intentional design, [evolution](./evolution.md), and the maintenance of [coherence](./coherence.md) within complex [systems](./system.md).
+
 ## [Epistemology](./epistemology.md)
 
 ### [Cultural](./culture.md) Definition
