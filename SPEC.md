@@ -43,7 +43,7 @@ Concrete examples showing the pattern at different scales.}
 6. **Links** use relative markdown: `[term](./term.md)`
 7. **External refs** use HTML anchors with `target="_blank"`
 8. **Definitions** from external sources are blockquoted (`>`)
-9. **Pattern Expression** grounds the abstract in concrete examples
+9. **Pattern Expression** grounds the abstract in concrete examples. Epistemology subsection headings are non-normative — lint binds only the required `##` sections — so a domain ontology may prefer plainer headings (e.g. `### Examples` for Pattern Expression, `### Sources` for Cultural Definition)
 10. **Scope**: definitions are relative to Existence (broadest scope); narrower applications are noted
 
 ## Section Purposes
@@ -60,4 +60,4 @@ Concrete examples showing the pattern at different scales.}
 - Each file = one concept = one node in the ontology graph
 - Nodes link to related nodes — the graph IS the ontology
 - Definitions start broad (Existence scope) and can be narrowed by context
-- The `Pattern Expression` subsection bridges theory to practice
+- The `Pattern Expression` subsection bridges theory to practice (domain ontologies may title it `Examples`)
