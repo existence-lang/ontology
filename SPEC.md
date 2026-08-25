@@ -36,7 +36,7 @@ Concrete examples showing the pattern at different scales.}
 ## Rules
 
 1. **Title** = the term name, capitalized
-2. **Ontology** section is required — this is the definition
+2. **Ontology** section is required — this is the definition. Open it with a single plain-language sentence — the **lay definition** — before any depth: tooling (`search`, `scope`, future glossary exports) surfaces that first line as the term's one-line definition, which is what teammates meet first
 3. **Axiology** section is required — why it matters
 4. **Epistemology** section is required — how we know it
 5. **Ethics** section is optional — include when the concept has ethical dimensions
