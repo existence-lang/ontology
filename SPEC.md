@@ -43,7 +43,7 @@ Concrete examples showing the pattern at different scales.}
 6. **Links** use relative markdown: `[term](./term.md)`
 7. **External refs** use HTML anchors with `target="_blank"`
 8. **Definitions** from external sources are blockquoted (`>`)
-9. **Pattern Expression** grounds the abstract in concrete examples. Epistemology subsection headings are non-normative — lint binds only the required `##` sections — so a domain ontology may prefer plainer headings (e.g. `### Examples` for Pattern Expression, `### Sources` for Cultural Definition). The plain names trade some meaning for readability, so keep the intent: Examples should show the pattern at more than one scale or resolution (not a flat list of instances), and Sources should first quote how the term is already used around you (the domain's cultural definition) before listing references
+9. **Pattern Expression** grounds the abstract in concrete examples. Epistemology subsection headings are non-normative — lint binds only the required `##` sections — so a domain ontology may prefer plainer headings. The recognized subsection vocabulary is `Cultural Definition` | `Sources` and `Pattern Expression` | `Examples` (kernel spelling | plain spelling); `existence lint` warns on any other Epistemology subsection heading without failing. The plain names trade some meaning for readability, so keep the intent: Examples should show the pattern at more than one scale or resolution (not a flat list of instances), and Sources should first quote how the term is already used around you (the domain's cultural definition) before listing references
 10. **Scope**: definitions are relative to Existence (broadest scope); narrower applications are noted
 
 ## Section Purposes
