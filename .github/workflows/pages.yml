@@ -14,6 +14,10 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  # existence-lang/existence commit providing `existence export` (bump to pick up CLI changes)
+  EXISTENCE_REV: 1fe3973d6d00b93e180bace7dc83442c123e123d
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,6 +27,36 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+      # `existence export` publishes the ontology as RDF next to the term
+      # pages, so `<base_iri>ontology.ttl` / `ontology.jsonld` resolve. The
+      # CLI is pinned to a commit and cached by that commit so the site build
+      # does not depend on the CLI's main branch or rebuild it every push.
+      - name: Install Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache existence CLI
+        id: existence-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cargo/bin/existence
+          key: existence-cli-${{ env.EXISTENCE_REV }}-${{ runner.os }}
+
+      - name: Install existence CLI
+        if: steps.existence-cache.outputs.cache-hit != 'true'
+        run: cargo install --locked --git https://github.com/existence-lang/existence --rev "$EXISTENCE_REV" existence
+
+      - name: Export ontology as Turtle and JSON-LD
+        run: |
+          existence --ontology . export --format turtle > ontology.ttl
+          existence --ontology . export --format jsonld > ontology.jsonld
+          ls -l ontology.ttl ontology.jsonld
+
+      - name: Validate the export
+        run: |
+          sudo apt-get update && sudo apt-get install -y --no-install-recommends raptor2-utils
+          rapper -i turtle -c ontology.ttl
+          python3 -c "import json; d=json.load(open('ontology.jsonld')); assert d['@context'] and d['@graph'], 'missing @context/@graph'; print(len(d['@graph']), 'graph nodes')"
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
