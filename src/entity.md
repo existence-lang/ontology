@@ -2,9 +2,9 @@
 
 ## [Ontology](./ontology.md)
 
-Any [information](./information.md) in [Existence](./existence.md).
+Any [information](./information.md) in [Existence](./existence.md "broader").
 
-Entities can be a [abstraction](./abstraction.md), [concept](./concept.md), person, [system](./system.md), object, animal, [collective group of people](./collective.md), a planet, the Universe, Existence (or [God](./god.md)) itself.
+Entities can be a [abstraction](./abstraction.md "narrower"), [concept](./concept.md "narrower"), person, [system](./system.md), object, animal, [collective group of people](./collective.md "narrower"), a planet, the Universe, Existence (or [God](./god.md)) itself.
 
 ## [Axiology](./axiology.md)
 

@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-A domain is the [system](./system.md) of interest within an [entity](./entity.md). An example of a domain is Jane's body, where Jane is the entity and the system is the body. The domain [language](./language.md) refers to the field of anatomy & it's actions, where Jane's anatomy is an instance of anatomy with her unique characteristics.
+A domain is the [system](./system.md "broader") of interest within an [entity](./entity.md). An example of a domain is Jane's body, where Jane is the entity and the system is the body. The domain [language](./language.md) refers to the field of anatomy & it's actions, where Jane's anatomy is an instance of anatomy with her unique characteristics.
 
 ## [Axiology](./axiology.md)
 

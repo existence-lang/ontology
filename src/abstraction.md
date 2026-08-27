@@ -8,7 +8,7 @@ Abstractions allow [perspectives](./perspective.md) to be applied to a [system](
 
 Abstractions are useful in creating simplified (less [precise](./precision.md)) systems that can be related to other systems using [analogies](./analogy.md).
 
-Abstraction is a form of [illusion](./illusion.md), since it alters the perception of actual entity. The abstraction simplifies the abstracted entity.
+Abstraction is a form of [illusion](./illusion.md "broader"), since it alters the perception of actual entity. The abstraction simplifies the abstracted entity.
 
 An [entity](./entity.md) has a limited ability to [focus](./focus.md) on complexity. Somehow, humans make sense of the world with [language](./language.md).
 

@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-The breadth, depth or reach of an [Entity](./entity.md); a [domain](./domain.md).
+The breadth, depth or reach of an [Entity](./entity.md); a [domain](./domain.md "broader").
 
 ## [Axiology](./axiology.md)
 

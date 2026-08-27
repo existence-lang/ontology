@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Context add [scope](./scope.md) to [abstractions](./abstraction.md).
+Context add [scope](./scope.md "broader") to [abstractions](./abstraction.md).
 
 ## [Axiology](./axiology.md)
 
