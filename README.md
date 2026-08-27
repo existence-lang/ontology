@@ -187,6 +187,22 @@ Each `src/*.md` file follows the template in [SPEC.md](SPEC.md):
 | Ethics | What SHOULD we consider? | Moral implications (optional) |
 | Epistemology | How do we KNOW it? | Evidence, sources, patterns |
 
+## RDF / SKOS
+
+Every term has a stable IRI, `https://existence-lang.github.io/ontology/<term>`
+(for example `https://existence-lang.github.io/ontology/entity`), which is
+also its page on this site. The [existence CLI](https://github.com/existence-lang/existence)
+exports the whole ontology as SKOS:
+
+```bash
+existence export > ontology.ttl              # Turtle
+existence export --format jsonld > ontology.jsonld
+```
+
+Identity comes from `meta.base_iri` in `existence.toml`; the `xl:` properties
+that carry the Ontology / Axiology / Ethics / Epistemology sections are
+documented in [vocab.md](vocab.md).
+
 ## License
 
 [Apache-2.0](LICENSE)

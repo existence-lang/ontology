@@ -3,6 +3,11 @@
 [meta]
 name = "existence-lang/ontology"
 description = "Reference existential ontology — 114 terms across Ring 0 kernel, Ring 1 software, and Ring 2 extended"
+# RDF identity (`existence export`): term IRIs are `{base_iri}{term}` and
+# dereference to the GitHub Pages term page; `xl:` metamodel properties are
+# documented at vocab.md. Changing either renames every published concept.
+base_iri = "https://existence-lang.github.io/ontology/"
+vocab_iri = "https://existence-lang.github.io/ontology/vocab#"
 
 [rings.0]
 name = "kernel"

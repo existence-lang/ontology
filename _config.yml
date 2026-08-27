@@ -1,0 +1,11 @@
+# GitHub Pages / Jekyll configuration.
+#
+# Term pages render at /ontology/<term> (for example /ontology/entity), the
+# same IRI `existence export` assigns to the term (`meta.base_iri` in
+# existence.toml), so every published concept IRI dereferences to its page.
+# Without this default they would render under /ontology/src/<term>.
+defaults:
+  - scope:
+      path: "src"
+    values:
+      permalink: "/:basename:output_ext"
