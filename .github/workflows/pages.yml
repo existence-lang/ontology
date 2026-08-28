@@ -15,8 +15,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  # existence-lang/existence commit providing `existence export` (bump to pick up CLI changes)
-  EXISTENCE_REV: 1fe3973d6d00b93e180bace7dc83442c123e123d
+  # existence-lang/existence release tag providing `existence export` (bump to pick up CLI changes)
+  EXISTENCE_REV: v0.5.0
 
 jobs:
   build:
@@ -44,7 +44,7 @@ jobs:
 
       - name: Install existence CLI
         if: steps.existence-cache.outputs.cache-hit != 'true'
-        run: cargo install --locked --git https://github.com/existence-lang/existence --rev "$EXISTENCE_REV" existence
+        run: cargo install --locked --git https://github.com/existence-lang/existence --tag "$EXISTENCE_REV" existence
 
       - name: Export ontology as Turtle and JSON-LD
         run: |
