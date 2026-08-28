@@ -58,6 +58,16 @@ jobs:
           rapper -i turtle -c ontology.ttl
           python3 -c "import json; d=json.load(open('ontology.jsonld')); assert d['@context'] and d['@graph'], 'missing @context/@graph'; print(len(d['@graph']), 'graph nodes')"
 
+      # jekyll-relative-links skips markdown links that carry a title, so typed
+      # node links ([x](./x.md "broader"), spec rule 12) would render as ./x.md
+      # and 404. Point them at the rendered page here (build checkout only);
+      # the export above already consumed the .md form.
+      - name: Resolve typed node links for the site
+        run: |
+          sed -i -E 's#\]\(\./([a-z0-9-]+)\.md "(broader|narrower|related)"\)#](./\1.html "\2")#g' src/*.md
+          grep -c 'title\|\.html "' src/entity.md >/dev/null
+          grep -q '\.md "broader"' src/*.md && { echo "typed .md links remain"; exit 1; } || true
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
