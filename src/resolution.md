@@ -4,6 +4,8 @@
 
 The detail & [scope](./scope.md) of the [perspective](./perspective.md). Detail is increased with [evolution](./evolution.md).
 
+A resolution is a [context](./context.md "broader") observed at a chosen level of detail; zooming in or out changes which [patterns](./pattern.md) are visible.
+
 ## [Axiology](./axiology.md)
 
 A broad perspective on a system usually means a low resolution to be consciously aware of the [information](./information.md).

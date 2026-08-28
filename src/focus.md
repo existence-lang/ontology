@@ -4,6 +4,8 @@
 
 Selectively concentrating on one [system](./system.md) of the [Existence](./existence.md) while ignoring other things.
 
+A focus is a [resolution](./resolution.md "broader") to which finite attention is applied.
+
 ## [Axiology](./axiology.md)
 
 Focus allows [energy](./energy.md) to be efficiently applied to the relevant [entities](./entity.md).

@@ -4,6 +4,8 @@
 
 A collection of organized things; a whole composed of relationships among its members.
 
+A system is an [entity](./entity.md "broader") viewed from an internalized [perspective](./perspective.md).
+
 ## [Axiology](./axiology.md)
 
 [Physical System](./physical-system.md)

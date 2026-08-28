@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-That which can distinguish one thing from another. An [Entity](./entity.md).
+That which can distinguish one thing from another. An [Entity](./entity.md "broader").
 
 ## [Axiology](./axiology.md)
 

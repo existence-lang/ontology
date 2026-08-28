@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-An [abstraction](./abstraction.md) that does not represent a physical [entity](./entity.md).
+An [abstraction](./abstraction.md "broader") that does not represent a physical [entity](./entity.md).
 
 Related [Conceptual System](./conceptual-system.md).
 
