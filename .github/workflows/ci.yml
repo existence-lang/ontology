@@ -10,9 +10,9 @@ permissions:
   contents: read
 
 env:
-  # existence-lang/existence commit providing `existence audit --structure`
-  # (bump to pick up CLI changes; switch to a release tag once one carries audit)
-  EXISTENCE_REV: b22957564123ea6ac304c68c5c0a96d59c03bc9f
+  # existence-lang/existence release providing `existence audit --structure`
+  # (bump to pick up CLI changes)
+  EXISTENCE_REV: v0.6.0
 
 jobs:
   audit:
@@ -34,7 +34,7 @@ jobs:
 
       - name: Install existence CLI
         if: steps.existence-cache.outputs.cache-hit != 'true'
-        run: cargo install --locked --git https://github.com/existence-lang/existence --rev "$EXISTENCE_REV" existence
+        run: cargo install --locked --git https://github.com/existence-lang/existence --tag "$EXISTENCE_REV" existence
 
       # The fast structural subset: lint, toc --check, suffix-less node links,
       # near-duplicate slugs. Exit 1 on any error-severity finding fails the
