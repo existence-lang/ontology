@@ -7,6 +7,11 @@ name: Ontology audit
 # links, dead links swapped for archived copies, regenerated indexes) plus
 # the refreshed sources lock and the report itself. Nothing else is changed
 # without a person deciding.
+#
+# The paid semantic class (an LLM judging each lay definition against its
+# linked neighbours) is opt-in: it runs only when the repository has an
+# ANTHROPIC_API_KEY secret. Its verdict cache rides the safe-fixes PR and an
+# Actions cache, so a week with no definition edits makes no model calls.
 
 on:
   schedule:
@@ -28,6 +33,8 @@ env:
   FIX_BRANCH: audit/safe-fixes
   ISSUE_TITLE: Ontology audit
   PR_TITLE: "audit: safe fixes"
+  # Set the ANTHROPIC_API_KEY repository secret to turn the semantic class on.
+  SEMANTIC_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
 jobs:
   audit:
@@ -58,20 +65,51 @@ jobs:
           mkdir -p audit
           if [ -f audit/report.json ]; then cp audit/report.json /tmp/previous-report.json; fi
 
+      # Verdicts from earlier runs, so only changed neighbourhoods are re-judged
+      # even before the safe-fixes PR carrying the cache is merged.
+      - name: Restore the semantic verdict cache
+        if: env.SEMANTIC_KEY != ''
+        uses: actions/cache/restore@v4
+        with:
+          path: audit/semantic.cache.json
+          key: semantic-cache-${{ github.run_id }}
+          restore-keys: semantic-cache-
+
       # --fix applies the safe resolutions; exit 1 (findings) is expected and
-      # must not fail the job, exit 2 (could not run) must.
+      # must not fail the job, exit 2 (could not run) must. With a key, the
+      # semantic class joins the run; if only it cannot run (a revoked or
+      # mistyped secret), the job warns and keeps the rest of the report.
       - name: Run the audit
         id: audit
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           set +e
-          existence --ontology . audit --all --fix --format json -o audit/report.json
-          status=$?
+          if [ -n "$SEMANTIC_KEY" ]; then
+            existence --ontology . audit --all --fix --semantic --format json -o audit/report.json
+            status=$?
+            if [ "$status" -eq 2 ]; then
+              echo "::warning::the semantic class could not run (check the ANTHROPIC_API_KEY secret); re-running without it"
+              existence --ontology . audit --all --fix --format json -o audit/report.json
+              status=$?
+            fi
+          else
+            existence --ontology . audit --all --fix --format json -o audit/report.json
+            status=$?
+          fi
           set -e
           echo "status=$status" >> "$GITHUB_OUTPUT"
           if [ "$status" -eq 2 ]; then
             echo "::error::audit could not run"; exit 2
           fi
           existence --ontology . audit --structure --contradictions --mirrors || true
+
+      - name: Save the semantic verdict cache
+        if: env.SEMANTIC_KEY != '' && hashFiles('audit/semantic.cache.json') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: audit/semantic.cache.json
+          key: semantic-cache-${{ github.run_id }}
 
       # The safe-fix branch is rebuilt from main every run so it never carries
       # stale resolutions; a force push keeps the one open PR current.
@@ -92,7 +130,7 @@ jobs:
           fi
           git checkout -B "$FIX_BRANCH"
           git commit -m "audit: safe fixes and refreshed sources lock ($(date -u +%Y-%m-%d))" \
-            -m "Applied by the weekly Ontology audit: suffix-less links, dead links swapped for archived copies, regenerated indexes, plus audit/sources.lock.json and audit/report.json. Decisions stay in the Ontology audit issue." \
+            -m "Applied by the weekly Ontology audit: suffix-less links, dead links swapped for archived copies, regenerated indexes, plus audit/sources.lock.json, audit/report.json, and audit/semantic.cache.json when the semantic class ran. Decisions stay in the Ontology audit issue." \
             -m "Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           git push --force origin "$FIX_BRANCH"
           existing=$(gh pr list --head "$FIX_BRANCH" --state open --json url --jq '.[0].url')
