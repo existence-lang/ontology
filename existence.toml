@@ -47,3 +47,19 @@ terms = [
   "technology", "this-philosophy", "tradition", "transcendence", "unconsciousness",
   "unique", "universal-set", "violence"
 ]
+
+# Surfaces that copy this ontology, checked by `existence audit --mirrors`.
+# Optional mirrors live outside this repository and are skipped where absent.
+[[mirrors]]
+path = "terms.md"
+kind = "toc"
+
+[[mirrors]]
+path = "../../../philosophy/src"
+kind = "nodes"
+optional = true
+
+[[mirrors]]
+path = "~/.claude/CLAUDE.md"
+kind = "table"
+optional = true
