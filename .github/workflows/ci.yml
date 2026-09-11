@@ -1,0 +1,53 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  # existence-lang/existence commit providing `existence audit --structure`
+  # (bump to pick up CLI changes; switch to a release tag once one carries audit)
+  EXISTENCE_REV: 9414a8a23dc24b802d11fb233dd1fbe87257dff1
+
+jobs:
+  audit:
+    name: Structure audit
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache existence CLI
+        id: existence-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cargo/bin/existence
+          key: existence-cli-${{ env.EXISTENCE_REV }}-${{ runner.os }}
+
+      - name: Install existence CLI
+        if: steps.existence-cache.outputs.cache-hit != 'true'
+        run: cargo install --locked --git https://github.com/existence-lang/existence --rev "$EXISTENCE_REV" existence
+
+      # The fast structural subset: lint, toc --check, suffix-less node links,
+      # near-duplicate slugs. Exit 1 on any error-severity finding fails the
+      # check; warnings (lint subsection vocabulary, near-duplicates) do not.
+      - name: Audit structure
+        run: |
+          existence --ontology . audit --structure --format json -o audit-report.json || status=$?
+          existence --ontology . audit --structure
+          exit "${status:-0}"
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: audit-report
+          path: audit-report.json

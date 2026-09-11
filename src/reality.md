@@ -6,7 +6,7 @@ Reality is the set of [entities](./entity.md) that affects the [perceiving](./pe
 
 ## [Axiology](./axiology.md)
 
-Reality is the entity's [conscious](./consciousness) & unconscious perspective on [Existence](./existence.md). The [Information](./information.md) may be Consciously or Unconsciously experienced.
+Reality is the entity's [conscious](./consciousness.md) & unconscious perspective on [Existence](./existence.md). The [Information](./information.md) may be Consciously or Unconsciously experienced.
 
 ### [Signals](./signals.md)
 

@@ -8,7 +8,7 @@ to be; have existence; have being or reality
 
 In [this philosophy](./this-philosophy.md), to exist means being contained within the set of [Existence](./existence.md). In the scope of Existence, everything exists, including fiction.
 
-In modern [culture](./culture.md), to exist often [implicitly scopes](./implicit-scope.md) exist to Physical Existence. This philosophy [expands](./expanding-consciousness.md) the [scope](./scope) of Existence to be, "Everything that 'is', or more simply, everything".
+In modern [culture](./culture.md), to exist often [implicitly scopes](./implicit-scope.md) exist to Physical Existence. This philosophy [expands](./expanding-consciousness.md) the [scope](./scope.md) of Existence to be, "Everything that 'is', or more simply, everything".
 
 When everything exists, the entirety of language is open, free of "non-existence". All concepts, such as [God](./god.md), magic, spirituality, exist and are useful abstractions for connecting concepts & deriving [patterns](./pattern.md). These concepts open up closed connections, allowing expanded consciousness & transcendence from materialistic & rationalistic perspectives on Existence.
 

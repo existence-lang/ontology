@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Awareness is the attentive ability of the [Entity](./entity.md) to perceive self & other entities in the [environment](./environment).
+Awareness is the attentive ability of the [Entity](./entity.md) to perceive self & other entities in the [environment](./environment.md).
 
 Awareness is related to [consciousness](./consciousness.md) and [feeling](./feeling.md).
 

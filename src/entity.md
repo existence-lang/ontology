@@ -34,7 +34,7 @@ Entity is the most fundamental unit of discourse in this [ontology](./ontology.m
 
 [Existence](./existence.md) is an Entity made of many entities.
 
-#### [Being](./being)
+#### [Being](./being.md)
 
 <a href="https://en.wikipedia.org/wiki/Being" target="_blank">Being (Wikipedia)</a>
 

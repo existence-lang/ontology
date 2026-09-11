@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-The altering of an [Entity](./entity.md) or lineage of Entities as a learned response to the [environment](./environment).
+The altering of an [Entity](./entity.md) or lineage of Entities as a learned response to the [environment](./environment.md).
 
 ## [Axiology](./axiology.md)
 

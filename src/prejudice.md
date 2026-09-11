@@ -8,7 +8,7 @@ Any preconceived opinion or [feeling](./feeling.md).
 
 Prejudice is a form of [judgement](./judgement.md).
 
-An Entity acting according to a preconceived story instead reacting to incoming [signals](./signal.md) in the [environment](./environment) is an example of prejudice.
+An Entity acting according to a preconceived story instead reacting to incoming [signals](./signal.md) in the [environment](./environment.md) is an example of prejudice.
 
 [Inertia](./inertia.md) is a type of prejudice. Inertia is a form of memory.
 

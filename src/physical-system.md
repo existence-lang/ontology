@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-The portion of the physical universe chosen for analysis, with everything outside the system known as the [environment](./environment).
+The portion of the physical universe chosen for analysis, with everything outside the system known as the [environment](./environment.md).
 
 ## [Axiology](./axiology.md)
 

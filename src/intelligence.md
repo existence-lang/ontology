@@ -48,7 +48,7 @@ Entities also include groups of people, so a community, a nation, an organizatio
 
 ### Inanimate Object Inanimate
 
-The intelligence (control system) of a rock (hardness, elasticity, density, mass, etc.) are determined by the rock's chemical composition, shape, crystalline structure, [environment](./environment), etc.
+The intelligence (control system) of a rock (hardness, elasticity, density, mass, etc.) are determined by the rock's chemical composition, shape, crystalline structure, [environment](./environment.md), etc.
 
 ### Conceptual Intelligence
 

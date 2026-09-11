@@ -54,4 +54,4 @@ An Inanimate Object's behavior is controlled by it's physical composition & inhe
 
 ##### The Control System of a Rock
 
-The causal characteristics of a rock (hardness, elasticity, density, mass, etc.) are determined by the rock's chemical composition, shape, crystallinity, [environment](./environment), etc.
+The causal characteristics of a rock (hardness, elasticity, density, mass, etc.) are determined by the rock's chemical composition, shape, crystallinity, [environment](./environment.md), etc.

@@ -6,7 +6,7 @@ Illusion is the distortion caused by the one's [perspective](./perspective.md) w
 
 ## [Axiology](./axiology.md)
 
-[Abstraction](./abstraction) is a type of illusion.
+[Abstraction](./abstraction.md) is a type of illusion.
 
 ## [Epistemology](./epistemology.md)
 
