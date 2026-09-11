@@ -51,7 +51,7 @@ The Type is a Category. An instantiation is a morphism. The Instance is the othe
 
 > In disciplines such as logic, metalogic, typography, and computer programming, the type–token distinction is a distinction that separates a concept from the objects which are particular instances of the concept. For example, the sentence "the bicycle is in the garage" refers to a token of the type of thing known as "the bicycle", while the sentence "The bicycle has become more popular recently" refers to the type.
 
-<a href="http://en.wikipedia.org/wiki/Type_theory" target="_blank">Type Theory (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Type_theory" target="_blank">Type Theory (Wikipedia)</a> <a href="https://web.archive.org/web/20150102011503/http://en.wikipedia.org/wiki/Type_theory" target="_blank">(archived 2015-01-02)</a>
 
 > In mathematics, logic, and computer science, a type theory is any of a class of formal systems, some of which can serve as alternatives to set theory as a foundation for all mathematics. In type theory, every "term" has a "type" and operations are restricted to terms of a certain type.
 

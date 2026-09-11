@@ -16,7 +16,7 @@ Relates to [precision](./precision.md), [information](./information.md), [scope]
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/accuracy" target="_blank">accuracy (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/accuracy" target="_blank">accuracy (wiktionary)</a> <a href="https://web.archive.org/web/20150215234204/http://en.wiktionary.org/wiki/accuracy" target="_blank">(archived 2015-02-15)</a>
 
 > ### Noun
 

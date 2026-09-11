@@ -12,7 +12,7 @@ An [Entity's](entity.md) Judgement is the evaluation of [signals](./signal.md) t
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/judge" target="_blank">judge (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/judge" target="_blank">judge (wiktionary)</a> <a href="https://web.archive.org/web/20150226100953/http://en.wiktionary.org/wiki/judge" target="_blank">(archived 2015-02-26)</a>
 
 > ### Noun
 
@@ -40,7 +40,7 @@ An [Entity's](entity.md) Judgement is the evaluation of [signals](./signal.md) t
 
 > (transitive, intransitive) To criticize or label another person or thing.
 
-<a href="http://en.wiktionary.org/wiki/judgment" target="_blank">judgment (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/judgment" target="_blank">judgment (wiktionary)</a> <a href="https://web.archive.org/web/20150306035536/http://en.wiktionary.org/wiki/judgment" target="_blank">(archived 2015-03-06)</a>
 
 > ### Noun
 
@@ -54,7 +54,7 @@ An [Entity's](entity.md) Judgement is the evaluation of [signals](./signal.md) t
 
 > (theology) The final award; the last sentence.
 
-<a href="http://en.wikipedia.org/wiki/Judgement" target="_blank">Judgement (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Judgement" target="_blank">Judgement (Wikipedia)</a> <a href="https://web.archive.org/web/20150111055331/http://en.wikipedia.org/wiki/Judgement" target="_blank">(archived 2015-01-11)</a>
 
 > Judgement (or judgment) is the evaluation of evidence to make a decision.
 

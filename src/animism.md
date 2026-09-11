@@ -24,7 +24,7 @@ This Philosophy is inspired by animism; particularly about all [abstractions](./
 
 > (dated) A doctrine that animal life is produced by an immaterial spirit.
 
-<a href="http://en.wikipedia.org/wiki/Animism" target="_blank">Animism (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Animism" target="_blank">Animism (Wikipedia)</a> <a href="https://web.archive.org/web/20150102055427/http://en.wikipedia.org/wiki/Animism" target="_blank">(archived 2015-01-02)</a>
 
 > the worldview that non-human entities (animals, plants, and inanimate objects or phenomena) possess a spiritual essence
 

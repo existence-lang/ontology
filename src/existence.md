@@ -40,7 +40,7 @@ Contrary to some [cultural](./culture.md) [definitions](./definition.md), Existe
 
 > Empirical reality; the substance of the physical universe. (Dictionary of Philosophy; 1968)
 
-<a href="https://en.wikipedia.org/wiki/Existence" target="_blank">Existence (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Existence" target="_blank">Existence (Wikipedia)</a> <a href="https://web.archive.org/web/20150108081501/https://en.wikipedia.org/wiki/Existence" target="_blank">(archived 2015-01-08)</a>
 
 > Everything that 'is', or more simply, everything
 

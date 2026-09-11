@@ -32,7 +32,7 @@ Spirituality is the desire to expand consciousness. [Spiritual work](./spiritual
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/expand" target="_blank">expand (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/expand" target="_blank">expand (wiktionary)</a> <a href="https://web.archive.org/web/20150111134347/http://en.wiktionary.org/wiki/expand" target="_blank">(archived 2015-01-11)</a>
 
 > ### Verb (expand (third-person singular simple present expands, present participle expanding, simple past and past participle expanded))
 
@@ -54,13 +54,13 @@ Spirituality is the desire to expand consciousness. [Spiritual work](./spiritual
 
 > (intransitive) To feel generous or optimistic.
 
-<a href="https://en.wikipedia.org/wiki/Level_of_consciousness_(Esotericism)" target="_blank">Level of consciousness (Esotericism) (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Level_of_consciousness_(Esotericism)" target="_blank">Level of consciousness (Esotericism) (Wikipedia)</a> <a href="https://web.archive.org/web/20150211104231/https://en.wikipedia.org/wiki/Level_of_consciousness_(Esotericism)" target="_blank">(archived 2015-02-11)</a>
 
 > Consciousness is a loosely defined concept that addresses the human awareness of both internal and external stimuli. This can refer to spiritual recognition, psychological understanding, medically altered states, or more modern-day concepts of life purpose, satisfaction, and self-actualization.
 
 > Most theories map consciousness in a series of levels, some stages of which are more continuous or complex than others. Movement between stages is often bidirectional depending on internal and external conditions, with each mental ascension precipitating a change in reactivity. In the most basic sense, this alteration might lead to a reduced responsiveness as seen in anesthesiology; more abstract facets of tiered consciousness describe characteristics of profoundness, insight, perception, or understanding.
 
-<a href="https://en.wikipedia.org/wiki/Higher_consciousness" target="_blank">Higher consciousness (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Higher_consciousness" target="_blank">Higher consciousness (Wikipedia)</a> <a href="https://web.archive.org/web/20150213205850/https://en.wikipedia.org/wiki/Higher_consciousness" target="_blank">(archived 2015-02-13)</a>
 
 > Higher consciousness is the consciousness of a higher Self, transcendental reality, or God. It is "the part of the human being that is capable of transcending animal instincts".[1] The concept developed in German Idealism, and is a central notion in contemporary popular spirituality.
 

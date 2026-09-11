@@ -20,7 +20,7 @@ Ideals & [Religions](./religion.md) are examples of Belief Systems.
 
 > A system of beliefs.
 
-<a href="http://en.wikipedia.org/wiki/Belief" target="_blank">Belief (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Belief" target="_blank">Belief (Wikipedia)</a> <a href="https://web.archive.org/web/20150101091331/http://en.wikipedia.org/wiki/Belief" target="_blank">(archived 2015-01-01)</a>
 
 > A "belief system" is a set of mutually supportive beliefs. The beliefs of any such system can be classified as religious, philosophical, ideological, or a combination of these. Philosopher Jonathan Glover says that beliefs are always part of a belief system, and that tenanted belief systems are difficult for the tenants to completely revise or reject.
 

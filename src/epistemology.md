@@ -14,7 +14,7 @@
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/epistemology" target="_blank">epistemology (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/epistemology" target="_blank">epistemology (wiktionary)</a> <a href="https://web.archive.org/web/20150602005516/http://en.wiktionary.org/wiki/epistemology" target="_blank">(archived 2015-06-02)</a>
 
 > ### Noun
 
@@ -22,7 +22,7 @@
 
 > (countable) A particular theory of knowledge. "In his epistemology, Plato maintains that our knowledge of universal concepts is a kind of recollection."
 
-<a href="http://en.wikipedia.org/wiki/Epistemology" target="_blank">Epistemology (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Epistemology" target="_blank">Epistemology (Wikipedia)</a> <a href="https://web.archive.org/web/20150102041956/http://en.wikipedia.org/wiki/Epistemology" target="_blank">(archived 2015-01-02)</a>
 
 > Epistemology (ἐπιστήμη, episteme-knowledge, understanding; λόγος, logos-study of) is the branch of philosophy concerned with the nature and scope of knowledge and is also referred to as "theory of knowledge". It questions what knowledge is and how it can be acquired, and the extent to which knowledge pertinent to any given subject or entity can be acquired. Much of the debate in this field has focused on the philosophical analysis of the nature of knowledge and how it relates to connected notions such as truth, belief, and justification. The term "epistemology" was introduced by the Scottish philosopher James Frederick Ferrier.
 

@@ -12,7 +12,7 @@ An approach to creating an [abstract](./abstract-system.md) [domain](./domain.md
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wikipedia.org/wiki/Domain-driven_design" target="_blank">Domain Driven Design (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Domain-driven_design" target="_blank">Domain Driven Design (Wikipedia)</a> <a href="https://web.archive.org/web/20150111105622/http://en.wikipedia.org/wiki/Domain-driven_design" target="_blank">(archived 2015-01-11)</a>
 
 > Domain-driven design (DDD) is an approach to software development for complex needs by connecting the implementation to an evolving model. The premise of domain-driven design is the following:
 

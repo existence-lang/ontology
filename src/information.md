@@ -12,7 +12,7 @@ The perception of Information is dependent on the [resolution](./resolution.md) 
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/information" target="_blank">information (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/information" target="_blank">information (wiktionary)</a> <a href="https://web.archive.org/web/20150308223024/http://en.wiktionary.org/wiki/information" target="_blank">(archived 2015-03-08)</a>
 
 > ### Noun
 
@@ -46,7 +46,7 @@ The perception of Information is dependent on the [resolution](./resolution.md) 
 
 > Systems theory at times seems to refer to information in this sense, assuming information does not necessarily involve any conscious mind, and patterns circulating (due to feedback) in the system can be called information. In other words, it can be said that information in this sense is something potentially perceived as representation, though not created or presented for that purpose. For example, Gregory Bateson defines "information" as a "difference that makes a difference".[9]
 
-<a href="https://en.wikipedia.org/wiki/Physical_information" target="_blank">Physical Information (Wikipedia)</a>
+<a href="http://web.archive.org/web/20210308120600/https://en.wikipedia.org/wiki/Physical_information" target="_blank">Physical Information (Wikipedia)</a>
 
 > That which can distinguish one thing from another.
 

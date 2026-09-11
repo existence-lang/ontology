@@ -18,7 +18,7 @@ Universal set is a set which contains all [Entities](./entity.md), including its
 
 > (set theory) A set large enough to contain all sets under consideration in the current context.
 
-<a href="http://en.wikipedia.org/wiki/Universal_set" target="_blank">Universal Set (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Universal_set" target="_blank">Universal Set (Wikipedia)</a> <a href="https://web.archive.org/web/20150102102311/http://en.wikipedia.org/wiki/Universal_set" target="_blank">(archived 2015-01-02)</a>
 
 > universal set is a set which contains all objects, including itself
 

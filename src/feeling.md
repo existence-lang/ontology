@@ -46,7 +46,7 @@ Human feelings include love, happiness, fear, sadness, etc.
 
 > An opinion, an attitude.
 
-<a href="http://en.wikipedia.org/wiki/Feeling" target="_blank">Feeling (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Feeling" target="_blank">Feeling (Wikipedia)</a> <a href="https://web.archive.org/web/20150108160831/http://en.wikipedia.org/wiki/Feeling" target="_blank">(archived 2015-01-08)</a>
 
 > Feeling is the nominalization of the verb to feel. The word was first used in the English language to describe the physical sensation of touch through either experience or perception. The word is also used to describe experiences other than the physical sensation of touch, such as "a feeling of warmth" and of sentience in general. In Latin, sentire meant to feel, hear or smell.
 

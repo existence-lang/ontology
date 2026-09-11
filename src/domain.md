@@ -12,7 +12,7 @@ All domains have a [scope](./scope.md).
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/domain" target="_blank">domain (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/domain" target="_blank">domain (wiktionary)</a> <a href="https://web.archive.org/web/20150223112133/http://en.wiktionary.org/wiki/domain" target="_blank">(archived 2015-02-23)</a>
 
 > ### Noun
 
@@ -46,7 +46,7 @@ All domains have a [scope](./scope.md).
 
 <a href="https://en.wikipedia.org/wiki/Domain" target="_blank">Domain (Wikipedia)</a>
 
-<a href="https://en.wikipedia.org/wiki/Domain_(software_engineering)" target="_blank">Domain (software engineering) (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Domain_(software_engineering)" target="_blank">Domain (software engineering) (Wikipedia)</a> <a href="https://web.archive.org/web/20150320040837/https://en.wikipedia.org/wiki/Domain_(software_engineering)" target="_blank">(archived 2015-03-20)</a>
 
 > a field of study that defines a set of common requirements, terminology, and functionality for any software program constructed to solve a problem in the area of computer programming, known as domain engineering
 
@@ -54,11 +54,11 @@ All domains have a [scope](./scope.md).
 
 > the entire process of reusing domain knowledge in the production of new software systems
 
-<a href="https://en.wikipedia.org/wiki/Domain_(mathematical_analysis)" target="_blank">Domain (mathematical analysis) (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Domain_(mathematical_analysis)" target="_blank">Domain (mathematical analysis) (Wikipedia)</a> <a href="https://web.archive.org/web/20150321204042/https://en.wikipedia.org/wiki/Domain_(mathematical_analysis)" target="_blank">(archived 2015-03-21)</a>
 
 > a domain is any connected open subset of a finite-dimensional vector space
 
-<a href="https://en.wikipedia.org/wiki/Domain_(biology)" target="_blank">Domain (biology) (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Domain_(biology)" target="_blank">Domain (biology) (Wikipedia)</a> <a href="https://web.archive.org/web/20150112200311/https://en.wikipedia.org/wiki/Domain_(biology)" target="_blank">(archived 2015-01-12)</a>
 
 > In biological taxonomy, a domain (also superregnum, superkingdom, empire, or regio) is the highest taxonomic rank of organisms in the three-domain system of taxonomy designed by Carl Woese, an American microbiologist and biophysicist.
 

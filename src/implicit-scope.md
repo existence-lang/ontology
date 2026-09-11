@@ -12,7 +12,7 @@ This implies a non-obvious [contextual](./context.md), often based on who expres
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/implicit" target="_blank">implicit (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/implicit" target="_blank">implicit (wiktionary)</a> <a href="https://web.archive.org/web/20150508231259/http://en.wiktionary.org/wiki/implicit" target="_blank">(archived 2015-05-08)</a>
 
 > ### Adjective
 
@@ -22,7 +22,7 @@ This implies a non-obvious [contextual](./context.md), often based on who expres
 
 > Having no reservations or doubts; unquestioning or unconditional; usually said of faith or trust.
 
-<a href="http://en.wiktionary.org/wiki/scope" target="_blank">scope (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/scope" target="_blank">scope (wiktionary)</a> <a href="https://web.archive.org/web/20150221114818/http://en.wiktionary.org/wiki/scope" target="_blank">(archived 2015-02-21)</a>
 
 > ### Noun
 

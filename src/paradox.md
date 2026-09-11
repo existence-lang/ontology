@@ -34,7 +34,7 @@ A paradox is an invitation to explore the [concept](./concept.md) to [expand con
 
 > (uncountable, psychotherapy) The practice of giving instructions that are opposed to the therapist's actual intent, with the intention that the client will disobey or be unable to obey.
 
-<a href="https://en.wikipedia.org/wiki/Paradox" target="_blank">Paradox (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Paradox" target="_blank">Paradox (Wikipedia)</a> <a href="https://web.archive.org/web/20150102022357/https://en.wikipedia.org/wiki/Paradox" target="_blank">(archived 2015-01-02)</a>
 
 > A paradox is a statement that apparently contradicts itself and yet might be true. Most logical paradoxes are known to be invalid arguments but are still valuable in promoting critical thinking.
 

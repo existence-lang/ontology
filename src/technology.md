@@ -12,7 +12,7 @@ Technology matters because it extends the capabilities of [entities](./entity.md
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/technology" target="_blank">technology (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/technology" target="_blank">technology (wiktionary)</a> <a href="https://web.archive.org/web/20150204210112/http://en.wiktionary.org/wiki/technology" target="_blank">(archived 2015-02-04)</a>
 
 > ### Noun
 

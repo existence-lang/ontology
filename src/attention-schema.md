@@ -12,7 +12,7 @@ The Attention Schema matters because it determines what an [entity](./entity.md)
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/attention" target="_blank">attention (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/attention" target="_blank">attention (wiktionary)</a> <a href="https://web.archive.org/web/20150312214021/http://en.wiktionary.org/wiki/attention" target="_blank">(archived 2015-03-12)</a>
 
 > ### Noun
 
@@ -22,7 +22,7 @@ The Attention Schema matters because it determines what an [entity](./entity.md)
 
 > (uncountable, military) A state of alertness in the standing position. "The company will now come to attention."
 
-<a href="http://en.wiktionary.org/wiki/schema" target="_blank">schema (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/schema" target="_blank">schema (wiktionary)</a> <a href="https://web.archive.org/web/20140808054246/http://en.wiktionary.org/wiki/schema" target="_blank">(archived 2014-08-08)</a>
 
 > ### Noun
 
@@ -38,7 +38,7 @@ Michael Graziano has a model of the Attention Schema regarding symbolic [definit
 
 <a href="http://www.princeton.edu/~graziano/Consciousness_Research.html" target="_blank">The Attention Schema Theory (princeton.edu)</a>
 
-<a href="http://www.nytimes.com/2014/10/12/opinion/sunday/are-we-really-conscious.html" target="_blank">Are We Really Conscious?  (nytimes.com)</a>
+<a href="http://web.archive.org/web/20250121090728/https://www.nytimes.com/2014/10/12/opinion/sunday/are-we-really-conscious.html" target="_blank">Are We Really Conscious?  (nytimes.com)</a>
 
 <a href="http://selfawarepatterns.com/2014/10/16/the-attention-schema-theory-of-consciousness-deserves-your-attention/" target="_blank">The attention schema theory of consciousness deserves your…attention (selfawarepatterns.com)</a>
 

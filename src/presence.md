@@ -12,7 +12,7 @@ Presence matters because it determines the quality of an [entity's](./entity.md)
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/presence" target="_blank">presence (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/presence" target="_blank">presence (wiktionary)</a> <a href="https://web.archive.org/web/20150326151323/http://en.wiktionary.org/wiki/presence" target="_blank">(archived 2015-03-26)</a>
 
 > ### Noun
 
@@ -28,7 +28,7 @@ Presence matters because it determines the quality of an [entity's](./entity.md)
 
 > The state of being closely focused on the here and now, not distracted by irrelevant thoughts
 
-<a href="http://en.wikipedia.org/wiki/Metaphysics_of_presence" target="_blank">Metaphysics of Presence (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Metaphysics_of_presence" target="_blank">Metaphysics of Presence (Wikipedia)</a> <a href="https://web.archive.org/web/20150227153830/http://en.wikipedia.org/wiki/Metaphysics_of_presence" target="_blank">(archived 2015-02-27)</a>
 
 > presence as in a "now" and also a presence as in an eternal, always present, as one might associate with God or the "eternal" laws of science
 

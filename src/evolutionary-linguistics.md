@@ -36,17 +36,17 @@ See [linguistics](./linguistics.md).
 
 > (dance, sports) A turning movement of the body.
 
-<a href="http://en.wiktionary.org/wiki/linguistics" target="_blank">linguistics (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/linguistics" target="_blank">linguistics (wiktionary)</a> <a href="https://web.archive.org/web/20150215020442/http://en.wiktionary.org/wiki/linguistics" target="_blank">(archived 2015-02-15)</a>
 
 > ### Noun
 
 > The scientific study of language.
 
-<a href="http://en.wikipedia.org/wiki/Evolutionary_linguistics" target="_blank">Evolutionary Linguistics (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Evolutionary_linguistics" target="_blank">Evolutionary Linguistics (Wikipedia)</a> <a href="https://web.archive.org/web/20150322010354/http://en.wikipedia.org/wiki/Evolutionary_linguistics" target="_blank">(archived 2015-03-22)</a>
 
 > Evolutionary linguistics is a cover term for the scientific study of both the origins and development of language as well as the cultural evolution of languages. The main challenge in this research is the lack of empirical data: spoken language leaves practically no traces. This led to an abandonment of the field for more than a century. Since the late 1980s, the field has been revived in the wake of progress made in the related fields of psycholinguistics, neurolinguistics, evolutionary anthropology, evolutionary psychology, and cognitive science.
 
-### <a href="http://www.colorado.edu/linguistics/CRIL/Volume20_Issue1/paper_STEBBINS.pdf" target="_blank">The Evolution of Evolutionary Linguistics</a>
+### <a href="https://journals.colorado.edu/index.php/cril/article/view/279" target="_blank">The Evolution of Evolutionary Linguistics</a>
 
 Western scholarly culture has a difficult time defining the [type](./type.md) of study which is Evolutionary Linguistics because there is much segmentation & specialization. In response, western scholarly culture created Evolutionary Linguistics.
 

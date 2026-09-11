@@ -22,7 +22,7 @@ An Implicit Philosophy is analogous to a neural network. Neural Networks have ob
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/philosophy" target="_blank">philosophy (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/philosophy" target="_blank">philosophy (wiktionary)</a> <a href="https://web.archive.org/web/20150215024302/http://en.wiktionary.org/wiki/philosophy" target="_blank">(archived 2015-02-15)</a>
 
 > ### Noun
 
@@ -38,7 +38,7 @@ An Implicit Philosophy is analogous to a neural network. Neural Networks have ob
 
 > (archaic) A broader branch of (non-applied) science.
 
-<a href="https://en.wikipedia.org/wiki/Philosophy" target="_blank">Philosophy (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Philosophy" target="_blank">Philosophy (Wikipedia)</a> <a href="https://web.archive.org/web/20150101031126/https://en.wikipedia.org/wiki/Philosophy" target="_blank">(archived 2015-01-01)</a>
 
 > the study of general and fundamental problems, such as those connected with reality, existence, knowledge, values, reason, mind, and language
 

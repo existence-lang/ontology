@@ -24,7 +24,7 @@ Ontology matters because it establishes the foundational categories of [Existenc
 
 > (computer science, information science) A structure of concepts or entities within a domain, organized by relationships; a system model.
 
-<a href="http://en.wikipedia.org/wiki/Ontology" target="_blank">Ontology (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Ontology" target="_blank">Ontology (Wikipedia)</a> <a href="https://web.archive.org/web/20150101091503/http://en.wikipedia.org/wiki/Ontology" target="_blank">(archived 2015-01-01)</a>
 
 > Ontology is the philosophical study of the nature of being, becoming, existence, or reality, as well as the basic categories of being and their relations. Traditionally listed as a part of the major branch of philosophy known as metaphysics, ontology deals with questions concerning what entities exist or can be said to exist, and how such entities can be grouped, related within a hierarchy, and subdivided according to similarities and differences.
 

@@ -18,7 +18,7 @@ Faith motivates entities to be creative toward the well being of the containing 
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/faith" target="_blank">faith (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/faith" target="_blank">faith (wiktionary)</a> <a href="https://web.archive.org/web/20150315221211/http://en.wiktionary.org/wiki/faith" target="_blank">(archived 2015-03-15)</a>
 
 > ### Noun
 
@@ -32,7 +32,7 @@ Faith motivates entities to be creative toward the well being of the containing 
 
 > (obsolete) Credibility or truth.
 
-<a href="http://en.wikipedia.org/wiki/Faith" target="_blank">Faith (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Faith" target="_blank">Faith (Wikipedia)</a> <a href="https://web.archive.org/web/20150102221605/http://en.wikipedia.org/wiki/Faith" target="_blank">(archived 2015-01-02)</a>
 
 > Faith is defined as confidence or trust in a being, object, living organism, deity, view, or in the doctrines or teachings of a religion, as well as confidence based on no scientific, plausible, testable, demonstrable evidence whatsoever. The word faith is often[quantify] used as a synonym for hope, for trust, or for belief.
 

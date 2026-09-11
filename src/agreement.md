@@ -14,7 +14,7 @@ Agreement is essential for [coherence](./coherence.md) among [entities](./entity
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/agree" target="_blank">agree (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/agree" target="_blank">agree (wiktionary)</a> <a href="https://web.archive.org/web/20150104064627/http://en.wiktionary.org/wiki/agree" target="_blank">(archived 2015-01-04)</a>
 
 > (intransitive) To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur. "all parties agree in the expediency of the law."
 
@@ -32,7 +32,7 @@ Agreement is essential for [coherence](./coherence.md) among [entities](./entity
 
 > (intransitive, law) To consent to a contract or to an element of a contract.
 
-<a href="http://en.wikipedia.org/wiki/Agreement" target="_blank">Agreement (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Agreement" target="_blank">Agreement (Wikipedia)</a> <a href="https://web.archive.org/web/20150819160802/http://en.wikipedia.org/wiki/Agreement" target="_blank">(archived 2015-08-19)</a>
 
 > Agreement may refer to:
 

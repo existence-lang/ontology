@@ -40,7 +40,7 @@ Being [aware](./awareness.md) of other realities has the quality to allows an en
 
 > An individual observer's own subjective perception of that which is real.
 
-<a href="https://en.wikipedia.org/wiki/Reality" target="_blank">Reality (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Reality" target="_blank">Reality (Wikipedia)</a> <a href="https://web.archive.org/web/20150101091351/https://en.wikipedia.org/wiki/Reality" target="_blank">(archived 2015-01-01)</a>
 
 > Reality is the conjectured state of things as they actually exist, rather than as they may appear or might be imagined. In a wider definition, reality includes everything that is and has been, whether or not it is observable or comprehensible. A still more broad definition includes everything that has existed, exists, or will exist.
 

@@ -33,7 +33,7 @@ Fractal deep dives display the depth & diversity of a fractal.
 
 ### Cosmic Scale
 
-<a href="http://cosmicscale.appspot.com/index.html" target="_blank">
+<a href="http://web.archive.org/web/20150623010707/http://cosmicscale.appspot.com:80/index.html" target="_blank">
 The Cosmic Scale</a>
 
 ## [Epistemology](./epistemology.md)

@@ -32,7 +32,7 @@ Science is applicable to [physical](./physical-system.md) and [conceptual](./con
 
 > (uncountable) The scientific community.
 
-<a href="https://en.wikipedia.org/wiki/Science" target="_blank">Science (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Science" target="_blank">Science (Wikipedia)</a> <a href="https://web.archive.org/web/20150101200603/https://en.wikipedia.org/wiki/Science" target="_blank">(archived 2015-01-01)</a>
 
 > a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe
 

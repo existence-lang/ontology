@@ -12,7 +12,7 @@ Collectives matter because they enable [entities](./entity.md) to achieve outcom
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/collective" target="_blank">collective (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/collective" target="_blank">collective (wiktionary)</a> <a href="https://web.archive.org/web/20150406122755/http://en.wiktionary.org/wiki/collective" target="_blank">(archived 2015-04-06)</a>
 
 > ### Adjective (not comparable)
 

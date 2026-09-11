@@ -30,11 +30,11 @@ History and [story](./story.md) are synonymous. One can say History of the Earth
 
 > (informal) Something that no longer exists or is no longer relevant. "I told him that if he doesn't get his act together, he's history."
 
-<a href="https://en.wikipedia.org/wiki/History" target="_blank">History (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/History" target="_blank">History (Wikipedia)</a> <a href="https://web.archive.org/web/20150107223120/https://en.wikipedia.org/wiki/History" target="_blank">(archived 2015-01-07)</a>
 
 > History (from Greek ἱστορία, historia, meaning "inquiry, knowledge acquired by investigation") is the study of the past, particularly how it relates to humans. It is an umbrella term that relates to past events as well as the memory, discovery, collection, organization, presentation, and interpretation of information about these events. Scholars who write about history are called historians. Events occurring prior to written record are considered prehistory.
 
-<a href="https://en.wikipedia.org/wiki/Herstory" target="_blank">Herstory (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Herstory" target="_blank">Herstory (Wikipedia)</a> <a href="https://web.archive.org/web/20150324085234/https://en.wikipedia.org/wiki/Herstory" target="_blank">(archived 2015-03-24)</a>
 
 > Herstory is history written from a feminist perspective, emphasizing the role of women, or told from a woman's point of view. It is a neologism coined in the late 1960s as part of a feminist critique of conventional historiography, with the word "history" reinterpreted, using a false etymology, as "his story." (The word "history"—from the Ancient Greek ἱστορία, or historia, meaning "knowledge obtained by inquiry"—is etymologically unrelated to the possessive pronoun his.)
 

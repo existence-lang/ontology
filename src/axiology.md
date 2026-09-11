@@ -12,7 +12,7 @@ Axiology matters because all action, judgment, and prioritization derive from va
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/axiology" target="_blank">axiology (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/axiology" target="_blank">axiology (wiktionary)</a> <a href="https://web.archive.org/web/20150512060835/http://en.wiktionary.org/wiki/axiology" target="_blank">(archived 2015-05-12)</a>
 
 > ### Noun
 
@@ -20,7 +20,7 @@ Axiology matters because all action, judgment, and prioritization derive from va
 
 > (countable) The particular value theory of a philosopher, school of thought, etc. "In his axiology, G. E. Moore maintains that "good" is the name of a simple, indefinable quality."
 
-<a href="http://en.wikipedia.org/wiki/Axiology" target="_blank">Axiology (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Axiology" target="_blank">Axiology (Wikipedia)</a> <a href="https://web.archive.org/web/20150214212949/http://en.wikipedia.org/wiki/Axiology" target="_blank">(archived 2015-02-14)</a>
 
 > Axiology (from Greek ἀξίᾱ, axiā, "value, worth"; and -λόγος, -logos) is the philosophical study of value. It is either the collective term for ethics and aesthetics—philosophical fields that depend crucially on notions of value—or the foundation for these fields, and thus similar to value theory and meta-ethics.
 

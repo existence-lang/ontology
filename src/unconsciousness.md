@@ -20,7 +20,7 @@ Consciousness is the [Entity's](./entity.md) ability to interpret relevant signa
 
 > ignorance or innocence; the state of being uninformed or unaware
 
-<a href="https://en.wikipedia.org/wiki/Consciousness" target="_blank">Consciousness (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Consciousness" target="_blank">Consciousness (Wikipedia)</a> <a href="https://web.archive.org/web/20150101231231/https://en.wikipedia.org/wiki/Consciousness" target="_blank">(archived 2015-01-01)</a>
 
 ### [Pattern](./pattern.md) Expression
 

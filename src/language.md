@@ -12,7 +12,7 @@ The existence of an Entity involves the Entity communicating it's existence usin
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/language" target="_blank">language (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/language" target="_blank">language (wiktionary)</a> <a href="https://web.archive.org/web/20150102011519/http://en.wiktionary.org/wiki/language" target="_blank">(archived 2015-01-02)</a>
 
 > ### Noun
 
@@ -32,7 +32,7 @@ The existence of an Entity involves the Entity communicating it's existence usin
 
 > Spoken or written words.
 
-<a href="https://en.wikipedia.org/wiki/Language" target="_blank">Language (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Language" target="_blank">Language (Wikipedia)</a> <a href="https://web.archive.org/web/20150101031507/https://en.wikipedia.org/wiki/Language" target="_blank">(archived 2015-01-01)</a>
 
 > Language is the human ability to acquire and use complex systems of communication, and a language is any specific example of such a system. The scientific study of language is called linguistics.
 

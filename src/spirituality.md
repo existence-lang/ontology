@@ -20,7 +20,7 @@ Spirituality is often accompanied with a zen feeling of peace. A being in "the z
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/spirituality" target="_blank">spirituality (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/spirituality" target="_blank">spirituality (wiktionary)</a> <a href="https://web.archive.org/web/20140813150111/http://en.wiktionary.org/wiki/spirituality" target="_blank">(archived 2014-08-13)</a>
 
 > ### Noun
 

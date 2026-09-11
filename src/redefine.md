@@ -44,7 +44,7 @@ The Precision Context involves creating the precise Attention Schema by using co
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/redefine" target="_blank">redefine (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/redefine" target="_blank">redefine (wiktionary)</a> <a href="https://web.archive.org/web/20150226214837/http://en.wiktionary.org/wiki/redefine" target="_blank">(archived 2015-02-26)</a>
 
 > ### Verb
 

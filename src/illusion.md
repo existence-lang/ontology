@@ -12,7 +12,7 @@ Illusion is the distortion caused by the one's [perspective](./perspective.md) w
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/illusion" target="_blank">illusion (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/illusion" target="_blank">illusion (wiktionary)</a> <a href="https://web.archive.org/web/20150217025441/http://en.wiktionary.org/wiki/illusion" target="_blank">(archived 2015-02-17)</a>
 
 > ### Noun
 

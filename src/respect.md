@@ -12,7 +12,7 @@ Respect involves an [entity](./entity.md) **a** showing regard for another entit
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/respect" target="_blank">respect (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/respect" target="_blank">respect (wiktionary)</a> <a href="https://web.archive.org/web/20150307020104/http://en.wiktionary.org/wiki/respect" target="_blank">(archived 2015-03-07)</a>
 
 > ### Noun
 
@@ -24,7 +24,7 @@ Respect involves an [entity](./entity.md) **a** showing regard for another entit
 
 > (countable) a particular aspect of something "This year's model is superior to last year's in several respects."
 
-<a href="http://en.wikipedia.org/wiki/Respect" target="_blank">Respect (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Respect" target="_blank">Respect (Wikipedia)</a> <a href="https://web.archive.org/web/20150201071314/http://en.wikipedia.org/wiki/Respect" target="_blank">(archived 2015-02-01)</a>
 
 > Respect is a positive feeling of esteem or deference for a person or other entity (such as a nation or a religion), and also specific actions and conduct representative of that esteem. Respect can be a specific feeling of regard for the actual qualities of the one respected (e.g., "I have great respect for her judgment"). It can also be conduct in accord with a specific ethic of respect.
 

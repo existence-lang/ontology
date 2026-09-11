@@ -14,7 +14,7 @@ Concepts matter because they are the building blocks of all non-physical reasoni
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/concept" target="_blank">concept (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/concept" target="_blank">concept (wiktionary)</a> <a href="https://web.archive.org/web/20150313100443/http://en.wiktionary.org/wiki/concept" target="_blank">(archived 2015-03-13)</a>
 
 > ### Noun
 

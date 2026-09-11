@@ -14,7 +14,7 @@ A precise step-by-step plan for a procedure that possibly begins with an input v
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/algorithm" target="_blank">algorithm (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/algorithm" target="_blank">algorithm (wiktionary)</a> <a href="https://web.archive.org/web/20150104064758/http://en.wiktionary.org/wiki/algorithm" target="_blank">(archived 2015-01-04)</a>
 
 > ### Noun
 

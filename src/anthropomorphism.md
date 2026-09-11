@@ -12,7 +12,7 @@ Anthropomorphism matters because it reveals how [entities](./entity.md) project 
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/anthropomorphism" target="_blank">anthropomorphism (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/anthropomorphism" target="_blank">anthropomorphism (wiktionary)</a> <a href="https://web.archive.org/web/20150226205049/http://en.wiktionary.org/wiki/anthropomorphism" target="_blank">(archived 2015-02-26)</a>
 
 > ### Noun
 
@@ -20,7 +20,7 @@ Anthropomorphism matters because it reveals how [entities](./entity.md) project 
 
 > (theology) the attribution of human characteristics to divine beings
 
-<a href="https://en.wikipedia.org/wiki/Anthropomorphism" target="_blank">Anthropomorphism (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Anthropomorphism" target="_blank">Anthropomorphism (Wikipedia)</a> <a href="https://web.archive.org/web/20150107231358/https://en.wikipedia.org/wiki/Anthropomorphism" target="_blank">(archived 2015-01-07)</a>
 
 > attribution of human form or other characteristics to anything other than a human being
 

@@ -38,7 +38,7 @@ When [souls](./soul.md) connect, there's a notion of co-[evolution](./evolution.
 
 > An individual life. "Fifty souls were lost when the ship sank."
 
-<a href="https://en.wikipedia.org/wiki/Soul" target="_blank">Soul (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Soul" target="_blank">Soul (Wikipedia)</a> <a href="https://web.archive.org/web/20150107214517/https://en.wikipedia.org/wiki/Soul" target="_blank">(archived 2015-01-07)</a>
 
 > The soul, in many religious, philosophical and mythological traditions, is the incorporeal and, in many conceptions, immortal essence of a living thing.
 

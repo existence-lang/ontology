@@ -24,13 +24,13 @@ Compassion matters because it is the bridge that connects [entities](./entity.md
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/compassion" target="_blank">compassion (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/compassion" target="_blank">compassion (wiktionary)</a> <a href="https://web.archive.org/web/20150221133611/http://en.wiktionary.org/wiki/compassion" target="_blank">(archived 2015-02-21)</a>
 
 > ### Noun
 
 > Deep awareness of the suffering of another, coupled with the wish to relieve it
 
-<a href="http://en.wikipedia.org/wiki/Compassion" target="_blank">Compassion (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Compassion" target="_blank">Compassion (Wikipedia)</a> <a href="https://web.archive.org/web/20150110233540/http://en.wikipedia.org/wiki/Compassion" target="_blank">(archived 2015-01-10)</a>
 
 > Compassion is the emotion that one feels in response to the suffering of others that motivates a desire to help.
 

@@ -36,7 +36,7 @@ Any of the five traditionally accepted senses may directly observe patterns. [Ab
 >     A particular sequence of events, facts etc. which can be understood, used to predict the future, or seen to have a mathematical, geometric, statistical etc. relationship. [from 19th c.]
 >     (linguistics) An intelligible arrangement in a given area of language.
 
-<a href="https://en.wikipedia.org/wiki/Pattern" target="_blank">Pattern (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Pattern" target="_blank">Pattern (Wikipedia)</a> <a href="https://web.archive.org/web/20150108194217/https://en.wikipedia.org/wiki/Pattern" target="_blank">(archived 2015-01-08)</a>
 
 > A pattern, apart from the term's use to mean "Template", is a discernible regularity in the world or in a manmade design. As such, the elements of a pattern repeat in a predictable manner. A geometric pattern is a kind of pattern formed of geometric shapes and typically repeating like a wallpaper.
 

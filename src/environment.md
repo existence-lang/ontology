@@ -12,7 +12,7 @@ Environment matters because it provides the [context](./context.md) in which eve
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/environment" target="_blank">environment (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/environment" target="_blank">environment (wiktionary)</a> <a href="https://web.archive.org/web/20150118225408/http://en.wiktionary.org/wiki/environment" target="_blank">(archived 2015-01-18)</a>
 
 > ### Noun
 

@@ -12,7 +12,7 @@ State matters because it is the basis for all observation, comparison, and [evol
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/state" target="_blank">state (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/state" target="_blank">state (wiktionary)</a> <a href="https://web.archive.org/web/20150319062119/http://en.wiktionary.org/wiki/state" target="_blank">(archived 2015-03-19)</a>
 
 > ### Noun
 
@@ -42,7 +42,7 @@ State matters because it is the basis for all observation, comparison, and [evol
 
 > (mathematics, stochastic processes) An element of the range of the random variables that define a random process.
 
-<a href="https://en.wikipedia.org/wiki/State" target="_blank">State (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/State" target="_blank">State (Wikipedia)</a> <a href="https://web.archive.org/web/20150101234035/https://en.wikipedia.org/wiki/State" target="_blank">(archived 2015-01-01)</a>
 
 > State commonly refers to either the present condition of a system or entity, or to a governed entity (such as a country) or sub-entity (such as an autonomous territory of a country).
 

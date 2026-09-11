@@ -12,7 +12,7 @@ Coherence increases the [Intelligence](./intelligence.md), efficiency, & capabil
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/coherence" target="_blank">coherence (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/coherence" target="_blank">coherence (wiktionary)</a> <a href="https://web.archive.org/web/20150107114547/http://en.wiktionary.org/wiki/coherence" target="_blank">(archived 2015-01-07)</a>
 
 > ### Noun
 
@@ -24,7 +24,7 @@ Coherence increases the [Intelligence](./intelligence.md), efficiency, & capabil
 
 > (linguistics) Semantic relationship between different parts of the same text.
 
-<a href="https://en.wikipedia.org/wiki/Coherence_(physics)" target="_blank">Coherence (Physics) (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Coherence_(physics)" target="_blank">Coherence (Physics) (Wikipedia)</a> <a href="https://web.archive.org/web/20150112192907/https://en.wikipedia.org/wiki/Coherence_(physics)" target="_blank">(archived 2015-01-12)</a>
 
 > Spatial coherence describes the correlation between waves at different points in space. Temporal coherence describes the correlation or predictable relationship between waves observed at different moments in time.
 

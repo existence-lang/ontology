@@ -14,7 +14,7 @@ Intentional [violence](./violence.md) tends to stem from a disagreement.
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/disagree" target="_blank">disagree (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/disagree" target="_blank">disagree (wiktionary)</a> <a href="https://web.archive.org/web/20150319024936/http://en.wiktionary.org/wiki/disagree" target="_blank">(archived 2015-03-19)</a>
 
 > ### Verb
 

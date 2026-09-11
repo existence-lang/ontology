@@ -28,7 +28,7 @@ Physical Existence is often represented by [models](./model.md) that reside in [
 
 > Empirical reality; the substance of the physical universe. (Dictionary of Philosophy; 1968)
 
-<a href="https://en.wikipedia.org/wiki/Physical_system" target="_blank">Physical System (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Physical_system" target="_blank">Physical System (Wikipedia)</a> <a href="https://web.archive.org/web/20150102125412/https://en.wikipedia.org/wiki/Physical_system" target="_blank">(archived 2015-01-02)</a>
 
 > In physics, a physical system is a portion of the physical universe chosen for analysis. Everything outside the system is known as the environment.
 

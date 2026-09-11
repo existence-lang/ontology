@@ -20,7 +20,7 @@ Ethics matters because it provides the framework for right conduct within any [b
 
 > The standards that govern the conduct of a person, especially a member of a profession.
 
-<a href="http://en.wikipedia.org/wiki/Ethics" target="_blank">Ethics (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Ethics" target="_blank">Ethics (Wikipedia)</a> <a href="https://web.archive.org/web/20150102010702/http://en.wikipedia.org/wiki/Ethics" target="_blank">(archived 2015-01-02)</a>
 
 > Ethics, sometimes known as moral philosophy, is a branch of philosophy that involves systematizing, defending and recommending concepts of right and wrong conduct, often addressing disputes of moral diversity. The term comes from the Greek word ἠθικός ethikos from ἦθος ethos, which means "custom, habit".
 

@@ -12,7 +12,7 @@ Energy matters because it is the capacity for change and work in all [systems](.
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/energy" target="_blank">energy (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/energy" target="_blank">energy (wiktionary)</a> <a href="https://web.archive.org/web/20150108195224/http://en.wiktionary.org/wiki/energy" target="_blank">(archived 2015-01-08)</a>
 
 > ### Noun
 

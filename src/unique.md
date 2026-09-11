@@ -20,7 +20,7 @@ All events are unique as they occur in a unique time & place.
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/unique" target="_blank">unique (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/unique" target="_blank">unique (wiktionary)</a> <a href="https://web.archive.org/web/20150314214413/http://en.wiktionary.org/wiki/unique" target="_blank">(archived 2015-03-14)</a>
 
 > ### Adjective (comparative more unique, superlative most unique)
 

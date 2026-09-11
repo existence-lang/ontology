@@ -12,7 +12,7 @@ Belief matters because it is the substrate of action and self-definition. What a
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/belief" target="_blank">belief (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/belief" target="_blank">belief (wiktionary)</a> <a href="https://web.archive.org/web/20150104011028/http://en.wiktionary.org/wiki/belief" target="_blank">(archived 2015-01-04)</a>
 
 > ### Noun
 
@@ -28,7 +28,7 @@ Belief matters because it is the substrate of action and self-definition. What a
 
 > (in the plural) One's religious or moral convictions. "I can't do that. It's against my beliefs."
 
-<a href="http://en.wikipedia.org/wiki/Belief" target="_blank">Belief (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Belief" target="_blank">Belief (Wikipedia)</a> <a href="https://web.archive.org/web/20150101091331/http://en.wikipedia.org/wiki/Belief" target="_blank">(archived 2015-01-01)</a>
 
 > Generally speaking, a belief is a mental representation of a sentient being's attitude toward the likelihood or truth of something.
 

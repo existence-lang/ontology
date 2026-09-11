@@ -14,7 +14,7 @@ Being matters because it names the most fundamental fact of [Existence](./existe
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/being" target="_blank">being (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/being" target="_blank">being (wiktionary)</a> <a href="https://web.archive.org/web/20150112110641/http://en.wiktionary.org/wiki/being" target="_blank">(archived 2015-01-12)</a>
 
 > ### Verb
 
@@ -30,7 +30,7 @@ Being matters because it names the most fundamental fact of [Existence](./existe
 
 > (philosophy) One's basic nature, or the qualities thereof; essence or personality.
 
-<a href="https://en.wikipedia.org/wiki/Being" target="_blank">Being (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Being" target="_blank">Being (Wikipedia)</a> <a href="https://web.archive.org/web/20150113094655/https://en.wikipedia.org/wiki/Being" target="_blank">(archived 2015-01-13)</a>
 
 > Being is an extremely broad concept encompassing objective and subjective features of reality and existence. Anything that partakes in being is also called a "being", though often this use is limited to entities that have subjectivity (as in the expression "human being"). So broad a notion has inevitably been elusive and controversial in the history of philosophy, beginning in western philosophy with attempts among the pre-Socratics to deploy it intelligibly.
 

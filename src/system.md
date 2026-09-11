@@ -34,7 +34,7 @@ A system is an [Entity](./entity.md).
 
 >     (derogatory) In the system: the mainstream culture, elites, or government of a state, or a combination of them, seen as oppressive to the individual.
 
-<a href="https://en.wikipedia.org/wiki/System" target="_blank">System (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/System" target="_blank">System (Wikipedia)</a> <a href="https://web.archive.org/web/20150109151259/https://en.wikipedia.org/wiki/System" target="_blank">(archived 2015-01-09)</a>
 
 > A system is a set of interacting or interdependent components forming an integrated whole.
 

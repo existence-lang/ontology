@@ -16,11 +16,11 @@ Most platforms only instrument the phenomenal layer. This is necessary but insuf
 
 ### [Cultural](./culture.md) Definition
 
-> <a href="https://en.wiktionary.org/wiki/phenomenon" target="_blank">Wiktionary</a>: An observable event or occurrence. Plural: phenomena.
+> <a href="https://en.wiktionary.org/wiki/phenomenon" target="_blank">Wiktionary</a>: A thing or being, event or process, perceptible through senses; or a fact or occurrence thereof.
 
-> <a href="https://en.wikipedia.org/wiki/Phenomenon" target="_blank">Wikipedia</a>: A phenomenon is an observable event. In philosophical usage, the term came to mean an object as it appears to, or is constructed by, the mind, as distinguished from a noumenon, the thing-in-itself.
+> <a href="https://en.wikipedia.org/wiki/Phenomenon" target="_blank">Wikipedia</a>: A phenomenon, sometimes spelled phaenomenon, is an observable event.
 
-> <a href="https://www.etymonline.com/word/phenomenon" target="_blank">Etymonline</a>: From Greek phainomenon "that which appears or is seen," from phainesthai "to appear."
+> <a href="https://www.etymonline.com/word/phenomenon" target="_blank">Etymonline</a>: 1570s, "a fact directly observed, a thing that appears or is perceived, an occurrence," especially a regular kind of fact observed on certain kinds of occasions, from Late Latin phænomenon, from Greek phainomenon "that which appears or is seen," noun use of neuter present participle of phainesthai "to appear"
 
 ### [Pattern](./pattern.md) Expression
 

@@ -16,7 +16,7 @@ Treating a system as contextual is what makes [definitions](./definition.md) usa
 
 > (philosophy) Any of a group of doctrines that stress the importance of context
 
-<a href="https://en.wikipedia.org/wiki/Contextualism" target="_blank">Contextualism (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Contextualism" target="_blank">Contextualism (Wikipedia)</a> <a href="https://web.archive.org/web/20150102042025/https://en.wikipedia.org/wiki/Contextualism" target="_blank">(archived 2015-01-02)</a>
 
 > Contextualism describes a collection of views in philosophy which emphasize the context in which an action, utterance, or expression occurs, and argues that, in some important respect, the action, utterance, or expression can only be understood relative to that context. Contextualist views hold that philosophically controversial concepts, such as "meaning P", "knowing that P", "having a reason to A", and possibly even "being true" or "being right" only have meaning relative to a specified context. Some philosophers hold that context-dependence may lead to relativism; nevertheless, contextualist views are increasingly popular within philosophy.
 

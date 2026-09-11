@@ -16,7 +16,7 @@ Since communication affects other entities in constructive & destructive ways, t
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/communicate" target="_blank">communicate (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/communicate" target="_blank">communicate (wiktionary)</a> <a href="https://web.archive.org/web/20150222131447/http://en.wiktionary.org/wiki/communicate" target="_blank">(archived 2015-02-22)</a>
 
 > ### Verb (third-person singular simple present communicates, present participle communicating, simple past and past participle communicated)
 
@@ -40,7 +40,7 @@ Since communication affects other entities in constructive & destructive ways, t
 
 >     (intransitive) To be connected with (another room, vessel etc.) by means of an opening or channel. [from 16th c.] "The living room communicates with the back garden by these French windows."
 
-<a href="http://en.wiktionary.org/wiki/communication" target="_blank">communication (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/communication" target="_blank">communication (wiktionary)</a> <a href="https://web.archive.org/web/20150214062428/http://en.wiktionary.org/wiki/communication" target="_blank">(archived 2015-02-14)</a>
 
 > ### Noun
 

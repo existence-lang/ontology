@@ -14,7 +14,7 @@ Entity is the most fundamental unit of discourse in this [ontology](./ontology.m
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/entity" target="_blank">entity (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/entity" target="_blank">entity (wiktionary)</a> <a href="https://web.archive.org/web/20150118090017/http://en.wiktionary.org/wiki/entity" target="_blank">(archived 2015-01-18)</a>
 
 > ### Noun
 
@@ -26,7 +26,7 @@ Entity is the most fundamental unit of discourse in this [ontology](./ontology.m
 
 > The state or quality of being or existence. "The group successfully maintains its tribal entity."
 
-<a href="https://en.wikipedia.org/wiki/Entity" target="_blank">Entity (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Entity" target="_blank">Entity (Wikipedia)</a> <a href="https://web.archive.org/web/20150105051200/https://en.wikipedia.org/wiki/Entity" target="_blank">(archived 2015-01-05)</a>
 
 > An entity is something that exists in itself, actually or potentially, concretely or abstractly, physically or not. It need not be of material existence. In particular, abstractions and legal fictions are usually regarded as entities. In general, there is also no presumption that an entity is animate.
 
@@ -36,19 +36,19 @@ Entity is the most fundamental unit of discourse in this [ontology](./ontology.m
 
 #### [Being](./being.md)
 
-<a href="https://en.wikipedia.org/wiki/Being" target="_blank">Being (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Being" target="_blank">Being (Wikipedia)</a> <a href="https://web.archive.org/web/20150113094655/https://en.wikipedia.org/wiki/Being" target="_blank">(archived 2015-01-13)</a>
 
 A being is an entity.
 
 #### [System](./system.md)
 
-<a href="https://en.wikipedia.org/wiki/System" target="_blank">System (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/System" target="_blank">System (Wikipedia)</a> <a href="https://web.archive.org/web/20150109151259/https://en.wikipedia.org/wiki/System" target="_blank">(archived 2015-01-09)</a>
 
 A system is another way of looking at a being, from an internalized [perspective](./perspective.md).
 
 #### [Soul](./soul.md)
 
-<a href="https://en.wikipedia.org/wiki/Soul" target="_blank">Soul (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Soul" target="_blank">Soul (Wikipedia)</a> <a href="https://web.archive.org/web/20150107214517/https://en.wikipedia.org/wiki/Soul" target="_blank">(archived 2015-01-07)</a>
 
 A Soul is an entity's meta entity.
 
@@ -56,6 +56,6 @@ A Soul is an entity's meta entity.
 
 <a href="https://en.wikipedia.org/wiki/Information" target="_blank">Information (Wikipedia)</a>
 
-<a href="https://en.wikipedia.org/wiki/Physical_information" target="_blank">Physical Information (Wikipedia)</a>
+<a href="http://web.archive.org/web/20210308120600/https://en.wikipedia.org/wiki/Physical_information" target="_blank">Physical Information (Wikipedia)</a>
 
 That which can distinguish one thing from another.

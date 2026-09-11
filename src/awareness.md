@@ -14,7 +14,7 @@ Awareness matters because it is the foundation of [consciousness](./consciousnes
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/awareness" target="_blank">awareness (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/awareness" target="_blank">awareness (wiktionary)</a> <a href="https://web.archive.org/web/20150214221532/http://en.wiktionary.org/wiki/awareness" target="_blank">(archived 2015-02-14)</a>
 
 > ### Noun
 
@@ -22,7 +22,7 @@ Awareness matters because it is the foundation of [consciousness](./consciousnes
 
 > The state or quality of being aware of something "The awareness of one type of idea naturally fosters an awareness of another idea"
 
-<a href="https://en.wikipedia.org/wiki/Awareness" target="_blank">Awareness (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Awareness" target="_blank">Awareness (Wikipedia)</a> <a href="https://web.archive.org/web/20150212010123/https://en.wikipedia.org/wiki/Awareness" target="_blank">(archived 2015-02-12)</a>
 
 > state or ability to perceive, to feel, or to be conscious of events, objects, thoughts, emotions, or sensory patterns
 

@@ -22,7 +22,7 @@ Explicit scope matters because clarity of [scope](./scope.md) prevents misunders
 
 > (obsolete) Used at the conclusion of a book to indicate the end.
 
-<a href="http://en.wiktionary.org/wiki/scope" target="_blank">scope (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/scope" target="_blank">scope (wiktionary)</a> <a href="https://web.archive.org/web/20150221114818/http://en.wiktionary.org/wiki/scope" target="_blank">(archived 2015-02-21)</a>
 
 > ### Noun
 

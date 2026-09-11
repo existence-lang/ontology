@@ -14,7 +14,7 @@ Successional dynamics, disturbances, opportunists, etc.
 
 ### [Cultural](./culture.md) Definition
 
-<a href="https://en.wiktionary.org/wiki/ecosystem" target="_blank">ecosystem (wiktionary)</a>
+<a href="https://en.wiktionary.org/wiki/ecosystem" target="_blank">ecosystem (wiktionary)</a> <a href="https://web.archive.org/web/20150301031716/https://en.wiktionary.org/wiki/ecosystem" target="_blank">(archived 2015-03-01)</a>
 
 > ### Noun
 
@@ -24,7 +24,7 @@ Successional dynamics, disturbances, opportunists, etc.
 
 > (business, marketing) A set of interconnected products and services.
 
-<a href="https://en.wikipedia.org/wiki/Ecosystem" target="_blank">Ecosystem (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Ecosystem" target="_blank">Ecosystem (Wikipedia)</a> <a href="https://web.archive.org/web/20150108153404/https://en.wikipedia.org/wiki/Ecosystem" target="_blank">(archived 2015-01-08)</a>
 
 > An ecosystem is a community of living organisms in conjunction with the nonliving components of their environment (things like air, water and mineral soil), interacting as a system. These biotic and abiotic components are regarded as linked together through nutrient cycles and energy flows. As ecosystems are defined by the network of interactions among organisms, and between organisms and their environment, they can be of any size but usually encompass specific, limited spaces (although some scientists say that the entire planet is an ecosystem).
 

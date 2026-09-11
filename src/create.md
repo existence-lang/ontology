@@ -34,7 +34,7 @@ Creativity matters because it is the process by which [novelty](./novelty.md) en
 
 > The quality or ability to create or invent something. "His creativity is unsurpassed by his fellow students in the art class."
 
-<a href="http://en.wikipedia.org/wiki/Creativity" target="_blank">Creativity (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Creativity" target="_blank">Creativity (Wikipedia)</a> <a href="https://web.archive.org/web/20150111055259/http://en.wikipedia.org/wiki/Creativity" target="_blank">(archived 2015-01-11)</a>
 
 > Creativity is a phenomenon whereby something new and in some way valuable is created (such as an idea, a joke, a literary work, painting or musical composition, a solution, an invention etc).
 

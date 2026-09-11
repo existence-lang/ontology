@@ -12,7 +12,7 @@ Nature matters because it is [Existence](./existence.md) in its unabstracted for
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/nature" target="_blank">nature (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/nature" target="_blank">nature (wiktionary)</a> <a href="https://web.archive.org/web/20150302163747/http://en.wiktionary.org/wiki/nature" target="_blank">(archived 2015-03-02)</a>
 
 > ### Noun
 
@@ -30,7 +30,7 @@ Nature matters because it is [Existence](./existence.md) in its unabstracted for
 
 > (obsolete) Natural affection or reverence.
 
-<a href="http://en.wikipedia.org/wiki/Nature" target="_blank">Nature (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Nature" target="_blank">Nature (Wikipedia)</a> <a href="https://web.archive.org/web/20150114090139/http://en.wikipedia.org/wiki/Nature" target="_blank">(archived 2015-01-14)</a>
 
 > Nature, in the broadest sense, is equivalent to the natural, physical, or material world or universe. "Nature" refers to the phenomena of the physical world, and also to life in general. It ranges in scale from the subatomic to the cosmic.
 

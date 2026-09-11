@@ -12,7 +12,7 @@ This Philosophy uses the heuristic of expanding [scopes](./scope.md) on word [de
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/heuristic" target="_blank">heuristic (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/heuristic" target="_blank">heuristic (wiktionary)</a> <a href="https://web.archive.org/web/20150402064112/http://en.wiktionary.org/wiki/heuristic" target="_blank">(archived 2015-04-02)</a>
 
 > ### Adjective (comparative more heuristic, superlative most heuristic)
 
@@ -20,7 +20,7 @@ This Philosophy uses the heuristic of expanding [scopes](./scope.md) on word [de
 
 > (computing, of a method or algorithm) that solves a problem more quickly but is not certain to arrive at an optimal solution.
 
-<a href="https://en.wikipedia.org/wiki/Heuristic" target="_blank">Heuristic (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Heuristic" target="_blank">Heuristic (Wikipedia)</a> <a href="https://web.archive.org/web/20150107043524/https://en.wikipedia.org/wiki/Heuristic" target="_blank">(archived 2015-01-07)</a>
 
 > experience-based techniques for problem solving, learning, and discovery that find a solution which is not guaranteed to be optimal, but good enough for a given set of goals. Where the exhaustive search is impractical, heuristic methods are used to speed up the process of finding a satisfactory solution via mental shortcuts to ease the cognitive load of making a decision. Examples of this method include using a rule of thumb, an educated guess, an intuitive judgment, stereotyping, or common sense
 

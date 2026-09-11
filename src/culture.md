@@ -16,7 +16,7 @@ This entity can also be a category in which can receive & send morphisms.
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/culture" target="_blank">culture (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/culture" target="_blank">culture (wiktionary)</a> <a href="https://web.archive.org/web/20150111103145/http://en.wiktionary.org/wiki/culture" target="_blank">(archived 2015-01-11)</a>
 
 > ### Noun
 
@@ -34,7 +34,7 @@ This entity can also be a category in which can receive & send morphisms.
 
 > (computing) The language and peculiarities of a geographical location. "A culture is the combination of the language that you speak and the geographical location you belong to. It also includes the way you represent dates, times and currencies. ... Examples: en-UK, en-US, de-AT, fr-BE, etc."
 
-<a href="https://en.wikipedia.org/wiki/Culture" target="_blank">Culture (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Culture" target="_blank">Culture (Wikipedia)</a> <a href="https://web.archive.org/web/20150103182528/https://en.wikipedia.org/wiki/Culture" target="_blank">(archived 2015-01-03)</a>
 
 > an integrated system of learned behavior patterns which are characteristic of the members of a society and which are not a result of biological inheritance
 

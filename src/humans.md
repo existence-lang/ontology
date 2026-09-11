@@ -28,7 +28,7 @@ Since humans communicate with symbolic [language](./language.md), we tend to vie
 
 > (rare) To behave as or become, or to cause to behave as or become, a human.
 
-<a href="https://en.wikipedia.org/wiki/Human" target="_blank">Human (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Human" target="_blank">Human (Wikipedia)</a> <a href="https://web.archive.org/web/20150101185929/https://en.wikipedia.org/wiki/Human" target="_blank">(archived 2015-01-01)</a>
 
 > Modern humans (Homo sapiens or Homo sapiens sapiens) are the only extant members of the hominin clade, a branch of great apes characterized by erect posture and bipedal locomotion; manual dexterity and increased tool use; and a general trend toward larger, more complex brains and societies.
 

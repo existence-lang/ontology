@@ -20,7 +20,7 @@ Some philosophies do not have a concept of God. Thus, to that atheist philosophy
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/god" target="_blank">god (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/god" target="_blank">god (wiktionary)</a> <a href="https://web.archive.org/web/20150317170930/http://en.wiktionary.org/wiki/god" target="_blank">(archived 2015-03-17)</a>
 
 > ### Noun
 

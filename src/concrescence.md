@@ -12,7 +12,7 @@ Multiple [Entities](./entity.md) merging together into a single entity.
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/concrescence" target="_blank">concrescence (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/concrescence" target="_blank">concrescence (wiktionary)</a> <a href="https://web.archive.org/web/20151001001552/http://en.wiktionary.org/wiki/concrescence" target="_blank">(archived 2015-10-01)</a>
 
 > ### Noun
 

@@ -24,11 +24,11 @@ A project's [story](./story.md) is the sequence of decisions and changes that pr
 
 > <a href="https://en.wikipedia.org/wiki/Project" target="_blank">Wikipedia — Project</a>
 >
-> A project is any undertaking, carried out individually or collaboratively, possibly involving research or design, that is carefully planned to achieve a particular aim.
+> A project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific objective.
 
 > <a href="https://www.etymonline.com/word/project" target="_blank">Etymonline — project</a>
 >
-> From Latin *projectum* "something thrown forth," from *pro-* "forward" + *jacere* "to throw."
+> "a plan, draft, scheme, design," from Medieval Latin proiectum "something thrown forth," noun use of neuter of Latin proiectus, past participle of proicere "stretch out, thrust out, throw forth,"
 
 ### [Pattern](./pattern.md) Expression
 

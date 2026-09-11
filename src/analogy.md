@@ -18,7 +18,7 @@ Analogy is a powerful cognitive [tool](./tool.md) that enables [entities](./enti
 
 > A relationship of resemblance or equivalence between two situations, people, or objects, especially when used as a basis for explanation or extrapolation.
 
-<a href="https://en.wikipedia.org/wiki/Analogy" target="_blank">Analogy (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Analogy" target="_blank">Analogy (Wikipedia)</a> <a href="https://web.archive.org/web/20150109152157/https://en.wikipedia.org/wiki/Analogy" target="_blank">(archived 2015-01-09)</a>
 
 > process of transferring information or meaning from a particular subject (the analogue or source) to another particular subject (the target)
 

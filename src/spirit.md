@@ -44,7 +44,7 @@ The Spirit of Greed causes one to act in greedy ways.
 
 > (dyeing) stannic chloride
 
-<a href="https://en.wikipedia.org/wiki/Spirit" target="_blank">Spirit (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Spirit" target="_blank">Spirit (Wikipedia)</a> <a href="https://web.archive.org/web/20150107214519/https://en.wikipedia.org/wiki/Spirit" target="_blank">(archived 2015-01-07)</a>
 
 > The English word spirit (from Latin spiritus "breath") has many differing meanings and connotations, most of them relating to a non-corporeal substance contrasted with the material body. The word spirit is often used metaphysically to refer to the consciousness or personality. The notions of a person's spirit and soul often also overlap, as both contrast with body and both are understood as surviving the bodily death in religion and occultism,[1] and "spirit" can also have the sense of "ghost", i.e. a manifestation of the spirit of a deceased person.
 

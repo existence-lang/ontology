@@ -12,7 +12,7 @@ The [evolution](./evolution.md) of definitions are the subject of study & [morph
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/definition" target="_blank">definition (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/definition" target="_blank">definition (wiktionary)</a> <a href="https://web.archive.org/web/20150109133856/http://en.wiktionary.org/wiki/definition" target="_blank">(archived 2015-01-09)</a>
 
 > ### Noun
 
@@ -40,7 +40,7 @@ The [evolution](./evolution.md) of definitions are the subject of study & [morph
 
 > (mathematics) A statement that establishes the referent of a term or notation.
 
-<a href="http://en.wikipedia.org/wiki/Definition" target="_blank">Definition (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Definition" target="_blank">Definition (Wikipedia)</a> <a href="https://web.archive.org/web/20150111054354/http://en.wikipedia.org/wiki/Definition" target="_blank">(archived 2015-01-11)</a>
 
 > A definition is a statement of the meaning of a term (a word, phrase, or other set of symbols). The term to be defined is the definiendum. The term may have many different senses and multiple meanings. For each meaning, a definiens is a cluster of words that defines that term (and clarifies the speaker's intention).
 

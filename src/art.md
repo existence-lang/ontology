@@ -12,7 +12,7 @@ Art matters because it is the vehicle through which [entities](./entity.md) expr
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/art" target="_blank">art (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/art" target="_blank">art (wiktionary)</a> <a href="https://web.archive.org/web/20150112121100/http://en.wiktionary.org/wiki/art" target="_blank">(archived 2015-01-12)</a>
 
 > ### Noun
 
@@ -34,11 +34,11 @@ Art matters because it is the vehicle through which [entities](./entity.md) expr
 
 > (countable) Skill that is attained by study, practice, or observation.
 
-<a href="https://en.wikipedia.org/wiki/Art" target="_blank">Art (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Art" target="_blank">Art (Wikipedia)</a> <a href="https://web.archive.org/web/20150107193255/https://en.wikipedia.org/wiki/Art" target="_blank">(archived 2015-01-07)</a>
 
 > a diverse range of human activities and the products of those activities. In their most general form these activities include the production of works of art, the criticism of art, the study of the history of art, and the aesthetic dissemination of art
 
-<a href="https://en.wikipedia.org/wiki/The_arts" target="_blank">The Arts (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/The_arts" target="_blank">The Arts (Wikipedia)</a> <a href="https://web.archive.org/web/20150101201852/https://en.wikipedia.org/wiki/The_arts" target="_blank">(archived 2015-01-01)</a>
 
 > The Arts represent an outlet of human expression, that is usually influenced by culture and which in turn helps to change culture. As such, the arts are a physical manifestation of the internal human creative impulse. Major constituents of the arts include literature – including poetry, novels and short stories, and epics; performing arts – among them music, dance, and theatre; culinary arts such as baking, chocolatiering, and winemaking; media arts like photography and film, and visual arts – including drawing, painting, and sculpting. Some art forms combine a visual element with performance (e.g. film) and the written word (e.g. comics).
 

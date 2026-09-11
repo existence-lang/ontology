@@ -24,7 +24,7 @@ A programming language, a mathematical framework, a legal code, a [philosophy](.
 
 > an object with no physical referents
 
-<a href="https://en.wikipedia.org/wiki/System" target="_blank">System (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/System" target="_blank">System (Wikipedia)</a> <a href="https://web.archive.org/web/20150109151259/https://en.wikipedia.org/wiki/System" target="_blank">(archived 2015-01-09)</a>
 
 > A system is a set of interacting or interdependent components forming an integrated whole.
 

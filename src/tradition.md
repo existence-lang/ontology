@@ -22,7 +22,7 @@ Tradition implies [inertia](./inertia.md) of a [collective](./collective.md).
 
 > The act of delivering into the hands of another; delivery
 
-<a href="https://en.wikipedia.org/wiki/Tradition" target="_blank">Tradition (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Tradition" target="_blank">Tradition (Wikipedia)</a> <a href="https://web.archive.org/web/20150111072411/https://en.wikipedia.org/wiki/Tradition" target="_blank">(archived 2015-01-11)</a>
 
 > a belief or behavior passed down within a group or society with symbolic meaning or special significance with origins in the past
 

@@ -12,7 +12,7 @@ A [physical system](./physical-system.md) is often represented by a [model](./mo
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/conceptual" target="_blank">conceptual (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/conceptual" target="_blank">conceptual (wiktionary)</a> <a href="https://web.archive.org/web/20150111161332/http://en.wiktionary.org/wiki/conceptual" target="_blank">(archived 2015-01-11)</a>
 
 > ### Adjective (comparative more conceptual, superlative most conceptual)
 
@@ -36,7 +36,7 @@ A [physical system](./physical-system.md) is often represented by a [model](./mo
 
 >     (derogatory) In the system: the mainstream culture, elites, or government of a state, or a combination of them, seen as oppressive to the individual.
 
-<a href="http://en.wikipedia.org/wiki/Conceptual_system" target="_blank">Conceptual System (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Conceptual_system" target="_blank">Conceptual System (Wikipedia)</a> <a href="https://web.archive.org/web/20150103043801/http://en.wikipedia.org/wiki/Conceptual_system" target="_blank">(archived 2015-01-03)</a>
 
 > a system that is composed of non-physical objects, i.e. ideas or concepts
 

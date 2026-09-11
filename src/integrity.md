@@ -28,7 +28,7 @@ It is advantageous for an Entity to be able to assess the integrity of entities,
 
 > (aviation) The ability of a system to provide timely warnings to users when they should not be used for navigation.
 
-<a href="http://en.wikipedia.org/wiki/Integrity" target="_blank">Integrity (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Integrity" target="_blank">Integrity (Wikipedia)</a> <a href="https://web.archive.org/web/20150108164602/http://en.wikipedia.org/wiki/Integrity" target="_blank">(archived 2015-01-08)</a>
 
 > Integrity The quality of being honest and having strong moral principles; moral uprightness.
 

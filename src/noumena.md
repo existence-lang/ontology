@@ -16,11 +16,11 @@ Making the noumenal explicit is the core challenge of [alignment](./coherence.md
 
 ### [Cultural](./culture.md) Definition
 
-> <a href="https://en.wiktionary.org/wiki/noumenon" target="_blank">Wiktionary</a>: In the philosophy of Kant, a thing as it is independent of any conceptualization or perception by the human mind. Plural: noumena.
+> <a href="https://en.wiktionary.org/wiki/noumenon" target="_blank">Wiktionary</a>: A thing as it is independent of any conceptualization or perception by the human mind, postulated by practical reason but existing in a condition which is in principle unknowable and unexperienceable.
 
-> <a href="https://en.wikipedia.org/wiki/Noumenon" target="_blank">Wikipedia</a>: In Kantian philosophy, the noumenon is a posited object or event that exists independently of human sense and/or perception. The term noumenon is generally used in contrast with, or in relation to, the term phenomenon.
+> <a href="https://en.wikipedia.org/wiki/Noumenon" target="_blank">Wikipedia</a>: The term noumenon is generally used in contrast with, or in relation to, the term phenomenon, which refers to any object of the senses.
 
-> <a href="https://www.etymonline.com/word/noumenon" target="_blank">Etymonline</a>: From Greek noumenon "that which is perceived by the mind," from noein "to perceive by the mind, to think."
+> <a href="https://www.etymonline.com/word/noumenon" target="_blank">Etymonline</a>: "that which can be the object only of a purely intellectual intuition" (opposed to a phenomenon), 1796, a term introduced by Kant, from Greek noumenon "that which is perceived," neuter passive present participle of noein "to apprehend, perceive by the mind"
 
 ### [Pattern](./pattern.md) Expression
 

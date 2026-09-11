@@ -16,7 +16,7 @@ A perspective influences the [reality](./reality.md) of the entity.
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/perspective" target="_blank">perspective (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/perspective" target="_blank">perspective (wiktionary)</a> <a href="https://web.archive.org/web/20140814191432/http://en.wiktionary.org/wiki/perspective" target="_blank">(archived 2014-08-14)</a>
 
 > ### Noun
 

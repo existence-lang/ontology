@@ -12,7 +12,7 @@ Natural law matters because it represents the fixed [patterns](./pattern.md) tha
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/natural_law" target="_blank">natural law (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/natural_law" target="_blank">natural law (wiktionary)</a> <a href="https://web.archive.org/web/20150915130106/http://en.wiktionary.org/wiki/natural_law" target="_blank">(archived 2015-09-15)</a>
 
 > ### Noun
 

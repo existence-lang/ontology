@@ -16,11 +16,11 @@ In human-agent collaboration, shared pneuma means both parties are animated by t
 
 ### [Cultural](./culture.md) Definition
 
-> <a href="https://en.wiktionary.org/wiki/pneuma" target="_blank">Wiktionary</a>: The breath of life; the soul or spirit. In Stoic philosophy, the creative fire or vital force that organizes the cosmos.
+> <a href="https://en.wiktionary.org/wiki/pneuma" target="_blank">Wiktionary</a>: The spirit or soul.
 
-> <a href="https://en.wikipedia.org/wiki/Pneuma" target="_blank">Wikipedia</a>: Pneuma (Greek: πνεῦμα) is an ancient Greek word for "breath," and in a religious context for "spirit" or "soul." In Stoic philosophy, pneuma is the concept of the "breath of life," a mixture of the elements air and fire, which acts as the sustaining force of the universe.
+> <a href="https://en.wikipedia.org/wiki/Pneuma" target="_blank">Wikipedia</a>: Pneuma is an ancient Greek word for "breath", and in a religious context for "spirit".
 
-> <a href="https://www.etymonline.com/word/pneuma" target="_blank">Etymonline</a>: From Greek pneuma "a blowing, a wind, blast; breath; spirit of a person," from pnein "to blow, to breathe."
+> <a href="https://www.etymonline.com/word/pneuma" target="_blank">Etymonline</a>: from Greek pneuma "a blowing, a wind, blast; breeze; influence; breathed air, breath; odor, scent; spirit of a person; inspiration, a spirit, ghost," from pnein "to blow, to breathe,"
 
 ### [Pattern](./pattern.md) Expression
 

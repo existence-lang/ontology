@@ -58,7 +58,7 @@ Models are often less complex than the subject system, due to the usage of [abst
 
 > (intransitive) To be a model of any kind. "The actress used to model before being discovered by Hollywood."
 
-<a href="https://en.wikipedia.org/wiki/Conceptual_model" target="_blank">Conceptual Model (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Conceptual_model" target="_blank">Conceptual Model (Wikipedia)</a> <a href="https://web.archive.org/web/20150101032325/https://en.wikipedia.org/wiki/Conceptual_model" target="_blank">(archived 2015-01-01)</a>
 
 > composition of concepts, which are used to help people know, understand, or simulate a subject the model represents
 

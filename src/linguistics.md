@@ -12,13 +12,13 @@ Linguistics matters because [language](./language.md) is the primary medium thro
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/linguistics" target="_blank">linguistics (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/linguistics" target="_blank">linguistics (wiktionary)</a> <a href="https://web.archive.org/web/20150215020442/http://en.wiktionary.org/wiki/linguistics" target="_blank">(archived 2015-02-15)</a>
 
 > ### Noun
 
 > The scientific study of language.
 
-<a href="https://en.wikipedia.org/wiki/Linguistics" target="_blank">Linguistics (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Linguistics" target="_blank">Linguistics (Wikipedia)</a> <a href="https://web.archive.org/web/20150108143714/https://en.wikipedia.org/wiki/Linguistics" target="_blank">(archived 2015-01-08)</a>
 
 > Linguistics is the scientific study of language. Such study has, broadly speaking, three aspects: language form, language meaning, and language in context.
 

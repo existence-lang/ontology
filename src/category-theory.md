@@ -33,7 +33,7 @@ And subsections of the subsections are also categories.
 
 > (mathematics) A branch of mathematics which deals with spaces and maps between them in abstraction, taking similar theorems from various disparate more concrete branches of mathematics and unifying them.
 
-<a href="http://en.wikipedia.org/wiki/Category_theory" target="_blank">Category Theory (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Category_theory" target="_blank">Category Theory (Wikipedia)</a> <a href="https://web.archive.org/web/20150108080206/http://en.wikipedia.org/wiki/Category_theory" target="_blank">(archived 2015-01-08)</a>
 
 > Category theory is used to formalize mathematics and its concepts as a collection of objects and arrows (also called morphisms). Category theory can be used to formalize concepts of other high-level abstractions such as set theory, ring theory, and group theory. Several terms used in category theory, including the term "morphism", differ from their uses within mathematics itself. In category theory, a "morphism" obeys a set of conditions specific to category theory itself. Thus, care must be taken to understand the context in which statements are made.
 

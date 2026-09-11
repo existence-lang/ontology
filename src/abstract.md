@@ -12,7 +12,7 @@ Abstract concepts matter because they liberate thought from the physical — ena
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/abstract" target="_blank">abstract (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/abstract" target="_blank">abstract (wiktionary)</a> <a href="https://web.archive.org/web/20150104003807/http://en.wiktionary.org/wiki/abstract" target="_blank">(archived 2015-01-04)</a>
 
 > ### Adjective
 

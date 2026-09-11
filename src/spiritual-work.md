@@ -16,7 +16,7 @@ The feeling of harmony & [coherence](./coherence.md) has beneficial effects on c
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/spiritual" target="_blank">spiritual (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/spiritual" target="_blank">spiritual (wiktionary)</a> <a href="https://web.archive.org/web/20150223115157/http://en.wiktionary.org/wiki/spiritual" target="_blank">(archived 2015-02-23)</a>
 
 > ### Adjective (comparative more spiritual, superlative most spiritual)
      
@@ -34,7 +34,7 @@ The feeling of harmony & [coherence](./coherence.md) has beneficial effects on c
      
 > Not lay or temporal; relating to sacred things; ecclesiastical. "the spiritual functions of the clergy; lords spiritual and temporal; a spiritual corporation"
 
-<a href="http://en.wiktionary.org/wiki/work" target="_blank">work (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/work" target="_blank">work (wiktionary)</a> <a href="https://web.archive.org/web/20150223183616/http://en.wiktionary.org/wiki/work" target="_blank">(archived 2015-02-23)</a>
 
 > ### Noun
 

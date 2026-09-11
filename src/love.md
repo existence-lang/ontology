@@ -52,7 +52,7 @@ Love matters because it is the attractive force that bonds [entities](./entity.m
 
 > (transitive, euphemistic) To have sex with, (perhaps from make love.) "I wish I could love her all night long."
 
-<a href="https://en.wikipedia.org/wiki/Love" target="_blank">Love (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Love" target="_blank">Love (Wikipedia)</a> <a href="https://web.archive.org/web/20150102063407/https://en.wikipedia.org/wiki/Love" target="_blank">(archived 2015-01-02)</a>
 
 > a variety of different feelings, states, and attitudes that ranges from interpersonal affection ("I love my mother") to pleasure ("I loved that meal"). It can refer to an emotion of a strong attraction and personal attachment. It can also be a virtue representing human kindness, compassion, and affection—"the unselfish loyal and benevolent concern for the good of another". It may also describe compassionate and affectionate actions towards other humans, one's self or animals.
 
