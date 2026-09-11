@@ -12,7 +12,7 @@ permissions:
 env:
   # existence-lang/existence commit providing `existence audit --structure`
   # (bump to pick up CLI changes; switch to a release tag once one carries audit)
-  EXISTENCE_REV: 9414a8a23dc24b802d11fb233dd1fbe87257dff1
+  EXISTENCE_REV: b22957564123ea6ac304c68c5c0a96d59c03bc9f
 
 jobs:
   audit:

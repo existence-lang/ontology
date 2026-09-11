@@ -1,0 +1,150 @@
+name: Ontology audit
+
+# Weekly: run every audit class (structure, contradictions, mirrors, and the
+# network sources pass), keep ONE issue titled "Ontology audit" up to date
+# with the report and its diff from last week, and keep ONE pull request
+# "audit: safe fixes" carrying only the mechanical resolutions (suffix-less
+# links, dead links swapped for archived copies, regenerated indexes) plus
+# the refreshed sources lock and the report itself. Nothing else is changed
+# without a person deciding.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # Mondays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: ontology-audit
+  cancel-in-progress: false
+
+env:
+  # existence-lang/existence commit providing `existence audit --all`
+  EXISTENCE_REV: b22957564123ea6ac304c68c5c0a96d59c03bc9f
+  FIX_BRANCH: audit/safe-fixes
+  ISSUE_TITLE: Ontology audit
+  PR_TITLE: "audit: safe fixes"
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache existence CLI
+        id: existence-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cargo/bin/existence
+          key: existence-cli-${{ env.EXISTENCE_REV }}-${{ runner.os }}
+
+      - name: Install existence CLI
+        if: steps.existence-cache.outputs.cache-hit != 'true'
+        run: cargo install --locked --git https://github.com/existence-lang/existence --rev "$EXISTENCE_REV" existence
+
+      # Keep last week's report for the diff before this run overwrites it.
+      - name: Keep the previous report
+        run: |
+          mkdir -p audit
+          if [ -f audit/report.json ]; then cp audit/report.json /tmp/previous-report.json; fi
+
+      # --fix applies the safe resolutions; exit 1 (findings) is expected and
+      # must not fail the job, exit 2 (could not run) must.
+      - name: Run the audit
+        id: audit
+        run: |
+          set +e
+          existence --ontology . audit --all --fix --format json -o audit/report.json
+          status=$?
+          set -e
+          echo "status=$status" >> "$GITHUB_OUTPUT"
+          if [ "$status" -eq 2 ]; then
+            echo "::error::audit could not run"; exit 2
+          fi
+          existence --ontology . audit --structure --contradictions --mirrors || true
+
+      # The safe-fix branch is rebuilt from main every run so it never carries
+      # stale resolutions; a force push keeps the one open PR current.
+      - name: Upsert the safe-fixes pull request
+        id: pr
+        env:
+          # A classic PAT in the AUDIT_TOKEN secret lets the job open the PR
+          # when the organization forbids GITHUB_TOKEN from doing so.
+          GH_TOKEN: ${{ secrets.AUDIT_TOKEN || github.token }}
+        run: |
+          git config user.name "ontology-audit[bot]"
+          git config user.email "ontology-audit@users.noreply.github.com"
+          git add -A src terms.md audit
+          if git diff --cached --quiet; then
+            echo "no safe fixes or lock changes this run"
+            echo "link=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git checkout -B "$FIX_BRANCH"
+          git commit -m "audit: safe fixes and refreshed sources lock ($(date -u +%Y-%m-%d))" \
+            -m "Applied by the weekly Ontology audit: suffix-less links, dead links swapped for archived copies, regenerated indexes, plus audit/sources.lock.json and audit/report.json. Decisions stay in the Ontology audit issue." \
+            -m "Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          git push --force origin "$FIX_BRANCH"
+          existing=$(gh pr list --head "$FIX_BRANCH" --state open --json url --jq '.[0].url')
+          if [ -n "$existing" ]; then
+            echo "pull request already open; branch updated: $existing"
+            echo "link=$existing" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          set +e
+          url=$(gh pr create --head "$FIX_BRANCH" --base main --title "$PR_TITLE" \
+            --body "Mechanical resolutions from the weekly [Ontology audit](${{ github.server_url }}/${{ github.repository }}/issues?q=is%3Aissue+in%3Atitle+%22Ontology+audit%22): suffix-less links, dead links swapped for archived copies, regenerated indexes, plus the refreshed \`audit/sources.lock.json\` and \`audit/report.json\`. Rebuilt from \`main\` on every run. CI does not run on pushes made with the workflow token; run \`existence audit --structure\` locally before merging.")
+          created=$?
+          set -e
+          if [ "$created" -eq 0 ]; then
+            echo "opened $url"
+            echo "link=$url" >> "$GITHUB_OUTPUT"
+          else
+            # The organization forbids GITHUB_TOKEN from opening pull requests
+            # (add an AUDIT_TOKEN secret to lift that); the branch is pushed, so
+            # hand the operator a compare link instead.
+            compare="${{ github.server_url }}/${{ github.repository }}/compare/main...$FIX_BRANCH?expand=1"
+            echo "::warning::could not open the pull request; branch $FIX_BRANCH is pushed — open it at $compare"
+            echo "link=$compare" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Render the issue body
+        run: |
+          python3 .github/scripts/audit_report.py audit/report.json /tmp/previous-report.json > /tmp/issue-body.md
+          if [ -n "${{ steps.pr.outputs.link }}" ]; then
+            echo "Safe fixes: ${{ steps.pr.outputs.link }}" >> /tmp/issue-body.md
+            echo "" >> /tmp/issue-body.md
+          fi
+          echo "Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> /tmp/issue-body.md
+          head -c 60000 /tmp/issue-body.md > /tmp/issue-body.trimmed.md
+
+      - name: Upsert the audit issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          number=$(gh issue list --state open --search "\"$ISSUE_TITLE\" in:title" --json number,title \
+            --jq ".[] | select(.title == \"$ISSUE_TITLE\") | .number" | head -1)
+          if [ -n "$number" ]; then
+            gh issue edit "$number" --body-file /tmp/issue-body.trimmed.md
+            echo "updated issue #$number"
+          else
+            gh issue create --title "$ISSUE_TITLE" --body-file /tmp/issue-body.trimmed.md --label audit 2>/dev/null \
+              || gh issue create --title "$ISSUE_TITLE" --body-file /tmp/issue-body.trimmed.md
+          fi
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: audit-report
+          path: audit/report.json
