@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-An abstraction is a symbol that [models](./model.md) something else, allowing expression of the modeled [entity](./entity.md) without its complexity & ambiguity. A word or phrase is an abstraction.
+An abstraction is a symbol that [models](./model.md) something else, allowing expression of the modeled [entity](./entity.md) without its complexity & ambiguity. An abstraction is a member of a schema. A word, an icon, an utterance, or any other representation of an entity is an abstraction.
 
 Abstractions allow [perspectives](./perspective.md) to be applied to a [system](./system.md).
 

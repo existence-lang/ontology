@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-The observable manifestations of [existence](./existence.md). What an [entity](./entity.md) can perceive, measure, or detect through its [perspective](./perspective.md). Phenomena are the [signals](./signal.md) that reach [consciousness](./consciousness.md) — the layer of [reality](./reality.md) accessible to observation and description.
+Phenomena (φαινόμενα) are [entities](./entity.md "broader") as they *appear* to some [perspective](./perspective.md) — the observable, experienceable content of [reality](./reality.md). A phenomenon is an [abstraction](./abstraction.md) the observer can access through [signals](./signal.md), measurement, or direct experience.
 
 In [system](./system.md) terms, phenomena are the outputs, behaviors, and states that are visible at a given [resolution](./resolution.md). They are what we can instrument, log, and share as evidence.
 

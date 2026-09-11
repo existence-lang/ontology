@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-The thing-in-itself, beyond [phenomena](./phenomena.md). What an [entity](./entity.md) *is* independent of any [perspective](./perspective.md) observing it. Noumena are the underlying [reality](./reality.md) that generates observable [signals](./signal.md) but cannot be directly accessed — only inferred through [patterns](./pattern.md) in phenomena.
+Noumena (νοούμενα) are [entities](./entity.md "broader") as they are *in themselves*, independent of any [perspective](./perspective.md) that might observe them. A noumenon is the "thing in itself" (*Ding an sich*) — the underlying [reality](./reality.md) that cannot be directly accessed through [phenomena](./phenomena.md), only inferred.
 
 In [system](./system.md) terms, noumena represent the internal state, reasoning, and structure that produce observable behavior. The [model](./model.md)'s weights, the [algorithm](./algorithm.md)'s logic, the human's intention before it becomes speech.
 
