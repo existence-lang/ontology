@@ -1,6 +1,6 @@
 # existence-lang/ontology
 
-Reference existential ontology — 114 terms across Ring 0 kernel, Ring 1 software, and Ring 2 extended
+Reference existential ontology — 119 terms across Ring 0 kernel, Ring 1 software, and Ring 2 extended
 
 ## Ring 0 — kernel
 
@@ -40,12 +40,12 @@ The DDD bridge — immediately useful for software projects.
 - [**Communication**](src/communication.md) — An [Entity](src/entity.md) using [signals](src/signal.md) and [language](src/language.md) to affect another entity.
 - [**Collective**](src/collective.md) — A group of [Entities](src/entity.md). The Collective is an entity.
 - [**Integrity**](src/integrity.md) — Ability of an [Entity](src/entity.md) to adhere to a chosen [philosophy](src/philosophy.md).
-- `qualitative` — *missing: no `src/qualitative.md`*
-- `quantitative` — *missing: no `src/quantitative.md`*
+- [**Qualitative**](src/qualitative.md) — A qualitative description distinguishes an [entity](src/entity.md) by the kind of [pattern](src/pattern.md) it shows rather than by a number: a distinction of quality, not of [quantity](src/quantitative.md). A qualitative [signal](src/signal.md) says *what sort* of thing is present; it can be named, grouped, and compared for likeness, but not added or measured.
+- [**Quantitative**](src/quantitative.md) — A quantitative description distinguishes an [entity](src/entity.md) by measure: a number on a scale, so that instances can be counted, ordered, added, and compared by magnitude. Where a [qualitative](src/qualitative.md) [signal](src/signal.md) says what sort of thing is present, a quantitative one says how much, how many, or how far.
 
 ## Ring 2 — extended
 
-85 terms spanning philosophy, spirituality, cognition, linguistics, and more.
+88 terms spanning philosophy, spirituality, cognition, linguistics, and more.
 
 - [**Abstract**](src/abstract.md) — A [concept](src/concept.md) that is not physical. All perception of [language](src/language.md) & thoughts are abstract.
 - [**Abstract System**](src/abstract-system.md) — A [system](src/system.md) composed of [abstract](src/abstract.md) [entities](src/entity.md) rather than physical ones. An abstract system is a [conceptual system](src/conceptual-system.md) designed to [model](src/model.md), organize, or operate on [abstractions](src/abstraction.md).
@@ -70,7 +70,7 @@ The DDD bridge — immediately useful for software projects.
 - [**Conceptual Existence**](src/conceptual-existence.md) — The realm of [Existence](src/existence.md) that is [abstract](src/abstract.md) and [conceptual](src/concept.md) rather than physical. Ideas, mathematical truths, logical structures, [languages](src/language.md), and all [abstractions](src/abstraction.md) reside in Conceptual Existence.
 - [**Conceptual System**](src/conceptual-system.md) — A [system](src/system.md) that is made of [concepts](src/concept.md) and not physical objects.
 - [**Concrescence**](src/concrescence.md) — Multiple [Entities](src/entity.md) merging together into a single entity.
-- [**Contextualism**](src/contextual-systems.md) — *(no lay definition)*
+- [**Contextual Systems**](src/contextual-systems.md) — A contextual system is a [system](src/system.md) whose [entities](src/entity.md) take their meaning, truth, and behaviour from the [context](src/context.md) that contains them, so that an [abstraction](src/abstraction.md) in it can only be understood relative to a stated [scope](src/scope.md). Contextualism is the doctrine that every system is contextual: the same word, [signal](src/signal.md), or act means something different under a different context.
 - [**Control System**](src/control-system.md) — A [system](src/system.md) to manage, command, direct or regulate the behavior of other systems.
 - [**Creativity**](src/create.md) — To create is to add [novelty](src/novelty.md) to Existence.
 - [**Culture**](src/culture.md) — An integrated system of learned behavior of a [collective](src/collective.md).
@@ -132,11 +132,6 @@ The DDD bridge — immediately useful for software projects.
 - [**Unique**](src/unique.md) — Being the only one of its kind; unequaled, unparalleled or unmatched.
 - [**Universal Set**](src/universal-set.md) — Universal set is a set which contains all [Entities](src/entity.md), including itself.
 - [**Violence**](src/violence.md) — Violence is physical and/or [coercion](src/coercion.md) action of one [entity](src/entity.md) against another entity.
-
-## Unringed
-
-Terms in `src/` that no ring in `existence.toml` declares.
-
 - [**Noumena**](src/noumena.md) — Noumena (νοούμενα) are [entities](src/entity.md "broader") as they are *in themselves*, independent of any [perspective](src/perspective.md) that might observe them. A noumenon is the "thing in itself" (*Ding an sich*) — the underlying [reality](src/reality.md) that cannot be directly accessed through [phenomena](src/phenomena.md), only inferred.
 - [**Phenomena**](src/phenomena.md) — Phenomena (φαινόμενα) are [entities](src/entity.md "broader") as they *appear* to some [perspective](src/perspective.md) — the observable, experienceable content of [reality](src/reality.md). A phenomenon is an [abstraction](src/abstraction.md) the observer can access through [signals](src/signal.md), measurement, or direct experience.
 - [**Pneuma**](src/pneuma.md) — Pneuma (πνεῦμα) is the animating [energy](src/energy.md "broader") of an [entity](src/entity.md) — the "breath" that makes a [system](src/system.md) a living whole rather than an inert aggregate. Across traditions, pneuma names the [signal](src/signal.md) that carries life, [spirit](src/spirit.md), and [consciousness](src/consciousness.md) through matter.

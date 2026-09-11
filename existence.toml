@@ -2,7 +2,7 @@
 
 [meta]
 name = "existence-lang/ontology"
-description = "Reference existential ontology — 114 terms across Ring 0 kernel, Ring 1 software, and Ring 2 extended"
+description = "Reference existential ontology — 119 terms across Ring 0 kernel, Ring 1 software, and Ring 2 extended"
 # RDF identity (`existence export`): term IRIs are `{base_iri}{term}` and
 # dereference to the GitHub Pages term page; `xl:` metamodel properties are
 # documented at vocab.md. Changing either renames every published concept.
@@ -29,7 +29,7 @@ terms = [
 
 [rings.2]
 name = "extended"
-description = "85 terms spanning philosophy, spirituality, cognition, linguistics, and more."
+description = "88 terms spanning philosophy, spirituality, cognition, linguistics, and more."
 terms = [
   "abstract", "abstract-system", "accuracy", "aesthetics", "agree", "agreement",
   "analogy", "animism", "anthropomorphism", "art", "attention-schema", "awareness",
@@ -45,7 +45,8 @@ terms = [
   "presence", "reality", "redefine", "redefinition", "religion", "respect", "science",
   "sexual-reproduction", "signals", "soul", "spirit", "spiritual-work", "spirituality",
   "technology", "this-philosophy", "tradition", "transcendence", "unconsciousness",
-  "unique", "universal-set", "violence"
+  "unique", "universal-set", "violence",
+  "noumena", "phenomena", "pneuma"
 ]
 
 # Surfaces that copy this ontology, checked by `existence audit --mirrors`.

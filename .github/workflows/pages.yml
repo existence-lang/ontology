@@ -68,6 +68,14 @@ jobs:
           grep -c 'title\|\.html "' src/entity.md >/dev/null
           grep -q '\.md "broader"' src/*.md && { echo "typed .md links remain"; exit 1; } || true
 
+      # terms.md is the committed `existence toc` index (an audit mirror, kept
+      # byte-identical to the tool's output); give the build copy front matter
+      # so Jekyll renders it as the site's glossary at /ontology/terms.
+      - name: Publish the glossary
+        run: |
+          printf -- '---\ntitle: Terms\n---\n\n' | cat - terms.md > terms.tmp && mv terms.tmp terms.md
+          head -3 terms.md
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:

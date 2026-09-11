@@ -1,6 +1,8 @@
 # Existence Lang -- Ontology
 
-A domain ontology organized in concentric rings with 114 term files. Ring 0 is the universal kernel -- 14 terms that model Existence at the broadest scope. Ring 1 bridges the kernel to software engineering via Domain-Driven Design concepts. Ring 2 extends the ontology with 85 additional terms covering philosophy, spirituality, cognition, and other domains.
+A domain ontology organized in concentric rings with 119 term files. Ring 0 is the universal kernel -- 14 terms that model Existence at the broadest scope. Ring 1 bridges the kernel to software engineering via Domain-Driven Design concepts. Ring 2 extends the ontology with 88 additional terms covering philosophy, spirituality, cognition, and other domains.
+
+The full term index with lay definitions, grouped by ring, is [terms.md](terms.md).
 
 Terms are defined as interconnected nodes in `src/`. Each node follows the structure in [SPEC.md](SPEC.md): **Ontology** (what it is), **Axiology** (why it matters), **Epistemology** (how we know it).
 
@@ -8,8 +10,8 @@ Terms are defined as interconnected nodes in `src/`. Each node follows the struc
 
 ```
 Ring 0 (kernel)    -- 14 universal terms, always loaded
-Ring 1 (software)  -- 17 terms bridging to DDD and software domains (2 pending)
-Ring 2 (extended)  -- 85 terms across philosophy, spirituality, cognition, and more
+Ring 1 (software)  -- 17 terms bridging to DDD and software domains
+Ring 2 (extended)  -- 88 terms across philosophy, spirituality, cognition, and more
 ```
 
 Rings are additive. Ring 1 assumes Ring 0. Higher rings assume all lower rings. See [`existence.toml`](existence.toml) for the canonical ring definitions. (The `existence` CLI reads this file.)
@@ -62,10 +64,10 @@ The DDD bridge -- immediately useful for software projects. These terms extend R
 | [communication](src/communication.md) | An Entity using signals and language to affect another entity. |
 | [collective](src/collective.md) | A group of Entities. The Collective is an entity. |
 | [integrity](src/integrity.md) | Ability of an Entity to adhere to a chosen philosophy. Promotes trust and predictability. |
-| qualitative | *(pending -- not yet defined)* |
-| quantitative | *(pending -- not yet defined)* |
+| qualitative | [src/qualitative.md](src/qualitative.md) |
+| quantitative | [src/quantitative.md](src/quantitative.md) |
 
-## Ring 2 -- Extended (85 terms)
+## Ring 2 -- Extended (88 terms)
 
 Broader ontological terms spanning philosophy, spirituality, cognition, linguistics, and more. These extend Ring 0 and Ring 1 into richer territory.
 
@@ -130,12 +132,15 @@ Broader ontological terms spanning philosophy, spirituality, cognition, linguist
 | love | [src/love.md](src/love.md) |
 | natural-law | [src/natural-law.md](src/natural-law.md) |
 | nature | [src/nature.md](src/nature.md) |
+| noumena | [src/noumena.md](src/noumena.md) |
 | novelty | [src/novelty.md](src/novelty.md) |
 | ontology | [src/ontology.md](src/ontology.md) |
 | paradox | [src/paradox.md](src/paradox.md) |
+| phenomena | [src/phenomena.md](src/phenomena.md) |
 | philosophy | [src/philosophy.md](src/philosophy.md) |
 | physical-existence | [src/physical-existence.md](src/physical-existence.md) |
 | physical-system | [src/physical-system.md](src/physical-system.md) |
+| pneuma | [src/pneuma.md](src/pneuma.md) |
 | precision | [src/precision.md](src/precision.md) |
 | prejudice | [src/prejudice.md](src/prejudice.md) |
 | presence | [src/presence.md](src/presence.md) |

@@ -6,7 +6,7 @@ Universal set is a set which contains all [Entities](./entity.md), including its
 
 ## [Axiology](./axiology.md)
 
-[Existence](./existence.md) is the Universal Set of everything, including itself. Hence, Existence [exists](./exists). Since Existence is [God](./god.md), God exists.
+[Existence](./existence.md) is the Universal Set of everything, including itself. Hence, Existence [exists](./exist.md). Since Existence is [God](./god.md), God exists.
 
 ## [Epistemology](./epistemology.md)
 
