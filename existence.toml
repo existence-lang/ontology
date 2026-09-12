@@ -60,7 +60,12 @@ path = "../../../philosophy/src"
 kind = "nodes"
 optional = true
 
+# The global instruction table is a deliberate paraphrase: each row restates
+# its node in one compressed line for use in conversation, so it is checked for
+# term coverage, not wording. `compare = "wording"` would report all nine
+# kernel rows as drift while every one of them is accurate.
 [[mirrors]]
 path = "~/.claude/CLAUDE.md"
 kind = "table"
 optional = true
+compare = "paraphrase"
