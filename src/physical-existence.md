@@ -22,7 +22,7 @@ Physical Existence is often represented by [models](./model.md) that reside in [
 
 > Having to do with the body as opposed to the mind; corporeal, bodily.
 
-> Having to do with the material world as opposed to the spiritual or mental.
+> Pertaining to the world as understood through the senses rather than the mind, having to do with the material world.
 
 <a href="https://en.wiktionary.org/wiki/existence" target="_blank">existence (wiktionary)</a>
 
@@ -34,7 +34,7 @@ Physical Existence is often represented by [models](./model.md) that reside in [
 
 <a href="https://en.wikipedia.org/wiki/Nature" target="_blank">Nature (Wikipedia)</a>
 
-> Nature, in the broadest sense, is the physical world or universe. "Nature" can refer to the phenomena of the physical world, and also to life in general.
+> Nature, in the broadest sense, is the physical world or universe. In this general sense nature refers to the laws, elements and phenomena of the physical world, including life.
 
 ### [Pattern](./pattern.md) Expression
 

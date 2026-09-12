@@ -16,7 +16,7 @@ Science is applicable to [physical](./physical-system.md) and [conceptual](./con
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/science" target="_blank">science (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/science" target="_blank">science (wiktionary)</a> <a href="https://web.archive.org/web/20130122135309/http://en.wiktionary.org/wiki/science" target="_blank">(archived 2013-01-22)</a> <a href="https://web.archive.org/web/20150219020849/http://en.wiktionary.org/wiki/science" target="_blank">(archived 2015-02-19)</a>
 
 > ### Noun
 

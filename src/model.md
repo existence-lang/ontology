@@ -12,7 +12,7 @@ Models are often less complex than the subject system, due to the usage of [abst
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/model" target="_blank">model (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/model" target="_blank">model (wiktionary)</a> <a href="https://web.archive.org/web/20150906095607/http://en.wiktionary.org/wiki/model" target="_blank">(archived 2015-09-06)</a> <a href="https://web.archive.org/web/20220122024716/http://en.wiktionary.org/wiki/model" target="_blank">(archived 2022-01-22)</a>
 
 > ### Noun
 

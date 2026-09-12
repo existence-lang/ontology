@@ -20,7 +20,7 @@ A [physical system](./physical-system.md) is often represented by a [model](./mo
 
 > Of, or relating to conceptualism
 
-<a href="http://en.wiktionary.org/wiki/system" target="_blank">system (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/system" target="_blank">system (wiktionary)</a> <a href="https://web.archive.org/web/20150217183700/http://en.wiktionary.org/wiki/system" target="_blank">(archived 2015-02-17)</a>
 
 > ### Noun
 

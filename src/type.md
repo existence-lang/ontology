@@ -16,7 +16,7 @@ The Type is a Category. An instantiation is a morphism. The Instance is the othe
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/type" target="_blank">type (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/type" target="_blank">type (wiktionary)</a> <a href="https://web.archive.org/web/20150223071733/http://en.wiktionary.org/wiki/type" target="_blank">(archived 2015-02-23)</a>
 
 > ### Noun
 
@@ -45,11 +45,11 @@ The Type is a Category. An instantiation is a morphism. The Instance is the othe
 
 > (chemistry) A simple compound, used as a mode or pattern to which other compounds are conveniently regarded as being related, and from which they may be actually or theoretically derived. "The fundamental types used to express the simplest and most essential chemical relations are hydrochloric acid, water, ammonia, and methane."
 
-> (mathematics) A part of the partition of the object domain of a logical theory (which due to the existence of such partition, would be called a typed theory). (Note: this corresponds to the notion of "data type" in computing theory.) "Categorial grammar is like a combination of context-free grammar and types."
+> (mathematics) A part of the partition of the object domain of a logical theory (which due to the existence of such partition, would be called a typed theory). (Note: this corresponds to the notion of "data type" in computing theory.)
 
 <a href="https://en.wikipedia.org/wiki/Type%E2%80%93token_distinction" target="_blank">Type–token_distinction (Wikipedia)</a>
 
-> In disciplines such as logic, metalogic, typography, and computer programming, the type–token distinction is a distinction that separates a concept from the objects which are particular instances of the concept. For example, the sentence "the bicycle is in the garage" refers to a token of the type of thing known as "the bicycle", while the sentence "The bicycle has become more popular recently" refers to the type.
+> The type–token distinction is the difference between a type of objects (analogous to a class) and the individual tokens of that type (analogous to instances). Since each type may be instantiated by multiple tokens, there are generally more tokens than types of an object.
 
 <a href="http://en.wikipedia.org/wiki/Type_theory" target="_blank">Type Theory (Wikipedia)</a> <a href="https://web.archive.org/web/20150102011503/http://en.wikipedia.org/wiki/Type_theory" target="_blank">(archived 2015-01-02)</a>
 

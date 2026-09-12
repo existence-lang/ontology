@@ -30,7 +30,7 @@ The more an entity is abstracted, the less [novelty](./novelty.md) that individu
 
 > Abstraction in its main sense is a conceptual process by which general rules and concepts are derived from the usage and classification of specific examples, literal ("real" or "concrete") signifiers, first principles, or other methods. "An abstraction" is the product of this process—a concept that acts as a super-categorical noun for all subordinate concepts, and connects any related concepts as a group, field, or category.
 
-<a href="http://en.wiktionary.org/wiki/abstraction" target="_blank">Abstraction (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/abstraction" target="_blank">Abstraction (wiktionary)</a> <a href="https://web.archive.org/web/20150214061711/http://en.wiktionary.org/wiki/abstraction" target="_blank">(archived 2015-02-14)</a> <a href="https://web.archive.org/web/20120106202710/http://en.wiktionary.org/wiki/abstraction" target="_blank">(archived 2012-01-06)</a>
 
 > ### Noun
 
@@ -38,7 +38,7 @@ The more an entity is abstracted, the less [novelty](./novelty.md) that individu
 
 > A separation from worldly objects; a recluse life, as a hermit's abstraction; the withdrawal from one's senses.
 
-> The act of focusing on one characteristic of an object rather than the object as a whole group of characteristics; the act of separating said qualities from the object or ideas. "Abstraction is necessary for the classification of things into genera and species."
+> The act of focusing on one characteristic of an object rather than the object as a whole group of characteristics; the act of separating said qualities from the object or ideas.
 
 > The act of comparing commonality between distinct objects and organizing using those similarities; the act of generalizing characteristics; the product of said generalization.
 

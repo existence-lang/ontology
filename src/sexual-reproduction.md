@@ -22,7 +22,9 @@ Multiple [concepts](./concept.md) can create a new concept via sexual reproducti
 
 <a href="http://en.wikipedia.org/wiki/Sexual_reproduction" target="_blank">Sexual Reproduction (Wikipedia)</a>
 
-> Sexual reproduction is a process that creates a new organism by combining the genetic material of two organisms. It occurs in eukaryotes.[1][2] Prokaryotes display processes similar to sex (mechanisms for lateral gene transfer such as conjugation, transformation and transduction), but they do not lead to reproduction. Prokaryotes reproduce through asexual reproduction. In multicellular eukaryote organisms, an individual is created anew; in prokaryotes, the initial cell has additional or transformed genetic material. In a process called genetic recombination, genetic material (DNA) originating from two different individuals join up so that homologous sequences are aligned with each other, and this is followed by exchange of genetic information. After the new recombinant chromosome is formed, it is passed on to progeny.
+> Sexual reproduction is a type of reproduction that involves a complex life cycle in which a gamete (haploid reproductive cells, such as a sperm or egg cell) with a single set of chromosomes combines with another gamete to produce a zygote that develops into an organism composed of cells with two sets of chromosomes (diploid).
+
+> Sexual reproduction is the most common life cycle in multicellular eukaryotes, such as animals, fungi and plants. Sexual reproduction also occurs in some unicellular eukaryotes. Sexual reproduction does not occur in prokaryotes, unicellular organisms without cell nuclei, such as bacteria and archaea.
 
 ### [Pattern](./pattern.md) Expression
 

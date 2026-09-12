@@ -12,7 +12,7 @@ Explicit scope matters because clarity of [scope](./scope.md) prevents misunders
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/explicit" target="_blank">explicit (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/explicit" target="_blank">explicit (wiktionary)</a> <a href="https://web.archive.org/web/20150203102319/http://en.wiktionary.org/wiki/explicit" target="_blank">(archived 2015-02-03)</a>
 
 > ### Adjective (comparative more explicit, superlative most explicit)
 

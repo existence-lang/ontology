@@ -12,7 +12,7 @@ Tools matter because they extend an [entity's](./entity.md) capacity to act upon
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/tool" target="_blank">tool (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/tool" target="_blank">tool (wiktionary)</a> <a href="https://web.archive.org/web/20150211065333/http://en.wiktionary.org/wiki/tool" target="_blank">(archived 2015-02-11)</a> <a href="https://web.archive.org/web/20130117064115/http://en.wiktionary.org/wiki/tool" target="_blank">(archived 2013-01-17)</a>
 
 > ### Noun
 

@@ -36,7 +36,9 @@ Spirituality is often accompanied with a zen feeling of peace. A being in "the z
 
 <a href="https://en.wikipedia.org/wiki/Spirituality" target="_blank">Spirituality (Wikipedia)</a>
 
-> Traditionally spirituality has been defined as a process of personal transformation in accordance with religious ideals. Since the 19th century spirituality is often separated from religion, and has become more oriented on subjective experience and psychological growth. It may refer to almost any kind of meaningful activity or blissful experience, but without a single, widely-agreed definition.
+> The meaning of spirituality has developed and expanded over time, and various meanings can be found alongside each other. Traditionally, spirituality referred to a religious process of re-formation which "aims to recover the original shape of man", oriented at "the image of God" as exemplified by the founders and sacred texts of the religions of the world.
+
+> Modern usages tend to refer to a subjective experience of a sacred dimension, and the "deepest values and meanings by which people live", often in a context separate from organized religious institutions.
 
 ### [Pattern](./pattern.md) Expression
 

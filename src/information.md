@@ -38,7 +38,7 @@ The perception of Information is dependent on the [resolution](./resolution.md) 
 
 > (computing) […] the meaning that a human assigns to data by means of the known conventions used in its representation.
 
-<a href="https://en.wikipedia.org/wiki/Information" target="_blank">Information (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Information" target="_blank">Information (Wikipedia)</a> <a href="https://web.archive.org/web/20150104000358/https://en.wikipedia.org/wiki/Information" target="_blank">(archived 2015-01-04)</a>
 
 > Information (shortened as info or info.) is that which informs, i.e. that from which knowledge and data can be derived (as data represents values attributed to parameters, and knowledge signifies understanding of real things or abstract concepts). As it regards data, the information's existence is not necessarily coupled to an observer (it exists beyond an event horizon, for example), while in the case of knowledge, information requires a cognitive observer. At its most fundamental, information is any propagation of cause and effect within a system. Information is conveyed either as the content of a message or through direct or indirect observation of some thing. That which is perceived can be construed as a message in its own right, and in that sense, information is always conveyed as the content of a message. Information can be encoded into various forms for transmission and interpretation. For example, information may be encoded into signs, and transmitted via signals.
 
@@ -48,7 +48,7 @@ The perception of Information is dependent on the [resolution](./resolution.md) 
 
 <a href="http://web.archive.org/web/20210308120600/https://en.wikipedia.org/wiki/Physical_information" target="_blank">Physical Information (Wikipedia)</a>
 
-> That which can distinguish one thing from another.
+> Physical information is a form of information. In physics, it refers to the information of a physical system.
 
 ### [Pattern](./pattern.md) Expression
 

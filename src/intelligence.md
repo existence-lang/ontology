@@ -12,7 +12,7 @@ This philosophy expands the traditional scope of Intelligence to mean the [contr
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/intelligence" target="_blank">intelligence (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/intelligence" target="_blank">intelligence (wiktionary)</a> <a href="https://web.archive.org/web/20150216001230/http://en.wiktionary.org/wiki/intelligence" target="_blank">(archived 2015-02-16)</a>
 
 > ### Noun
 
@@ -26,7 +26,7 @@ This philosophy expands the traditional scope of Intelligence to mean the [contr
 
 > (dated) Acquaintance; intercourse; familiarity.
 
-<a href="https://en.wikipedia.org/wiki/Intelligence" target="_blank">Intelligence (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Intelligence" target="_blank">Intelligence (Wikipedia)</a> <a href="https://web.archive.org/web/20150103065258/https://en.wikipedia.org/wiki/Intelligence" target="_blank">(archived 2015-01-03)</a>
 
 > Intelligence has been defined in many different ways such as in terms of one's capacity for logic, abstract thought, understanding, self-awareness, communication, learning, emotional knowledge, memory, planning, creativity and problem solving. It can also be more generally described as the ability to perceive and/or retain knowledge or information and apply it to itself or other instances of knowledge or information creating referable understanding models of any size, density, or complexity, due to any conscious or subconscious imposed will or instruction to do so.
 

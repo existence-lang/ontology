@@ -12,7 +12,7 @@ permissions:
 env:
   # existence-lang/existence release providing `existence audit --structure`
   # (bump to pick up CLI changes)
-  EXISTENCE_REV: v0.7.0
+  EXISTENCE_REV: v0.8.0
 
 jobs:
   audit:

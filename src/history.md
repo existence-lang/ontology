@@ -12,7 +12,7 @@ History and [story](./story.md) are synonymous. One can say History of the Earth
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/history" target="_blank">history (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/history" target="_blank">history (wiktionary)</a> <a href="https://web.archive.org/web/20130122225648/http://en.wiktionary.org/wiki/history" target="_blank">(archived 2013-01-22)</a> <a href="https://web.archive.org/web/20150222122211/http://en.wiktionary.org/wiki/history" target="_blank">(archived 2015-02-22)</a>
 
 > ### Noun
 

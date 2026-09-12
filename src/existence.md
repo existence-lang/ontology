@@ -32,7 +32,7 @@ Contrary to some [cultural](./culture.md) [definitions](./definition.md), Existe
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/existence" target="_blank">existence (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/existence" target="_blank">existence (wiktionary)</a> <a href="https://web.archive.org/web/20130115224250/http://en.wiktionary.org/wiki/existence" target="_blank">(archived 2013-01-15)</a>
 
 > ### Noun
 

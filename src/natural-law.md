@@ -20,7 +20,7 @@ Natural law matters because it represents the fixed [patterns](./pattern.md) tha
 
 > law of nature; relating to natural phenomena.
 
-<a href="http://en.wikipedia.org/wiki/Natural_law" target="_blank">Natural Law (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Natural_law" target="_blank">Natural Law (Wikipedia)</a> <a href="https://web.archive.org/web/20150103112547/http://en.wikipedia.org/wiki/Natural_law" target="_blank">(archived 2015-01-03)</a>
 
 > Natural law, or the law of nature (Latin: lex naturalis; ius naturale), is a system of law that is determined by nature, and so is universal. Classically, natural law refers to the use of reason to analyze human nature — both social and personal — and deduce binding rules of moral behavior from it. Natural law is often contrasted with the positive law of a given political community, society, or state.
 

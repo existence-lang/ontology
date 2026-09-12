@@ -18,7 +18,7 @@ Control systems matter because they govern the behavior of [entities](./entity.m
 
 > To exercise influence over; to suggest or dictate the behavior of.
 
-<a href="http://en.wiktionary.org/wiki/system" target="_blank">system (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/system" target="_blank">system (wiktionary)</a> <a href="https://web.archive.org/web/20150217183700/http://en.wiktionary.org/wiki/system" target="_blank">(archived 2015-02-17)</a>
 
 > ### Noun
 

@@ -12,7 +12,7 @@ In modern [culture](./culture.md), Evolution often refers to Biological Evolutio
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/evolution" target="_blank">evolution (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/evolution" target="_blank">evolution (wiktionary)</a> <a href="https://web.archive.org/web/20150302021551/http://en.wiktionary.org/wiki/evolution" target="_blank">(archived 2015-03-02)</a>
 
 > ### Noun
 
@@ -32,7 +32,7 @@ In modern [culture](./culture.md), Evolution often refers to Biological Evolutio
 
 <a href="http://www.etymonline.com/index.php?term=evolution" target="_blank">Evolution (etymonline.com)</a>
 
-<a href="https://en.wikipedia.org/wiki/Evolution_(disambiguation)" target="_blank">Evolution (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Evolution_(disambiguation)" target="_blank">Evolution (Wikipedia)</a> <a href="https://web.archive.org/web/20141014232907/https://en.wikipedia.org/wiki/Evolution_(disambiguation)" target="_blank">(archived 2014-10-14)</a>
 
 > In biology, evolution is change in traits of a population of organisms over time (due to a number of mechanisms and processes).
 

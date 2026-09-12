@@ -14,7 +14,7 @@ The Spirit of Greed causes one to act in greedy ways.
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/spirit" target="_blank">spirit (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/spirit" target="_blank">spirit (wiktionary)</a> <a href="https://web.archive.org/web/20150215024307/http://en.wiktionary.org/wiki/spirit" target="_blank">(archived 2015-02-15)</a>
 
 > ### Noun
 

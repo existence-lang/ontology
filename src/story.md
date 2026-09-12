@@ -18,7 +18,7 @@ A Story is algorithmic. It is often of a low [resolution](./resolution.md), thus
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/story" target="_blank">story (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/story" target="_blank">story (wiktionary)</a> <a href="https://web.archive.org/web/20130123081815/http://en.wiktionary.org/wiki/story" target="_blank">(archived 2013-01-23)</a> <a href="https://web.archive.org/web/20150218043426/http://en.wiktionary.org/wiki/story" target="_blank">(archived 2015-02-18)</a>
 
 > ### Noun
 
@@ -34,7 +34,7 @@ A Story is algorithmic. It is often of a low [resolution](./resolution.md), thus
 
 > A sequence of events, or a situation, such as might be related in an account. "What's the story with him?" "I tried it again; same story, no error message, nothing happened."
 
-<a href="https://en.wikipedia.org/wiki/Story" target="_blank">Story (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Story" target="_blank">Story (Wikipedia)</a> <a href="https://web.archive.org/web/20150315014232/https://en.wikipedia.org/wiki/Story" target="_blank">(archived 2015-03-15)</a>
 
 > Story, a recounting of a sequence of events
 

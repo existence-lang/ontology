@@ -64,7 +64,7 @@ Since communication affects other entities in constructive & destructive ways, t
 
 > (rhetoric) A trope by which a speaker assumes that his hearer is a partner in his sentiments, and says "we" instead of "I" or "you".
 
-<a href="https://en.wikipedia.org/wiki/Information" target="_blank">Information (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Information" target="_blank">Information (Wikipedia)</a> <a href="https://web.archive.org/web/20150104000358/https://en.wikipedia.org/wiki/Information" target="_blank">(archived 2015-01-04)</a>
 
 > Communication normally exists within the context of some social situation. The social situation sets the context for the intentions conveyed (pragmatics) and the form in which communication takes place. In a communicative situation intentions are expressed through messages which comprise collections of inter-related signs taken from a language which is mutually understood by the agents involved in the communication. Mutual understanding implies that agents involved understand the chosen language in terms of its agreed syntax (syntactics) and semantics. The sender codes the message in the language and sends the message as signals along some communication channel (empirics). The chosen communication channel will have inherent properties which determine outcomes such as the speed with which communication can take place and over what distance.
 

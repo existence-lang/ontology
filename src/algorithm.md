@@ -24,7 +24,7 @@ A precise step-by-step plan for a procedure that possibly begins with an input v
 
 <a href="http://en.wikipedia.org/wiki/Algorithm" target="_blank">Algorithm (Wikipedia)</a>
 
-> In mathematics and computer science, an algorithm (Listeni/ˈælɡərɪðəm/ al-gə-ri-dhəm) is a self-contained step-by-step set of operations to be performed. Algorithms exist that perform calculation, data processing, and automated reasoning.
+> As an effective method, an algorithm can be expressed within both a finite amount of space and time and in a well-defined formal language for calculating a function. Starting from an initial state and input, a computation occurs at each step, eventually producing output and terminating.
 
 ### [Pattern](./pattern.md) Expression
 

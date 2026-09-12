@@ -20,12 +20,13 @@ Technology matters because it extends the capabilities of [entities](./entity.md
 
 > All the different and usable technologies developed by a culture or people.
 
-<a href="https://en.wikipedia.org/wiki/Technology" target="_blank">Technology (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Technology" target="_blank">Technology (Wikipedia)</a> <a href="https://web.archive.org/web/20150108134659/https://en.wikipedia.org/wiki/Technology" target="_blank">(archived 2015-01-08)</a>
 
 > Technology (from Greek τέχνη, techne, "art, skill, cunning of hand"; and -λογία, -logia) is the collection of tools, including machinery, modifications, arrangements and procedures used by humans. Engineering is the discipline that seeks to study and design new technologies. Technologies significantly affect human as well as other animal species' ability to control and adapt to their natural environments. The term can either be applied generally or to specific areas: examples include construction technology, medical technology and information technology.
 
-> The Extensions of Man
-> -- Marshall McLuhan
+<a href="https://en.wikipedia.org/wiki/Understanding_Media" target="_blank">Understanding Media: The Extensions of Man (Wikipedia)</a>
+
+> Understanding Media: The Extensions of Man is a 1964 book by Marshall McLuhan, in which the author proposes that the media, not the content that they carry, should be the focus of study.
 
 ### [Pattern](./pattern.md) Expression
 

@@ -12,7 +12,7 @@ Since humans communicate with symbolic [language](./language.md), we tend to vie
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/human" target="_blank">human (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/human" target="_blank">human (wiktionary)</a> <a href="https://web.archive.org/web/20210105052707/http://en.wiktionary.org/wiki/human" target="_blank">(archived 2021-01-05)</a>
 
 > ### Adjective (comparative more human, superlative most human)
 

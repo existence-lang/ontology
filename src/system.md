@@ -18,7 +18,7 @@ A system is an [Entity](./entity.md).
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/system" target="_blank">system (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/system" target="_blank">system (wiktionary)</a> <a href="https://web.archive.org/web/20150217183700/http://en.wiktionary.org/wiki/system" target="_blank">(archived 2015-02-17)</a>
 
 > ### Noun
 

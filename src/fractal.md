@@ -40,7 +40,7 @@ The Cosmic Scale</a>
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/fractal" target="_blank">fractal (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/fractal" target="_blank">fractal (wiktionary)</a> <a href="https://web.archive.org/web/20150212091538/http://en.wiktionary.org/wiki/fractal" target="_blank">(archived 2015-02-12)</a>
 
 > ### Noun
 

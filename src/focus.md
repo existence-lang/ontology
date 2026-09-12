@@ -16,7 +16,7 @@ Relates to [presence](./presence.md) and [consciousness](./consciousness.md).
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/focus" target="_blank">focus (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/focus" target="_blank">focus (wiktionary)</a> <a href="https://web.archive.org/web/20150216054810/http://en.wiktionary.org/wiki/focus" target="_blank">(archived 2015-02-16)</a>
 
 > ### Noun
 

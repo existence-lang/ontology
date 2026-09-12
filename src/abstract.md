@@ -57,7 +57,7 @@ Abstract concepts matter because they liberate thought from the physical — ena
 
 > (real estate) A summary title of the key points detailing a tract of land, for ownership; abstract of title.
 
-<a href="https://en.wikipedia.org/wiki/Abstract_object" target="_blank">Abstract Object (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Abstract_object" target="_blank">Abstract Object (Wikipedia)</a> <a href="https://web.archive.org/web/20150314181457/https://en.wikipedia.org/wiki/Abstract_object" target="_blank">(archived 2015-03-14)</a>
 
 > an object with no physical referents
 

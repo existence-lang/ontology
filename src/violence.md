@@ -14,7 +14,7 @@ Violence can [judged](./judgement.md) as harmful or helpful. Every change, inclu
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/violence" target="_blank">violence (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/violence" target="_blank">violence (wiktionary)</a> <a href="https://web.archive.org/web/20150104044603/http://en.wiktionary.org/wiki/violence" target="_blank">(archived 2015-01-04)</a>
 
 > ### Noun
 

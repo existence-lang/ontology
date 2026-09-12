@@ -12,7 +12,7 @@ Context limits the amount of information needed to create a [contextual systems]
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/context" target="_blank">context (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/context" target="_blank">context (wiktionary)</a> <a href="https://web.archive.org/web/20150107111820/http://en.wiktionary.org/wiki/context" target="_blank">(archived 2015-01-07)</a>
 
 > ### Noun
 

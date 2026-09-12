@@ -12,7 +12,7 @@ Love matters because it is the attractive force that bonds [entities](./entity.m
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/love" target="_blank">love (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/love" target="_blank">love (wiktionary)</a> <a href="https://web.archive.org/web/20150216063538/http://en.wiktionary.org/wiki/love" target="_blank">(archived 2015-02-16)</a>
 
 > ### Noun
 
@@ -38,7 +38,7 @@ Love matters because it is the attractive force that bonds [entities](./entity.m
 
 > ### Verb (third-person singular simple present loves, present participle loving, simple past and past participle loved)
 
-> (usually transitive, sometimes intransitive) To have a strong affection for (someone or something). "I love my spouse. I love you!"
+> (usually transitive, sometimes intransitive, stative) To have a strong affection for (someone or something).
 
 > (transitive) To need, thrive on. "Mold loves moist, dark places."
 

@@ -26,11 +26,11 @@ Conceptual Existence is where all [models](./model.md), [definitions](./definiti
 
 > The state of being, existing, or occurring; beinghood.
 
-<a href="https://en.wikipedia.org/wiki/Abstract_object" target="_blank">Abstract Object (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Abstract_object" target="_blank">Abstract Object (Wikipedia)</a> <a href="https://web.archive.org/web/20210319012157/https://en.wikipedia.org/wiki/Abstract_object" target="_blank">(archived 2021-03-19)</a>
 
 > In metaphysics, the distinction between abstract and concrete refers to a divide between two types of entities. Many philosophers hold that this difference has fundamental metaphysical significance.
 
-<a href="https://en.wikipedia.org/wiki/Platonic_realism" target="_blank">Platonic Realism (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Platonic_realism" target="_blank">Platonic Realism (Wikipedia)</a> <a href="https://web.archive.org/web/20200107103850/https://en.wikipedia.org/wiki/Platonic_realism" target="_blank">(archived 2020-01-07)</a>
 
 > Platonic realism is the philosophical position that universals or abstract objects exist objectively and outside of human minds. It is named after the Greek philosopher Plato who applied realism to such universals, which he considered ideal forms.
 

@@ -24,7 +24,7 @@ Consciousness is the [Entity's](./entity.md) conscious [perspective](./perspecti
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/conscious" target="_blank">conscious (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/conscious" target="_blank">conscious (wiktionary)</a> <a href="https://web.archive.org/web/20130103131817/http://en.wiktionary.org/wiki/conscious" target="_blank">(archived 2013-01-03)</a>
 
 > ### Adjective
 

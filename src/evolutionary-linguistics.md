@@ -18,7 +18,7 @@ See [linguistics](./linguistics.md).
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/evolution" target="_blank">evolution (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/evolution" target="_blank">evolution (wiktionary)</a> <a href="https://web.archive.org/web/20150302021551/http://en.wiktionary.org/wiki/evolution" target="_blank">(archived 2015-03-02)</a>
 
 > ### Noun
 

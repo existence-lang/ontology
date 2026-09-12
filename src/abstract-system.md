@@ -20,7 +20,7 @@ A programming language, a mathematical framework, a legal code, a [philosophy](.
 
 > Apart from practice or reality; vague; theoretical; impersonal; not applied.
 
-<a href="https://en.wikipedia.org/wiki/Abstract_object" target="_blank">Abstract Object (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Abstract_object" target="_blank">Abstract Object (Wikipedia)</a> <a href="https://web.archive.org/web/20150314181457/https://en.wikipedia.org/wiki/Abstract_object" target="_blank">(archived 2015-03-14)</a>
 
 > an object with no physical referents
 
@@ -28,7 +28,7 @@ A programming language, a mathematical framework, a legal code, a [philosophy](.
 
 > A system is a set of interacting or interdependent components forming an integrated whole.
 
-<a href="https://en.wikipedia.org/wiki/Formal_system" target="_blank">Formal System (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Formal_system" target="_blank">Formal System (Wikipedia)</a> <a href="https://web.archive.org/web/20220101150710/https://en.wikipedia.org/wiki/Formal_system" target="_blank">(archived 2022-01-01)</a>
 
 > A formal system is an abstract structure used for inferring theorems from axioms according to a set of rules.
 
