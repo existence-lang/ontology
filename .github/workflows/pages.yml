@@ -16,7 +16,7 @@ concurrency:
 
 env:
   # existence-lang/existence release tag providing `existence export` (bump to pick up CLI changes)
-  EXISTENCE_REV: v0.8.0
+  EXISTENCE_REV: v0.8.1
 
 jobs:
   build:
