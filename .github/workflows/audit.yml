@@ -85,11 +85,14 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           set +e
+          semantic=off
           if [ -n "$SEMANTIC_KEY" ]; then
+            semantic=on
             existence --ontology . audit --all --fix --semantic --format json -o audit/report.json
             status=$?
             if [ "$status" -eq 2 ]; then
               echo "::warning::the semantic class could not run (check the ANTHROPIC_API_KEY secret); re-running without it"
+              semantic=failed
               existence --ontology . audit --all --fix --format json -o audit/report.json
               status=$?
             fi
@@ -99,6 +102,8 @@ jobs:
           fi
           set -e
           echo "status=$status" >> "$GITHUB_OUTPUT"
+          # The report cannot show that a class never ran; the issue body says so.
+          echo "semantic=$semantic" >> "$GITHUB_OUTPUT"
           if [ "$status" -eq 2 ]; then
             echo "::error::audit could not run"; exit 2
           fi
@@ -126,6 +131,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "no safe fixes or lock changes this run"
             echo "link=" >> "$GITHUB_OUTPUT"
+            echo "pr_state=on" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git checkout -B "$FIX_BRANCH"
@@ -137,6 +143,7 @@ jobs:
           if [ -n "$existing" ]; then
             echo "pull request already open; branch updated: $existing"
             echo "link=$existing" >> "$GITHUB_OUTPUT"
+            echo "pr_state=on" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           set +e
@@ -147,6 +154,7 @@ jobs:
           if [ "$created" -eq 0 ]; then
             echo "opened $url"
             echo "link=$url" >> "$GITHUB_OUTPUT"
+            echo "pr_state=on" >> "$GITHUB_OUTPUT"
           else
             # The organization forbids GITHUB_TOKEN from opening pull requests
             # (add an AUDIT_TOKEN secret to lift that); the branch is pushed, so
@@ -154,9 +162,15 @@ jobs:
             compare="${{ github.server_url }}/${{ github.repository }}/compare/main...$FIX_BRANCH?expand=1"
             echo "::warning::could not open the pull request; branch $FIX_BRANCH is pushed — open it at $compare"
             echo "link=$compare" >> "$GITHUB_OUTPUT"
+            echo "pr_state=off" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Render the issue body
+        env:
+          # An optional pass that never ran leaves no trace in the report, so
+          # its state travels beside it and the issue explains its own gaps.
+          AUDIT_PR_STATE: ${{ steps.pr.outputs.pr_state || 'on' }}
+          AUDIT_SEMANTIC_STATE: ${{ steps.audit.outputs.semantic || 'on' }}
         run: |
           python3 .github/scripts/audit_report.py audit/report.json /tmp/previous-report.json > /tmp/issue-body.md
           if [ -n "${{ steps.pr.outputs.link }}" ]; then
