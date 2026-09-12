@@ -64,8 +64,12 @@ optional = true
 # its node in one compressed line for use in conversation, so it is checked for
 # term coverage, not wording. `compare = "wording"` would report all nine
 # kernel rows as drift while every one of them is accurate.
+# `rings = [0]` is a completeness claim: this table is exactly the 14 Ring 0
+# kernel terms, so a new kernel term that never gets a row is reported instead
+# of rotting the mirror silently. `compare` only ever judges the rows present.
 [[mirrors]]
 path = "~/.claude/CLAUDE.md"
 kind = "table"
 optional = true
 compare = "paraphrase"
+rings = [0]
