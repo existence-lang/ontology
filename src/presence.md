@@ -36,7 +36,7 @@ Presence matters because it determines the quality of an [entity's](./entity.md)
 
 All Entities have the trait of presence.
 
-### A Human with Presence
+#### A Human with Presence
 
 When someone (subject entity) is present in a conversation (containing entity), that person is energetically focused on the conversation.
 

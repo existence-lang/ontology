@@ -26,7 +26,7 @@ Consciousness is the [Entity's](./entity.md) ability to interpret relevant signa
 
 Unconsciousness is a pattern that is applicable anywhere in [Existence](./existence.md).
 
-### [Scope](./scope.md), or Being Present within an Entity
+#### [Scope](./scope.md), or Being Present within an Entity
 
 All entities, including the [Universal Set](./universal-set.md) of [Existence](./existence.md), are members of another entity. Examples of being present include, being present in a conversation, being present in your thought experiment.
 

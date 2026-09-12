@@ -30,27 +30,25 @@ This philosophy expands the traditional scope of Intelligence to mean the [contr
 
 > Intelligence has been defined in many different ways such as in terms of one's capacity for logic, abstract thought, understanding, self-awareness, communication, learning, emotional knowledge, memory, planning, creativity and problem solving. It can also be more generally described as the ability to perceive and/or retain knowledge or information and apply it to itself or other instances of knowledge or information creating referable understanding models of any size, density, or complexity, due to any conscious or subconscious imposed will or instruction to do so.
 
-### Links
-
 <a href="http://jmozah.github.io/links/" target="_blank">Deep Learning Reading List (jmozah.github.io)</a>
 
 ### [Pattern](./pattern.md) Expression
 
 Intelligence is a pattern that is applicable anywhere in [Existence](./existence.md).
 
-### Human Intelligence
+#### Human Intelligence
 
 In [humans](./human.md), the scope of Intelligence goes beyond the mind to relate to [emotions](./emotion.md), cellular intelligence, cellular [collective](./collective.md) intelligence, etc.
 
-### [Collective](./collective.md) Intelligence
+#### [Collective](./collective.md) Intelligence
 
 Entities also include groups of people, so a community, a nation, an organization, etc. has intelligence.
 
-### Inanimate Object Inanimate
+#### Inanimate Object
 
 The intelligence (control system) of a rock (hardness, elasticity, density, mass, etc.) are determined by the rock's chemical composition, shape, crystalline structure, [environment](./environment.md), etc.
 
-### Conceptual Intelligence
+#### Conceptual Intelligence
 
 A concept has intelligence as it relates to another entity. For example, a person focusing on a concept is effected by the concept in certain ways.
 
