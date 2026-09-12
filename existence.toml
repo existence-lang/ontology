@@ -73,3 +73,72 @@ kind = "table"
 optional = true
 compare = "paraphrase"
 rings = [0]
+
+# Mentions reviewed and deliberately left unlinked. `--contradictions` finds a
+# known term named in a lay definition without a link; these twelve are the
+# answer "yes, and it stays that way", so recording them here stops the weekly
+# report from re-asking a settled question. An entry that stops matching is
+# reported as `stale_keep` — this list is a record of decisions, not a drawer.
+
+# `nature` and `types` are ordinary English about values, not the nodes.
+[[audit.keep_unlinked]]
+term = "axiology"
+mention = "nature"
+reason = "the nature of values, ordinary English, not the Nature node"
+
+[[audit.keep_unlinked]]
+term = "axiology"
+mention = "type"
+reason = "kinds of value, ordinary English, not type theory"
+
+[[audit.keep_unlinked]]
+term = "ontology"
+mention = "type"
+reason = "the fundamental types of entity, ordinary English, not type theory"
+
+[[audit.keep_unlinked]]
+term = "domain"
+mention = "unique"
+reason = "\"her unique characteristics\" is the adjective, not the node"
+
+[[audit.keep_unlinked]]
+term = "type"
+mention = "science"
+reason = "\"mathematics, logic, and computer science\" names a field in a borrowed sentence"
+
+[[audit.keep_unlinked]]
+term = "consciousness"
+mention = "being"
+reason = "\"the ability of being present\" is a gerund, not the noun Being"
+
+[[audit.keep_unlinked]]
+term = "unique"
+mention = "being"
+reason = "\"Being the only one of its kind\" is a participle, not the noun Being"
+
+[[audit.keep_unlinked]]
+term = "belief-system"
+mention = "system"
+reason = "occurs only inside this node's own name, Belief System"
+
+[[audit.keep_unlinked]]
+term = "evolutionary-linguistics"
+mention = "linguistics"
+reason = "occurs only inside this node's own name, Evolutionary Linguistics"
+
+[[audit.keep_unlinked]]
+term = "physical-system"
+mention = "system"
+reason = "\"outside the system\" refers back to this node itself"
+
+[[audit.keep_unlinked]]
+term = "epistemology"
+mention = "concept"
+reason = "inside the quoted Plato example, not the definition's own prose"
+
+# Settled by #xlgenuscycles, which resolved the other four pairs and left this
+# one: being.md is "To be, to exist", so the link would recreate the cycle.
+[[audit.keep_unlinked]]
+term = "exist"
+mention = "being"
+reason = "linking it would recreate a mutual-definition cycle with being"
