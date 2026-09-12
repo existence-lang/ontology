@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-The inability to interpret relevant signals. Opposite of [consciousness](./consciousness.md).
+The inability to interpret relevant [signals](./signal.md). Opposite of [consciousness](./consciousness.md).
 
 ## [Axiology](./axiology.md)
 

@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-To not agree (harmonize).
+To not [agree](./agree.md) (harmonize).
 
 ## [Axiology](./axiology.md)
 

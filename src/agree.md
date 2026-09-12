@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Multiple [Entities](./entity.md) agree on an [abstraction](./abstraction.md) when their definitions of the abstraction are the same.
+Multiple [Entities](./entity.md) agree on an [abstraction](./abstraction.md) when their [definitions](./definition.md) of the abstraction are the same.
 
 Agreements are required for [concrescence](./concrescence.md) to occur.
 

@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-To give a new or different definition to a word.
+To give a new or different [definition](./definition.md) to a word.
 
 ## [Axiology](./axiology.md)
 

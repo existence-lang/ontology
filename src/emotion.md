@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-An [Entity's](./entity.md) internal state of being. Emotion is often an involuntary response tied to the Entity's received & transmitted [signals](./signal.md).
+An [Entity's](./entity.md) internal [state](./state.md) of [being](./being.md). Emotion is often an involuntary response tied to the Entity's received & transmitted [signals](./signal.md).
 
 ## [Axiology](./axiology.md)
 

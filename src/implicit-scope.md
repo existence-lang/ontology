@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-The Implicit Scope is an unmentioned [scope](./scope.md) applied to the definition of a word.
+The Implicit Scope is an unmentioned [scope](./scope.md) applied to the [definition](./definition.md) of a word.
 
 ## [Axiology](./axiology.md)
 

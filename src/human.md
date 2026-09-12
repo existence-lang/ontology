@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Modern humans (Homo sapiens or Homo sapiens sapiens) are the only extant members of the hominin clade, a branch of great apes characterized by erect posture and bipedal locomotion; manual dexterity and increased tool use; and a general trend toward larger, more complex brains and societies.
+Modern humans (Homo sapiens or Homo sapiens sapiens) are the only extant members of the hominin clade, a branch of great apes characterized by erect posture and bipedal locomotion; manual dexterity and increased [tool](./tool.md) use; and a general trend toward larger, more complex brains and societies.
 
 ## [Axiology](./axiology.md)
 

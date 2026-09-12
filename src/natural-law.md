@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Law of [nature](./nature.md); relating to natural phenomena of [physical](./physical-system.md) & [conceptual](./conceptual-system.md) systems.
+Law of [nature](./nature.md); relating to natural [phenomena](./phenomena.md) of [physical](./physical-system.md) & [conceptual](./conceptual-system.md) [systems](./system.md).
 
 ## [Axiology](./axiology.md)
 

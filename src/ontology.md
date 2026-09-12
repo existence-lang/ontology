@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-The theory of a particular [philosophy](./philosophy.md) concerning the fundamental types of entity in the universe.
+The theory of a particular [philosophy](./philosophy.md) concerning the fundamental types of [entity](./entity.md) in the universe.
 
 ## [Axiology](./axiology.md)
 

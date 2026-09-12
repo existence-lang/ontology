@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-A tool that an [Entity](./entity.md) uses for a leveraged effect.
+A [tool](./tool.md) that an [Entity](./entity.md) uses for a leveraged effect.
 
 ## [Axiology](./axiology.md)
 

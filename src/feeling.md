@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-An [Entity's](./entity.md) internal [signal](./signal.md) that influences the Entity's state of being.
+An [Entity's](./entity.md) internal [signal](./signal.md) that influences the Entity's [state](./state.md) of [being](./being.md).
 
 ## [Axiology](./axiology.md)
 

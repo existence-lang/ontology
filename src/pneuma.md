@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Pneuma (πνεῦμα) is the animating [energy](./energy.md "broader") of an [entity](./entity.md) — the "breath" that makes a [system](./system.md) a living whole rather than an inert aggregate. Across traditions, pneuma names the [signal](./signal.md) that carries life, [spirit](./spirit.md), and [consciousness](./consciousness.md) through matter.
+Pneuma (πνεῦμα) is the animating [energy](./energy.md "broader") of an [entity](./entity.md) — the "breath" that makes a [system](./system.md) a living whole rather than an inert aggregate. Across [traditions](./tradition.md), pneuma names the [signal](./signal.md) that carries life, [spirit](./spirit.md), and [consciousness](./consciousness.md) through matter.
 
 In agent [context](./context.md): pneuma is the alignment intent — the guiding [perspective](./perspective.md) that keeps a system coherent across its actions. It is what makes an agent's behavior feel *directed* rather than reactive.
 

@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Useful information, as opposed to noise.
+Useful [information](./information.md), as opposed to noise.
 
 ## [Axiology](./axiology.md)
 

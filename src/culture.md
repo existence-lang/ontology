@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-An integrated system of learned behavior of a [collective](./collective.md).
+An integrated [system](./system.md) of learned behavior of a [collective](./collective.md).
 
 ## [Axiology](./axiology.md)
 

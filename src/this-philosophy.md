@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-This [philosophy](./philosophy.md) is the Explicit Philosophy defined in this domain.
+This [philosophy](./philosophy.md) is the Explicit Philosophy defined in this [domain](./domain.md).
 
 ## [Axiology](./axiology.md)
 

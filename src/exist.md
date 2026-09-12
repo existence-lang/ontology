@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-to be; have existence; have being or reality
+to be; have [existence](./existence.md); have being or [reality](./reality.md)
 
 ## [Axiology](./axiology.md)
 

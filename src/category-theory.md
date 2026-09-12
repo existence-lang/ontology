@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Category theory is used to formalize mathematics and its concepts as a collection of objects and arrows (also called morphisms). Category theory can be used to formalize concepts of other high-level abstractions such as set theory, ring theory, and group theory. Several terms used in category theory, including the term "morphism", differ from their uses within mathematics itself. In category theory, a "morphism" obeys a set of conditions specific to category theory itself. Thus, care must be taken to understand the context in which statements are made.
+Category theory is used to formalize mathematics and its [concepts](./concept.md) as a collection of objects and arrows (also called morphisms). Category theory can be used to formalize concepts of other high-level [abstractions](./abstraction.md) such as set theory, ring theory, and group theory. Several terms used in category theory, including the term "morphism", differ from their uses within mathematics itself. In category theory, a "morphism" obeys a set of conditions specific to category theory itself. Thus, care must be taken to understand the [context](./context.md) in which statements are made.
 
 ## [Axiology](./axiology.md)
 

@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-The scientific study of language understood by animals (e.g. humans).
+The scientific study of [language](./language.md) understood by animals (e.g. [humans](./human.md)).
 
 ## [Axiology](./axiology.md)
 

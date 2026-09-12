@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Presence is a state of an [entity](./entity.md) with energetic [focus](./focus.md) toward the [environment](./environment.md).
+Presence is a [state](./state.md) of an [entity](./entity.md) with energetic [focus](./focus.md) toward the [environment](./environment.md).
 
 ## [Axiology](./axiology.md)
 

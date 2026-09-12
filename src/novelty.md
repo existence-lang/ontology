@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-An Entity and context that is unique when viewed with the perceiving criteria.
+An [Entity](./entity.md) and [context](./context.md) that is [unique](./unique.md) when viewed with the perceiving criteria.
 
 ## [Axiology](./axiology.md)
 

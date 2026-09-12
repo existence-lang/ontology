@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-In mathematics, logic, and computer science, a type theory is any of a class of formal systems, some of which can serve as alternatives to set theory as a foundation for all mathematics. In type theory, every "term" has a "type" and operations are restricted to terms of a certain type.
+In mathematics, logic, and computer science, a type theory is any of a class of formal [systems](./system.md), some of which can serve as alternatives to set theory as a foundation for all mathematics. In type theory, every "term" has a "type" and operations are restricted to terms of a certain type.
 
 A grouping based on shared characteristics; a class.
 

@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-To create is to add [novelty](./novelty.md) to Existence.
+To create is to add [novelty](./novelty.md) to [Existence](./existence.md).
 
 ## [Axiology](./axiology.md)
 
