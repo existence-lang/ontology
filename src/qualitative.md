@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-A qualitative description distinguishes an [entity](./entity.md) by the kind of [pattern](./pattern.md) it shows rather than by a number: a distinction of quality, not of [quantity](./quantitative.md). A qualitative [signal](./signal.md) says *what sort* of thing is present; it can be named, grouped, and compared for likeness, but not added or measured.
+A qualitative description distinguishes an [entity](./entity.md) by the kind of [pattern](./pattern.md) it shows rather than by a number: a distinction of quality, not of quantity. A qualitative [signal](./signal.md) says *what sort* of thing is present; it can be named, grouped, and compared for likeness, but not added or measured.
 
 Every [abstraction](./abstraction.md) begins qualitatively, as a name for a kind of thing; a [definition](./definition.md) is a qualitative act. Choosing which qualities matter is a choice of [scope](./scope.md) and [resolution](./resolution.md).
 
