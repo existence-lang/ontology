@@ -1,6 +1,6 @@
 # existence-lang/ontology
 
-Reference existential ontology — 119 terms across Ring 0 kernel, Ring 1 software, and Ring 2 extended
+Reference existential ontology — 116 terms across Ring 0 kernel, Ring 1 software, and Ring 2 extended
 
 ## Ring 0 — kernel
 
@@ -33,10 +33,10 @@ The DDD bridge — immediately useful for software projects.
 - [**Definition**](src/definition.md) — A statement of the meaning of an [Abstraction](src/abstraction.md).
 - [**Information**](src/information.md) — That which can distinguish one thing from another. An [Entity](src/entity.md "broader").
 - [**Signal**](src/signal.md) — Useful information, as opposed to noise.
-- [**Language**](src/language.md) — Language is the [system](src/system.md) used by an [entity](src/entity.md) to communicate [abstractions](src/abstraction.md) by using [signals](src/signals.md).
+- [**Language**](src/language.md) — Language is the [system](src/system.md) used by an [entity](src/entity.md) to communicate [abstractions](src/abstraction.md) by using [signals](src/signal.md).
 - [**Tool**](src/tool.md) — [Conceptual](src/conceptual-system.md) or [Physical](src/physical-system.md) [System](src/system.md) that is used to create a desired effect on another System or itself.
 - [**Environment**](src/environment.md) — The surroundings of, and influences on, a particular [Entity](src/entity.md). The Environment is also an Entity.
-- [**Coherence**](src/coherence.md) — A set of one to many [Entities](src/entity.md) acting in unison & [agreement](src/agreement.md) with themselves & each other.
+- [**Coherence**](src/coherence.md) — A set of one to many [Entities](src/entity.md) acting in unison & [agreement](src/agree.md) with themselves & each other.
 - [**Communication**](src/communication.md) — An [Entity](src/entity.md) using [signals](src/signal.md) and [language](src/language.md) to affect another entity.
 - [**Collective**](src/collective.md) — A group of [Entities](src/entity.md). The Collective is an entity.
 - [**Integrity**](src/integrity.md) — Ability of an [Entity](src/entity.md) to adhere to a chosen [philosophy](src/philosophy.md).
@@ -45,14 +45,13 @@ The DDD bridge — immediately useful for software projects.
 
 ## Ring 2 — extended
 
-88 terms spanning philosophy, spirituality, cognition, linguistics, and more.
+85 terms spanning philosophy, spirituality, cognition, linguistics, and more.
 
 - [**Abstract**](src/abstract.md) — A [concept](src/concept.md) that is not physical. All perception of [language](src/language.md) & thoughts are abstract.
 - [**Abstract System**](src/abstract-system.md) — A [system](src/system.md) composed of [abstract](src/abstract.md) [entities](src/entity.md) rather than physical ones. An abstract system is a [conceptual system](src/conceptual-system.md) designed to [model](src/model.md), organize, or operate on [abstractions](src/abstraction.md).
 - [**Accuracy**](src/accuracy.md) — The accuracy of an [abstraction](src/abstraction.md) relates to the aspects that the abstraction is true to the target [concept](src/concept.md) it describes. If there are [contradictions](src/paradox.md) between the abstraction and the [reality](src/reality.md) of the target concept, then the description is not accurate. If everything from the description is true to the reality of the target concept, then the description is accurate.
 - [**Aesthetics**](src/aesthetics.md) — The study or philosophy of beauty. Aesthetics is related to [Axiology](src/axiology.md).
 - [**Agree**](src/agree.md) — Multiple [Entities](src/entity.md) agree on an [abstraction](src/abstraction.md) when their definitions of the abstraction are the same.
-- [**Agree**](src/agreement.md) — Multiple [Entities](src/entity.md) agree on an [abstraction](src/abstraction.md) when their definitions of the abstraction are the same.
 - [**Analogy**](src/analogy.md) — Analogies allow the entity to utilize the [patterns](src/pattern.md) of a known [entity](src/entity.md) on another entity. The patterns of the known entity are associated with experience and knowledge.
 - [**Animism**](src/animism.md) — A [belief](src/belief.md) that all [Entities](src/entity.md) have a [soul](src/soul.md).
 - [**Anthropomorphism**](src/anthropomorphism.md) — Attribution of the [Entity's](src/entity.md) form or other characteristics to anything other than that Entity.
@@ -92,7 +91,6 @@ The DDD bridge — immediately useful for software projects.
 - [**Heuristic**](src/heuristic.md) — Relating to general strategies or methods for solving problems.
 - [**History**](src/history.md) — The aggregate of past events.
 - [**Human**](src/human.md) — Modern humans (Homo sapiens or Homo sapiens sapiens) are the only extant members of the hominin clade, a branch of great apes characterized by erect posture and bipedal locomotion; manual dexterity and increased tool use; and a general trend toward larger, more complex brains and societies.
-- [**Human**](src/humans.md) — Modern humans (Homo sapiens or Homo sapiens sapiens) are the only extant members of the hominin clade, a branch of great apes characterized by erect posture and bipedal locomotion; manual dexterity and increased tool use; and a general trend toward larger, more complex brains and societies.
 - [**Illusion**](src/illusion.md) — Illusion is the distortion caused by the one's [perspective](src/perspective.md) when perceiving another [entity](src/entity.md).
 - [**Implicit Scope**](src/implicit-scope.md) — The Implicit Scope is an unmentioned [scope](src/scope.md) applied to the definition of a word.
 - [**Inertia**](src/inertia.md) — Inertia is a [pattern](src/pattern.md) that involves an [entity's](src/entity.md) resistance an entity (self or other) to altering it's current trajectory.
@@ -119,7 +117,6 @@ The DDD bridge — immediately useful for software projects.
 - [**Respect**](src/respect.md) — An attitude of consideration or high regard. Respect is an continuous property.
 - [**Science**](src/science.md) — Knowledge derived from scientific disciplines, scientific method, or any systematic effort.
 - [**Sexual Reproduction**](src/sexual-reproduction.md) — Reproduction from sex between two or more [entities](src/entity.md). This is opposed to asexual reproduction.
-- [**Signal**](src/signals.md) — Useful information, as opposed to noise.
 - [**Soul**](src/soul.md) — A Soul is an [entity's](src/entity.md) meta entity. It is the [system](src/system.md) that determines how an entity acts, [feels](src/feeling.md), etc. It contains the Entity's set of [perspectives](src/perspective.md).
 - [**Spirit**](src/spirit.md) — A [pattern](src/pattern.md) that is the motivation of the [Entity](src/entity.md) in it's current [state](src/state.md).
 - [**Spiritual Work**](src/spiritual-work.md) — A [spiritual](src/spirituality.md) experience can be triggered by work. Work is the activity that adults spend most of their conscious time performing.

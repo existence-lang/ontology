@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Language is the [system](./system.md) used by an [entity](./entity.md) to communicate [abstractions](./abstraction.md) by using [signals](./signals.md).
+Language is the [system](./system.md) used by an [entity](./entity.md) to communicate [abstractions](./abstraction.md) by using [signals](./signal.md).
 
 ## [Axiology](./axiology.md)
 

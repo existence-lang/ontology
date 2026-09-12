@@ -8,7 +8,7 @@ The archetypal supreme [Entity](./entity.md) of a [philosophy](./philosophy.md).
 
 In [this philosophy](./this-philosophy.md), God is [Existence](./existence.md).
 
-God tends to be a term with low [precision](./precision.md), due to [humans'](./humans.md) inability to focus on the vastness of Existence.
+God tends to be a term with low [precision](./precision.md), due to [humans'](./human.md) inability to focus on the vastness of Existence.
 
 <a href="http://theunboundedspirit.com/existence-is-god/" target="_blank">Existence is God (theunboundedspirit.com)</a>
 

@@ -8,7 +8,7 @@ Reality is the set of [entities](./entity.md) that affects the [perceiving](./pe
 
 Reality is the entity's [conscious](./consciousness.md) & unconscious perspective on [Existence](./existence.md). The [Information](./information.md) may be Consciously or Unconsciously experienced.
 
-### [Signals](./signals.md)
+### [Signals](./signal.md)
 
 Signals are the entities that directly affect the subject entity. Other entities may be the sources of the signals, so it often makes sense to name the source entities as the entities affecting the subject entity.
 

@@ -6,7 +6,7 @@ A [Scope](./scope.md) that is Expressed in a clear way. Note that the explicitne
 
 ## [Axiology](./axiology.md)
 
-Explicit scope matters because clarity of [scope](./scope.md) prevents misunderstanding and enables precise [communication](./communication.md). When [entities](./entity.md) make their scope explicit, [agreement](./agreement.md) becomes possible and [coherence](./coherence.md) increases. Ambiguity in scope is a primary source of confusion in [language](./language.md) and [systems](./system.md).
+Explicit scope matters because clarity of [scope](./scope.md) prevents misunderstanding and enables precise [communication](./communication.md). When [entities](./entity.md) make their scope explicit, [agreement](./agree.md) becomes possible and [coherence](./coherence.md) increases. Ambiguity in scope is a primary source of confusion in [language](./language.md) and [systems](./system.md).
 
 ## [Epistemology](./epistemology.md)
 

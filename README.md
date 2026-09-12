@@ -1,6 +1,6 @@
 # Existence Lang -- Ontology
 
-A domain ontology organized in concentric rings with 119 term files. Ring 0 is the universal kernel -- 14 terms that model Existence at the broadest scope. Ring 1 bridges the kernel to software engineering via Domain-Driven Design concepts. Ring 2 extends the ontology with 88 additional terms covering philosophy, spirituality, cognition, and other domains.
+A domain ontology organized in concentric rings with 116 term files. Ring 0 is the universal kernel -- 14 terms that model Existence at the broadest scope. Ring 1 bridges the kernel to software engineering via Domain-Driven Design concepts. Ring 2 extends the ontology with 85 additional terms covering philosophy, spirituality, cognition, and other domains.
 
 The full term index with lay definitions, grouped by ring, is [terms.md](terms.md).
 
@@ -11,7 +11,7 @@ Terms are defined as interconnected nodes in `src/`. Each node follows the struc
 ```
 Ring 0 (kernel)    -- 14 universal terms, always loaded
 Ring 1 (software)  -- 17 terms bridging to DDD and software domains
-Ring 2 (extended)  -- 88 terms across philosophy, spirituality, cognition, and more
+Ring 2 (extended)  -- 85 terms across philosophy, spirituality, cognition, and more
 ```
 
 Rings are additive. Ring 1 assumes Ring 0. Higher rings assume all lower rings. See [`existence.toml`](existence.toml) for the canonical ring definitions. (The `existence` CLI reads this file.)
@@ -67,7 +67,7 @@ The DDD bridge -- immediately useful for software projects. These terms extend R
 | qualitative | [src/qualitative.md](src/qualitative.md) |
 | quantitative | [src/quantitative.md](src/quantitative.md) |
 
-## Ring 2 -- Extended (88 terms)
+## Ring 2 -- Extended (85 terms)
 
 Broader ontological terms spanning philosophy, spirituality, cognition, linguistics, and more. These extend Ring 0 and Ring 1 into richer territory.
 
@@ -81,7 +81,6 @@ Broader ontological terms spanning philosophy, spirituality, cognition, linguist
 | accuracy | [src/accuracy.md](src/accuracy.md) |
 | aesthetics | [src/aesthetics.md](src/aesthetics.md) |
 | agree | [src/agree.md](src/agree.md) |
-| agreement | [src/agreement.md](src/agreement.md) |
 | analogy | [src/analogy.md](src/analogy.md) |
 | animism | [src/animism.md](src/animism.md) |
 | anthropomorphism | [src/anthropomorphism.md](src/anthropomorphism.md) |
@@ -121,7 +120,6 @@ Broader ontological terms spanning philosophy, spirituality, cognition, linguist
 | heuristic | [src/heuristic.md](src/heuristic.md) |
 | history | [src/history.md](src/history.md) |
 | human | [src/human.md](src/human.md) |
-| humans | [src/humans.md](src/humans.md) |
 | illusion | [src/illusion.md](src/illusion.md) |
 | implicit-scope | [src/implicit-scope.md](src/implicit-scope.md) |
 | inertia | [src/inertia.md](src/inertia.md) |
@@ -151,7 +149,6 @@ Broader ontological terms spanning philosophy, spirituality, cognition, linguist
 | respect | [src/respect.md](src/respect.md) |
 | science | [src/science.md](src/science.md) |
 | sexual-reproduction | [src/sexual-reproduction.md](src/sexual-reproduction.md) |
-| signals | [src/signals.md](src/signals.md) |
 | soul | [src/soul.md](src/soul.md) |
 | spirit | [src/spirit.md](src/spirit.md) |
 | spiritual-work | [src/spiritual-work.md](src/spiritual-work.md) |

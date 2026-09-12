@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-A set of one to many [Entities](./entity.md) acting in unison & [agreement](./agreement.md) with themselves & each other.
+A set of one to many [Entities](./entity.md) acting in unison & [agreement](./agree.md) with themselves & each other.
 
 ## [Axiology](./axiology.md)
 
