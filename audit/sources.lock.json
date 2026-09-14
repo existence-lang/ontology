@@ -1,0 +1,3838 @@
+{
+  "http://aeon.co/magazine/philosophy/how-consciousness-works/": {
+    "cited_by": [
+      "attention-schema"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "935c6a950799e12ffdebd4fca508c0eee8853b94b5428bcc39c3deab9452d128",
+    "quotes": {
+      "attention-schema": "unchecked"
+    },
+    "archives": []
+  },
+  "http://en.wikipedia.org/wiki/Aesthetics": {
+    "cited_by": [
+      "aesthetics"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "bcacb08d8afb7be0b1557372caab8ffa761918a692bbca7ca9e63b77f667ed13",
+    "quotes": {
+      "aesthetics": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150101221039/http://en.wikipedia.org/wiki/Aesthetics"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Agreement": {
+    "cited_by": [
+      "agree"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "835dc3c34d71d2aa1c788c2d17b25aa3d90f71ce0e35932b94c654c2b204c0bd",
+    "quotes": {
+      "agree": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150819160802/http://en.wikipedia.org/wiki/Agreement"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Algorithm": {
+    "cited_by": [
+      "algorithm"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "78a8b982b075a08fcfba53cdfdef85100ffc29fdaad6d08b583a0a077efbb5f4",
+    "quotes": {
+      "algorithm": "present"
+    },
+    "archives": []
+  },
+  "http://en.wikipedia.org/wiki/Animism": {
+    "cited_by": [
+      "animism"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c532424a9609a6b688618be2f10acce85ac1b77fb97913f65907b5ab7beb5c96",
+    "quotes": {
+      "animism": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102055427/http://en.wikipedia.org/wiki/Animism"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Axiology": {
+    "cited_by": [
+      "axiology"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "54724c80197cd47ec3e00bf4a2c82fd56ff20c573ace079dbf2efa3f52cba49f",
+    "quotes": {
+      "axiology": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150214212949/http://en.wikipedia.org/wiki/Axiology"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Belief": {
+    "cited_by": [
+      "belief",
+      "belief-system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "a8b005842b268c166992f338ebddcecf07e4e559f283409fd63700c3f502a389",
+    "quotes": {
+      "belief": "archived",
+      "belief-system": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150101091331/http://en.wikipedia.org/wiki/Belief"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Category_theory": {
+    "cited_by": [
+      "category-theory"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "5199bf5213cdb6d397852018b7a2a6629cabd2de108a7c2803c160ace6ceb43c",
+    "quotes": {
+      "category-theory": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108080206/http://en.wikipedia.org/wiki/Category_theory"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Coercion": {
+    "cited_by": [
+      "coercion"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "bc57aa5726f95b044ed1672b4da3a6aeb0429632d8b82b78e5998874cc7869bf",
+    "quotes": {
+      "coercion": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150109170934/http://en.wikipedia.org/wiki/Coercion"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Compassion": {
+    "cited_by": [
+      "compassion"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "610037b5b98a933c21dd78f53839d714f9362c4e688105d10395854a4b620465",
+    "quotes": {
+      "compassion": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150110233540/http://en.wikipedia.org/wiki/Compassion"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Conceptual_system": {
+    "cited_by": [
+      "conceptual-system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b77efa51c4019fc0d806f5e03430f022ddbf4f6ca74f4d3417fe78bb5c88027e",
+    "quotes": {
+      "conceptual-system": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150103043801/http://en.wikipedia.org/wiki/Conceptual_system"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Create": {
+    "cited_by": [
+      "create"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "dae5bdf502e60411c66da803ef630737cb533ab13b7b1c843ab71104d4c3ed8b",
+    "quotes": {
+      "create": "unchecked"
+    },
+    "archives": []
+  },
+  "http://en.wikipedia.org/wiki/Creativity": {
+    "cited_by": [
+      "create"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "dc75160958a348d57bb97268dcadf44d459320309a7fd49c2254d67d4d2c4f6a",
+    "quotes": {
+      "create": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150111055259/http://en.wikipedia.org/wiki/Creativity"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Definition": {
+    "cited_by": [
+      "definition"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "655e334559d0d232fc84d2733c367af70f1cc16360c63b8006e79968e3dc835e",
+    "quotes": {
+      "definition": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150111054354/http://en.wikipedia.org/wiki/Definition"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Domain-driven_design": {
+    "cited_by": [
+      "domain-driven-design"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "556417ff0876c6a926422cd3bc91a12e89a9fedb522aa4077c71ef0a0143196d",
+    "quotes": {
+      "domain-driven-design": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150111105622/http://en.wikipedia.org/wiki/Domain-driven_design"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Epistemology": {
+    "cited_by": [
+      "epistemology"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "3c1d3b29962cba5c2b08c3d3090f7a78ea39f26b5bcd36ea1d37fb138dc073a2",
+    "quotes": {
+      "epistemology": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102041956/http://en.wikipedia.org/wiki/Epistemology"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Ethics": {
+    "cited_by": [
+      "ethics"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "22a7d22c830e8b6348b768b7bf51de0089d6d09acf11164f09448d4b1ff0c3ff",
+    "quotes": {
+      "ethics": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102010702/http://en.wikipedia.org/wiki/Ethics"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Evolutionary_linguistics": {
+    "cited_by": [
+      "evolutionary-linguistics"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "1e29d227e23ce355d5618031888adc63136550f817fe4c02cc8ac8a9e7ed7003",
+    "quotes": {
+      "evolutionary-linguistics": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150322010354/http://en.wikipedia.org/wiki/Evolutionary_linguistics"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Faith": {
+    "cited_by": [
+      "faith"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "778fe9357d7d1f116f2e59cad3d4243ddb4d2eef8b77125412c89b7b265fd494",
+    "quotes": {
+      "faith": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102221605/http://en.wikipedia.org/wiki/Faith"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Feeling": {
+    "cited_by": [
+      "feeling"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "330346c080b2038bfb26584f698c82c6deb5713f1d2c7d26364127f0c140eaa9",
+    "quotes": {
+      "feeling": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108160831/http://en.wikipedia.org/wiki/Feeling"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Inertia": {
+    "cited_by": [
+      "inertia"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "dc6cd15a705ed34356c22557303d0e666eeeee9493ce2599a7c92167ebbebbf4",
+    "quotes": {
+      "inertia": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150118081258/http://en.wikipedia.org/wiki/Inertia"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Integrity": {
+    "cited_by": [
+      "integrity"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "60cb8452ec8f8d4a197add7f5effe51aee876d23ac43b2e77de821b8fb862249",
+    "quotes": {
+      "integrity": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108164602/http://en.wikipedia.org/wiki/Integrity"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Judgement": {
+    "cited_by": [
+      "judgement"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "30238a79627d16453b863ce2d71984a476e0feec98fcf0c02781bed5273a148c",
+    "quotes": {
+      "judgement": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150111055331/http://en.wikipedia.org/wiki/Judgement"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Metaphysics_of_presence": {
+    "cited_by": [
+      "presence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "788ceaecb43bff491715f549f36ae4e23b5813c06a2afaf16e1816ed551faf6d",
+    "quotes": {
+      "presence": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150227153830/http://en.wikipedia.org/wiki/Metaphysics_of_presence"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Natural_law": {
+    "cited_by": [
+      "natural-law"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "bf16c758ddb1e37cfdbdee7e14a9a030da04ceedb48cf5400cf7151c9a48a78e",
+    "quotes": {
+      "natural-law": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150103112547/http://en.wikipedia.org/wiki/Natural_law"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Nature": {
+    "cited_by": [
+      "nature"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c6b42bc2920a3c43f125c76035c843470e86292e98b2bf04017938618c12d1e7",
+    "quotes": {
+      "nature": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150114090139/http://en.wikipedia.org/wiki/Nature"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Ontology": {
+    "cited_by": [
+      "ontology"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "a776245a420cc4f7389478961a7ee09d460c240a517b4df268d5f607bdbc5a4b",
+    "quotes": {
+      "ontology": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150101091503/http://en.wikipedia.org/wiki/Ontology"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Physical_system": {
+    "cited_by": [
+      "physical-system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "d49c4d2b1c04cbd55bc2e1b31af4874159af448728ade82a5f344881d9087df2",
+    "quotes": {
+      "physical-system": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wikipedia.org/wiki/Prejudice": {
+    "cited_by": [
+      "prejudice"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "1a103f71deb9fc618ee0e9b1cd318213ce3ea650bfbe785081821d54087b8681",
+    "quotes": {
+      "prejudice": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102014748/http://en.wikipedia.org/wiki/Prejudice"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Religion": {
+    "cited_by": [
+      "religion"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "6c962257c93cb0a969e2ef4e3f31d0ac59b54693363a2463fcd5002346c64127",
+    "quotes": {
+      "religion": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150107192746/http://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Respect": {
+    "cited_by": [
+      "respect"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "94fa41406df60aec83854c634ee32ff37e43720226e480917c914d2fc75b8b62",
+    "quotes": {
+      "respect": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150201071314/http://en.wikipedia.org/wiki/Respect"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Self-compassion": {
+    "cited_by": [
+      "compassion"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "cb315ee51302dbfdb2d781e926b288c22e3a125ec81fb5ec18b6c4b21f754db6",
+    "quotes": {
+      "compassion": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wikipedia.org/wiki/Sexual_reproduction": {
+    "cited_by": [
+      "sexual-reproduction"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "78abebc6ec7f434145838445fd1e6a58c7a56f793ca23da7c05139fef9046995",
+    "quotes": {
+      "sexual-reproduction": "present"
+    },
+    "archives": []
+  },
+  "http://en.wikipedia.org/wiki/Social_inertia": {
+    "cited_by": [
+      "inertia"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "db201b86ba81bcc1e370b42879c6fb844c0227275b84eb16dbd67e4e3819e451",
+    "quotes": {
+      "inertia": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150507144959/http://en.wikipedia.org/wiki/Social_inertia"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Type_theory": {
+    "cited_by": [
+      "type"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c2456748cac5a085ce94a5d0fadfa6532b8469ff0cc7726901ec67490dc84cd6",
+    "quotes": {
+      "type": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102011503/http://en.wikipedia.org/wiki/Type_theory"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Universal_set": {
+    "cited_by": [
+      "universal-set"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f853b9a4cef8730ebcd051aacc732186b03e006f9590bacaf03b4d6e709e3d36",
+    "quotes": {
+      "universal-set": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102102311/http://en.wikipedia.org/wiki/Universal_set"
+    ]
+  },
+  "http://en.wikipedia.org/wiki/Violence": {
+    "cited_by": [
+      "violence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "dd789a62ce0f3e6e92aae854d60098014226e67749ab3ba54b33657ecbd27228",
+    "quotes": {
+      "violence": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108125503/http://en.wikipedia.org/wiki/Violence"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/abstract": {
+    "cited_by": [
+      "abstract"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "adcf4d5e814aabe7212bcd83e5bda65103e8aa0528223d29e0b7b0627148b947",
+    "quotes": {
+      "abstract": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150104003807/http://en.wiktionary.org/wiki/abstract"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/abstraction": {
+    "cited_by": [
+      "abstraction"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "d628c51d706a197d0d1e128ee2f72ba44f0dbc4fea650fc3abc45bb04ca515df",
+    "quotes": {
+      "abstraction": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150214061711/http://en.wiktionary.org/wiki/abstraction",
+      "https://web.archive.org/web/20120106202710/http://en.wiktionary.org/wiki/abstraction"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/accuracy": {
+    "cited_by": [
+      "accuracy"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "eef9d897760716b8f7065bffb6e3fa2dc8f48e1857866aee390dc003a9863054",
+    "quotes": {
+      "accuracy": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150215234204/http://en.wiktionary.org/wiki/accuracy"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/aesthetics": {
+    "cited_by": [
+      "aesthetics"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "79aedf8abd1294360f45945451d2bb51234247f747445aee9aba58d4983bd279",
+    "quotes": {
+      "aesthetics": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/agree": {
+    "cited_by": [
+      "agree"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "8c5a487b452a987a74ba7bd62478bfd4b2abe38b22d7a5498c70b7efabfaf422",
+    "quotes": {
+      "agree": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150104064627/http://en.wiktionary.org/wiki/agree"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/algorithm": {
+    "cited_by": [
+      "algorithm"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "249d14454e0fe83dd513f32522d812606abb912af950005c8a70c13e40c6e284",
+    "quotes": {
+      "algorithm": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150104064758/http://en.wiktionary.org/wiki/algorithm"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/analogy": {
+    "cited_by": [
+      "analogy"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "240e43d7efb37df46881f20c3c0e835a0e9e08bb0a2c55fd48deb9596b298864",
+    "quotes": {
+      "analogy": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/animism": {
+    "cited_by": [
+      "animism"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "d45fc301170db5f932c149d2831ed1b2007f0a1e41893aa3f48a73dcfbf25d6a",
+    "quotes": {
+      "animism": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/anthropomorphism": {
+    "cited_by": [
+      "anthropomorphism"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f2e7b8f3ad186d8e0e6d6bb347e1972e37302e632839a6bfd8be604268454e8b",
+    "quotes": {
+      "anthropomorphism": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150226205049/http://en.wiktionary.org/wiki/anthropomorphism"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/art": {
+    "cited_by": [
+      "art"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "42d78d9fe7c5140ae220246e95d56286f23c4a1ad5d1307479c623cfe7822cd7",
+    "quotes": {
+      "art": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150112121100/http://en.wiktionary.org/wiki/art"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/attention": {
+    "cited_by": [
+      "attention-schema"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "ddd1cdcb76ed9b79c5680d4ea7a7d4b385b41c658d970c280ca552f36c8fbc13",
+    "quotes": {
+      "attention-schema": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150312214021/http://en.wiktionary.org/wiki/attention"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/awareness": {
+    "cited_by": [
+      "awareness"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "e9c22b9bd7049ca24d0749977fae659ad6309d8a602af1f98ed22c8d9f0b7f66",
+    "quotes": {
+      "awareness": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150214221532/http://en.wiktionary.org/wiki/awareness"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/axiology": {
+    "cited_by": [
+      "axiology"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "763cab6118cc55265d458370c8a37a55c3f2489ad289019940643c5ac08d50c3",
+    "quotes": {
+      "axiology": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150512060835/http://en.wiktionary.org/wiki/axiology"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/being": {
+    "cited_by": [
+      "being"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "012a1095de798992dc82f134a66f0537208deb37a671eeca5d77a2f0b6c84394",
+    "quotes": {
+      "being": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150112110641/http://en.wiktionary.org/wiki/being"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/belief": {
+    "cited_by": [
+      "belief"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "e21fff3953658d4388c0babc78d6d9361744ff90718f782c9597c90b48eede54",
+    "quotes": {
+      "belief": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150104011028/http://en.wiktionary.org/wiki/belief"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/belief_system": {
+    "cited_by": [
+      "belief-system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "36152a27e83499509a65d4aa21274372f443c7fa005f3da19a0a0de173a3fa0d",
+    "quotes": {
+      "belief-system": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/category_theory": {
+    "cited_by": [
+      "category-theory"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "ae2112a6c5559f034d1bac66c9adae8a71e759bed9e6e4a64274071662504ae8",
+    "quotes": {
+      "category-theory": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/coerce": {
+    "cited_by": [
+      "coercion"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "eafe16aab27a4603dc8e58826a8b46127a1a7fecf174c6995451743d85d8b28d",
+    "quotes": {
+      "coercion": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/coercion": {
+    "cited_by": [
+      "coercion"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "fdd972d08f2bfa802445371f10a9ea6c7f75681fd27bc5d5ab63f71393c1b875",
+    "quotes": {
+      "coercion": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/coherence": {
+    "cited_by": [
+      "coherence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "04a22a69215bcbf6260453f7f934e4a52380d0db537ffa32e8cb416439733879",
+    "quotes": {
+      "coherence": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150107114547/http://en.wiktionary.org/wiki/coherence"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/collective": {
+    "cited_by": [
+      "collective"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "4d2c0e037d9dbf5f8a1c5940843ec808fc704d5a13fb142e0cb1e288e636843a",
+    "quotes": {
+      "collective": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150406122755/http://en.wiktionary.org/wiki/collective"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/communicate": {
+    "cited_by": [
+      "communication"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b8c6a5013536bddabbc54fbc466f867b7004102c56805fded4012aeda17047cc",
+    "quotes": {
+      "communication": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150222131447/http://en.wiktionary.org/wiki/communicate"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/communication": {
+    "cited_by": [
+      "communication"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "850f51b50896c87da15c1266425f1f3fcd5854c0cc1eb7edb1effbbf7c7d1d4e",
+    "quotes": {
+      "communication": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150214062428/http://en.wiktionary.org/wiki/communication"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/compassion": {
+    "cited_by": [
+      "compassion"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "3af2fe88c6acca1a9e08a8b97d1219a3beaeabc0c76a38d4934ffca48cd421cf",
+    "quotes": {
+      "compassion": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150221133611/http://en.wiktionary.org/wiki/compassion"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/concept": {
+    "cited_by": [
+      "concept"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b43e5dd4955a7b9764f855ff9cb0928b1fd2e63e041e1e5164dacf8b60e307ae",
+    "quotes": {
+      "concept": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150313100443/http://en.wiktionary.org/wiki/concept"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/conceptual": {
+    "cited_by": [
+      "conceptual-system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "6a0b551a280b1e2f49ddf000fc0e5205fc0a8945acc5904c3356d506ab65a4ac",
+    "quotes": {
+      "conceptual-system": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150111161332/http://en.wiktionary.org/wiki/conceptual"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/concrescence": {
+    "cited_by": [
+      "concrescence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "31a44255cec60a36a505501b55659bfdd7ac19a2f50eb83a8c6515e5d3b2b033",
+    "quotes": {
+      "concrescence": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20151001001552/http://en.wiktionary.org/wiki/concrescence"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/conscious": {
+    "cited_by": [
+      "consciousness"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "7180c4a6e599d227d9bc57ccd24eb4a18b38a8f604e8df1bde0b70b3a561cdda",
+    "quotes": {
+      "consciousness": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20130103131817/http://en.wiktionary.org/wiki/conscious"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/consciousness": {
+    "cited_by": [
+      "consciousness"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "1b8b50f47502a7a63d025dc0220a7cfdcb347ce565ff4d90c25ae390bddb0cd7",
+    "quotes": {
+      "consciousness": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/context": {
+    "cited_by": [
+      "context"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "ae312a96019f0388aac285b9789c768df10077b1fcbe5bd515f6cc8ea9c6a547",
+    "quotes": {
+      "context": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150107111820/http://en.wiktionary.org/wiki/context"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/control": {
+    "cited_by": [
+      "control-system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "988c4b9caee3fda356a0c0840794c6be996b546aa8652ab3c9e9e177a0208ec2",
+    "quotes": {
+      "control-system": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/create": {
+    "cited_by": [
+      "create"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "3fca1608cf73018154703c12bf43064dbefb0430105e2dfb510bf1f4093e343d",
+    "quotes": {
+      "create": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20180111134651/http://en.wiktionary.org/wiki/create",
+      "https://web.archive.org/web/20130102184837/http://en.wiktionary.org/wiki/create",
+      "https://web.archive.org/web/20150109072351/http://en.wiktionary.org/wiki/create"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/creativity": {
+    "cited_by": [
+      "create"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "ca149861a22e86a2a1474a8f2a66f1b5d4b79417c350675f7064e627ef6dda46",
+    "quotes": {
+      "create": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150819083143/http://en.wiktionary.org/wiki/creativity"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/culture": {
+    "cited_by": [
+      "culture"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "4d5e963c49276a907b905c8d3c6f3a99bf8ecaad51f86ac24bf3ea75d4688b72",
+    "quotes": {
+      "culture": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150111103145/http://en.wiktionary.org/wiki/culture"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/definition": {
+    "cited_by": [
+      "definition"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b1655d28ff19c5863d4eb3580be9597de93414f4bdaf34032b65a3b6525df84d",
+    "quotes": {
+      "definition": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150109133856/http://en.wiktionary.org/wiki/definition"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/disagree": {
+    "cited_by": [
+      "disagree"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "db140565b5ed3cc2df4b1ae74664d1af64526a2ceb060b0429528a27072fc62f",
+    "quotes": {
+      "disagree": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150319024936/http://en.wiktionary.org/wiki/disagree"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/domain": {
+    "cited_by": [
+      "domain"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f17e3ec0bcafa700d2110692df7b3b21d52ffd2d676bc6932bf240791b8f8a0c",
+    "quotes": {
+      "domain": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150223112133/http://en.wiktionary.org/wiki/domain"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/emotion": {
+    "cited_by": [
+      "emotion"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "36e9dd882ef7e2cbad1f5b7bc0b75ae81533574a9601844fbd2e505054a2bf19",
+    "quotes": {
+      "emotion": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/energy": {
+    "cited_by": [
+      "energy"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "e3e9d205205c7bd1498c8aebcfe87bd94efe629d1daee6f6397e3510e8063c28",
+    "quotes": {
+      "energy": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108195224/http://en.wiktionary.org/wiki/energy"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/entity": {
+    "cited_by": [
+      "entity"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "16fa36227100b9d5f835e4c29ec3ec137126e2fef059f6d71c6d8f186372557c",
+    "quotes": {
+      "entity": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150118090017/http://en.wiktionary.org/wiki/entity"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/environment": {
+    "cited_by": [
+      "environment"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "030d7e98c416b6cdbb36d7018c3ece9fcb539c3489c22b77d4abd7112d28129f",
+    "quotes": {
+      "environment": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150118225408/http://en.wiktionary.org/wiki/environment"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/epistemology": {
+    "cited_by": [
+      "epistemology"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "d1e42e95312fbaa4ee077bcfeef950a303a20afc544ad0cf4237907b817067f6",
+    "quotes": {
+      "epistemology": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150602005516/http://en.wiktionary.org/wiki/epistemology"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/ethics": {
+    "cited_by": [
+      "ethics"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f7fbc16a4bcd23e21d25f73d265247c36f8819d554b8670e0ae81923160f9a30",
+    "quotes": {
+      "ethics": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/evolution": {
+    "cited_by": [
+      "evolution",
+      "evolutionary-linguistics"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "bc08d9318f6e9beeaf3ebadf9984b23512d3bdede6f21a7bfbcf11090347d9ca",
+    "quotes": {
+      "evolution": "moved",
+      "evolutionary-linguistics": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150302021551/http://en.wiktionary.org/wiki/evolution"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/exist": {
+    "cited_by": [
+      "exist"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "3205091710cf62e285486c9529f13caaaf948958d31855c731b7d57c2aad08b8",
+    "quotes": {
+      "exist": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/existence": {
+    "cited_by": [
+      "existence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "a722be21e2518ee0ee1e5fcf855a96a17806e35b849a9629293cb402b6aeef32",
+    "quotes": {
+      "existence": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20130115224250/http://en.wiktionary.org/wiki/existence"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/expand": {
+    "cited_by": [
+      "expanding-consciousness"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "adbf050d99f0ae05b8737ab2a00198be84d62cc7699310883d2c3bd9c80145db",
+    "quotes": {
+      "expanding-consciousness": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150111134347/http://en.wiktionary.org/wiki/expand"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/explicit": {
+    "cited_by": [
+      "explicit-scope"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "1a51fb094ccaa3295b6a5461f6ede67c9c156cb4f8ae98c64c8fcaac889bd41b",
+    "quotes": {
+      "explicit-scope": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150203102319/http://en.wiktionary.org/wiki/explicit"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/faith": {
+    "cited_by": [
+      "faith"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "362a88f65e171eb74368284bc57233bee371cc8610b28ca4e4b5478177718b67",
+    "quotes": {
+      "faith": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150315221211/http://en.wiktionary.org/wiki/faith"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/feeling": {
+    "cited_by": [
+      "feeling"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "25b9e7fbd01f491ee8ad3a0562be28caf4bf0c63b251fcf7ce579364a161b12f",
+    "quotes": {
+      "feeling": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/focus": {
+    "cited_by": [
+      "focus"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "daa41b252f881b721e401dc91d4ed39cc15398ab7c178f5a7eb108cb61dcabd7",
+    "quotes": {
+      "focus": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150216054810/http://en.wiktionary.org/wiki/focus"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/fractal": {
+    "cited_by": [
+      "fractal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "252c0055177300f661d7ffa9017b687af2d261fd9b05c84580cd5aa771771282",
+    "quotes": {
+      "fractal": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150212091538/http://en.wiktionary.org/wiki/fractal"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/god": {
+    "cited_by": [
+      "god"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "9b9526bc651490025d788e63fd6fe7a9e819182bd71b62d340b3ac8df1d5af20",
+    "quotes": {
+      "god": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150317170930/http://en.wiktionary.org/wiki/god"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/heuristic": {
+    "cited_by": [
+      "heuristic"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "dc2ac682a30593cf6c76a93aa757980194235ec7732da8a95e4523fe1af7c289",
+    "quotes": {
+      "heuristic": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150402064112/http://en.wiktionary.org/wiki/heuristic"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/history": {
+    "cited_by": [
+      "history"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c8d190ed62433934f61b9389acd03618b16e1e49ee07c65759122b64e9a72cf5",
+    "quotes": {
+      "history": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20130122225648/http://en.wiktionary.org/wiki/history",
+      "https://web.archive.org/web/20150222122211/http://en.wiktionary.org/wiki/history"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/human": {
+    "cited_by": [
+      "human"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "4d6df65a8e701eeccc9c5354f89aca8faa4e2fc4d0a0329b867ad1d2bba9b981",
+    "quotes": {
+      "human": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20210105052707/http://en.wiktionary.org/wiki/human"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/illusion": {
+    "cited_by": [
+      "illusion"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "1e74c0f0513cb68730309859fd7662689a4d15ec69d4300667f68ff45441bc55",
+    "quotes": {
+      "illusion": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150217025441/http://en.wiktionary.org/wiki/illusion"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/implicit": {
+    "cited_by": [
+      "implicit-scope"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "055223fd07d602443e71067c65d461afefd590131fa661f519436c8c70435370",
+    "quotes": {
+      "implicit-scope": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150508231259/http://en.wiktionary.org/wiki/implicit"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/inertia": {
+    "cited_by": [
+      "inertia"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "471a1728b98997d25df3dd6f288b84fef5e8572fcfbafc7945269013edd77614",
+    "quotes": {
+      "inertia": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150522234409/http://en.wiktionary.org/wiki/inertia"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/information": {
+    "cited_by": [
+      "information"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "809f3b012218295cbe7fcbf1c15ba547707fd6c0447009a7768df0ef4cfba187",
+    "quotes": {
+      "information": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150308223024/http://en.wiktionary.org/wiki/information"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/integrity": {
+    "cited_by": [
+      "integrity"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "09dc40ee82edc191299538bee66de61ed557704204bb8e2194bb53a802701bf6",
+    "quotes": {
+      "integrity": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/intelligence": {
+    "cited_by": [
+      "intelligence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "7ca5db33a7821ae4ae5ed6af3e5a0674ce77271ceb6930bdd88c7127678b045a",
+    "quotes": {
+      "intelligence": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150216001230/http://en.wiktionary.org/wiki/intelligence"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/judge": {
+    "cited_by": [
+      "judgement"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "aed8e14d0279474b2c99d5a6d77860bdf347dbfc61d30881e8f001f1d74cbc09",
+    "quotes": {
+      "judgement": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150226100953/http://en.wiktionary.org/wiki/judge"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/judgment": {
+    "cited_by": [
+      "judgement"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "5efcb3b44d18b7b6df289910b1169fe5ab0786a2e334648d7dd7640960164375",
+    "quotes": {
+      "judgement": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150306035536/http://en.wiktionary.org/wiki/judgment"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/judicious": {
+    "cited_by": [
+      "judicious"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "61565a16d624a40c56604bfbebfa8b4bc4315ce73243b0497cec05614a1d690e",
+    "quotes": {
+      "judicious": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/language": {
+    "cited_by": [
+      "language"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "5b3406cd8172cddd0229f2801aa7b169acc346f695870e690ce49043b2e3d42e",
+    "quotes": {
+      "language": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102011519/http://en.wiktionary.org/wiki/language"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/linguistics": {
+    "cited_by": [
+      "evolutionary-linguistics",
+      "linguistics"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "78aa999b8cc5def10799d432bf86bf2ad2a72ebe0eb543dcf8378e92b3e13423",
+    "quotes": {
+      "evolutionary-linguistics": "archived",
+      "linguistics": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150215020442/http://en.wiktionary.org/wiki/linguistics"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/love": {
+    "cited_by": [
+      "love"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "d2469d7389765d43027d985695679f7b8439220431eef9fe9ba8341506233f57",
+    "quotes": {
+      "love": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150216063538/http://en.wiktionary.org/wiki/love"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/model": {
+    "cited_by": [
+      "model"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "91cb4be2cb11f64f7bc48e8fe583a174bf920be711ccc8a4836daf871e9bf8cd",
+    "quotes": {
+      "model": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150906095607/http://en.wiktionary.org/wiki/model",
+      "https://web.archive.org/web/20220122024716/http://en.wiktionary.org/wiki/model"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/natural_law": {
+    "cited_by": [
+      "natural-law"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "e939656c590ee82e23eb57a0880be224be5e4b6abc0d4a5c675e8f775b067bd6",
+    "quotes": {
+      "natural-law": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150915130106/http://en.wiktionary.org/wiki/natural_law"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/nature": {
+    "cited_by": [
+      "nature"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "9c561dd291bd4642154f5bd5c277715bfbba8c6f1738e78760864d0cb524afee",
+    "quotes": {
+      "nature": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150302163747/http://en.wiktionary.org/wiki/nature"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/novelty": {
+    "cited_by": [
+      "novelty"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "14bcc890df4ecce0253ff9f7135c9c5a495292fe9d5ea78f9622086b075df64f",
+    "quotes": {
+      "novelty": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/novelty_theory": {
+    "cited_by": [
+      "novelty"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "ba49d789bdb6221f34f3f171f839a19f78e1d5aa626a250657fefd0b80d270fd",
+    "quotes": {
+      "novelty": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/ontology": {
+    "cited_by": [
+      "ontology"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "d723df6ddbc144e8f294161bad585bab29eaca6c9357c85dfc4512452b1d3964",
+    "quotes": {
+      "ontology": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/paradox": {
+    "cited_by": [
+      "paradox"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "0d1be239900f4a0b78c93ac5d1ac02c3ac770268c1aceeeabc75ee3196006a91",
+    "quotes": {
+      "paradox": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/pattern": {
+    "cited_by": [
+      "pattern"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "cb795e10b50224c0be29412512fa459e8783fc660ab5fc20c31ce1146ef76ad7",
+    "quotes": {
+      "pattern": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/perspective": {
+    "cited_by": [
+      "perspective"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "9ae5c9152c17bc23f1114e997a044fde2bbc7a956e3c7fe850914bcb60abd95d",
+    "quotes": {
+      "perspective": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20140814191432/http://en.wiktionary.org/wiki/perspective"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/philosophy": {
+    "cited_by": [
+      "philosophy"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "bee288111e3f2c703072182955b1717c65007fa7024904ad054fd0097540ab1e",
+    "quotes": {
+      "philosophy": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150215024302/http://en.wiktionary.org/wiki/philosophy"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/physical_system": {
+    "cited_by": [
+      "physical-system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "e18fa214eecd2b86236eb5c9f9b4059785da389adbbdd13cc9504ddf3143377a",
+    "quotes": {
+      "physical-system": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/precision": {
+    "cited_by": [
+      "precision"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "8cf52420be63e1b7ff906c737aea1570edcf6b4665db4522f4449becad6aabfd",
+    "quotes": {
+      "precision": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/prejudice": {
+    "cited_by": [
+      "prejudice"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "7821a58d7cbff99979b513d55e266b452fccae1ac037fb3a6e08c55e96d33c95",
+    "quotes": {
+      "prejudice": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150214044920/http://en.wiktionary.org/wiki/prejudice"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/presence": {
+    "cited_by": [
+      "presence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "17bc560d0c543614101b0d1a22dcebe0e4d607055286b42a0e3b39157151dc71",
+    "quotes": {
+      "presence": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150326151323/http://en.wiktionary.org/wiki/presence"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/reality": {
+    "cited_by": [
+      "reality"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "8fc2df9e021da348ef04815009a7f5f7a55f7b626f3b70b6019a347ae3aab6f8",
+    "quotes": {
+      "reality": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/redefine": {
+    "cited_by": [
+      "redefine"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "14ac52c6f7774610ba17758d684b665771b0dcc5bf585957139d709818d3ad71",
+    "quotes": {
+      "redefine": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150226214837/http://en.wiktionary.org/wiki/redefine"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/redefinition": {
+    "cited_by": [
+      "redefinition"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b88b007a8eebba3f8c6c1470ac306d282822ceebc2868312b6dd1ffec4a1b002",
+    "quotes": {
+      "redefinition": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/religion": {
+    "cited_by": [
+      "religion"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b6e05a4fd6e0c3eaf18e5a1c720041f8416aae524081c832c640d053359aa5a4",
+    "quotes": {
+      "religion": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150203051416/http://en.wiktionary.org/wiki/religion"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/resolution": {
+    "cited_by": [
+      "resolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "2bf648b35e415d56c0df7849c6edcdb4210a13ac8627e8e3988e31baeec57fe6",
+    "quotes": {
+      "resolution": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150330012110/http://en.wiktionary.org/wiki/resolution",
+      "https://web.archive.org/web/20150405213157/http://en.wiktionary.org/wiki/resolution"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/respect": {
+    "cited_by": [
+      "respect"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "394e337d3a27e4d641599956e4c6bd555b50a7cad8dbe19dd3f37b5e7b071077",
+    "quotes": {
+      "respect": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150307020104/http://en.wiktionary.org/wiki/respect"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/schema": {
+    "cited_by": [
+      "attention-schema"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "a0d1278a537b0f7de249840359a547170b5a1e25be6329aaaacf526cf07dfd61",
+    "quotes": {
+      "attention-schema": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20140808054246/http://en.wiktionary.org/wiki/schema"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/science": {
+    "cited_by": [
+      "science"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "ef573ec3df50d33fe2364b66f5ec02590a0e09d4f96f484bcaf334bcefcc1dd4",
+    "quotes": {
+      "science": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20130122135309/http://en.wiktionary.org/wiki/science",
+      "https://web.archive.org/web/20150219020849/http://en.wiktionary.org/wiki/science"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/scope": {
+    "cited_by": [
+      "explicit-scope",
+      "implicit-scope",
+      "scope"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "779eafee6b49f6213693b63d0d230ee750cec45f5ad2b3f7a44ba80177f13049",
+    "quotes": {
+      "explicit-scope": "archived",
+      "implicit-scope": "archived",
+      "scope": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150221114818/http://en.wiktionary.org/wiki/scope"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/sexual_reproduction": {
+    "cited_by": [
+      "sexual-reproduction"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "06d19361af0775500bdc0415c294cb314178449f53c1c85d598897b3ad90b0ba",
+    "quotes": {
+      "sexual-reproduction": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/signal": {
+    "cited_by": [
+      "signal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "4907f413375cc6dd9e931ce7aee9a61cb9cde3341a8082dad6d38c8550cb4b5d",
+    "quotes": {
+      "signal": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/soul": {
+    "cited_by": [
+      "soul"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "5148b717f02e55123f707175dc2f45edc7cc5c009060e6432fc1dcdc53bad1d3",
+    "quotes": {
+      "soul": "moved"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/spirit": {
+    "cited_by": [
+      "spirit"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "e6a289302975a4c5582c7b00ffcf04023e9f383512b5a0a6f18ddb0ee19a552f",
+    "quotes": {
+      "spirit": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150215024307/http://en.wiktionary.org/wiki/spirit"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/spiritual": {
+    "cited_by": [
+      "spiritual-work"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "8a6d870947465ff4ccfc71ce2f7d0009da2ff744728c2ce8c0d571e2aebbe783",
+    "quotes": {
+      "spiritual-work": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150223115157/http://en.wiktionary.org/wiki/spiritual"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/spirituality": {
+    "cited_by": [
+      "spirituality"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "26a796658a997f5bf62c5cfd24063a64533459b7ae386db9e612f88729f77e56",
+    "quotes": {
+      "spirituality": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20140813150111/http://en.wiktionary.org/wiki/spirituality"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/state": {
+    "cited_by": [
+      "state"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b3e26c82cff2a527dd1baea4e68e855b4a5ba30ce27ac7f275a5de99dce74da8",
+    "quotes": {
+      "state": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150319062119/http://en.wiktionary.org/wiki/state"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/story": {
+    "cited_by": [
+      "story"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "3e036f045334704528a08b8fa664e1356f5ce9d7389fe0285ac07898f48496ca",
+    "quotes": {
+      "story": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20130123081815/http://en.wiktionary.org/wiki/story",
+      "https://web.archive.org/web/20150218043426/http://en.wiktionary.org/wiki/story"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/system": {
+    "cited_by": [
+      "conceptual-system",
+      "control-system",
+      "system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "09f4e0760b6feafe206ef6141c7a164f00b5350cd47f155561e987b25bb3be47",
+    "quotes": {
+      "conceptual-system": "archived",
+      "control-system": "archived",
+      "system": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150217183700/http://en.wiktionary.org/wiki/system"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/technology": {
+    "cited_by": [
+      "technology"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "6cd47d3db486e266f38f5721e3df7fb4aaea1798a59a512f521ae13a598fb47a",
+    "quotes": {
+      "technology": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150204210112/http://en.wiktionary.org/wiki/technology"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/tool": {
+    "cited_by": [
+      "tool"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "61934b03e961af7f5f3c4f2fc17c6dcab098bb73b1785136f03aa1784aef95f6",
+    "quotes": {
+      "tool": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150211065333/http://en.wiktionary.org/wiki/tool",
+      "https://web.archive.org/web/20130117064115/http://en.wiktionary.org/wiki/tool"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/tradition": {
+    "cited_by": [
+      "tradition"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b2f6778196ed75d247507f4f2879f46f619a2a63a5822f41d8d488165e5b4b1b",
+    "quotes": {
+      "tradition": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/transcendence": {
+    "cited_by": [
+      "transcendence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "aebb2cd4b06f8d1ce80b89c8487040b37c862a1ec4a6db4414ad2aa05d5df702",
+    "quotes": {
+      "transcendence": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/type": {
+    "cited_by": [
+      "type"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f4f966950255562df5f4a43cd57a5fa12e12a865874b8fac129c8a888bb93e6f",
+    "quotes": {
+      "type": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150223071733/http://en.wiktionary.org/wiki/type"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/unconsciousness": {
+    "cited_by": [
+      "unconsciousness"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "8aa09537ef87d1f32ee06ce3845cbcdc9e110c4f6863688366303bfe1a66b9a9",
+    "quotes": {
+      "unconsciousness": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/unique": {
+    "cited_by": [
+      "unique"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "ce5e038f2b707ebb758ab4bd5c0cafc797aec29a33bab32c7e054610043f0cad",
+    "quotes": {
+      "unique": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150314214413/http://en.wiktionary.org/wiki/unique"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/universal_set": {
+    "cited_by": [
+      "universal-set"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "63ca412da668a88e8851a2f686542cca31676b048f2aff05bc6017e290ea7d74",
+    "quotes": {
+      "universal-set": "present"
+    },
+    "archives": []
+  },
+  "http://en.wiktionary.org/wiki/violence": {
+    "cited_by": [
+      "violence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "a2a18ee1abd4ba6b4b270ebf7c136cfeeec51697eb16a699744fa95898e71714",
+    "quotes": {
+      "violence": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150104044603/http://en.wiktionary.org/wiki/violence"
+    ]
+  },
+  "http://en.wiktionary.org/wiki/work": {
+    "cited_by": [
+      "spiritual-work"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "187f2f2e9732d690e9284651cb688b74a9eb82acbe09ae71d7caeea8cec84eac",
+    "quotes": {
+      "spiritual-work": "moved"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150223183616/http://en.wiktionary.org/wiki/work"
+    ]
+  },
+  "http://jmozah.github.io/links/": {
+    "cited_by": [
+      "intelligence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "fc79c04e8d2258b9ae2707130213da7dbf549743d5e4b176dc3f5e487f6de34f",
+    "quotes": {
+      "intelligence": "unchecked"
+    },
+    "archives": []
+  },
+  "http://juneroca.com/words/redefining-words/": {
+    "cited_by": [
+      "redefine"
+    ],
+    "fetched_at": null,
+    "status": null,
+    "content_sha256": null,
+    "quotes": {
+      "redefine": "unchecked"
+    },
+    "archives": []
+  },
+  "http://lucumr.pocoo.org/2011/12/22/implicit-scoping-in-coffeescript/": {
+    "cited_by": [
+      "implicit-scope"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c587b8fdc5f9a7362fc0defcd55538b34f092e9510a2f82c72a54242a038d11e",
+    "quotes": {
+      "implicit-scope": "unchecked"
+    },
+    "archives": []
+  },
+  "http://ncatlab.org:8080/nlab/show/category+theory": {
+    "cited_by": [
+      "category-theory"
+    ],
+    "fetched_at": null,
+    "status": null,
+    "content_sha256": null,
+    "quotes": {
+      "category-theory": "unchecked"
+    },
+    "archives": []
+  },
+  "http://selfawarepatterns.com/2014/10/16/the-attention-schema-theory-of-consciousness-deserves-your-attention/": {
+    "cited_by": [
+      "attention-schema"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "60ae29f1c2702fc2a82dba30d7aa60f3cbfe09603561e92a864225541cc279e1",
+    "quotes": {
+      "attention-schema": "unchecked"
+    },
+    "archives": []
+  },
+  "http://theunboundedspirit.com/existence-is-god/": {
+    "cited_by": [
+      "god"
+    ],
+    "fetched_at": null,
+    "status": null,
+    "content_sha256": null,
+    "quotes": {
+      "god": "unchecked"
+    },
+    "archives": []
+  },
+  "http://vimeo.com/12185093": {
+    "cited_by": [
+      "fractal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "5bf309683989bffe7925f9f8019df2ce63b073c9b5d818e76f8bb5656c5ba931",
+    "quotes": {
+      "fractal": "unchecked"
+    },
+    "archives": []
+  },
+  "http://web.archive.org/web/20100705232509/http://stevenpoole.net/articles/scale-confusion/": {
+    "cited_by": [
+      "resolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "d5a20620801bb22cf0929aa7ae1921bc958aaa16d46701f3d731564a82e886e2",
+    "quotes": {
+      "resolution": "unchecked"
+    },
+    "archives": []
+  },
+  "http://web.archive.org/web/20150623010707/http://cosmicscale.appspot.com:80/index.html": {
+    "cited_by": [
+      "fractal",
+      "physical-system",
+      "scope"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f7682dc140ccbf35cb5a0a1bec732456d4cfce87e7b90b9ae3008105b50ccf7d",
+    "quotes": {
+      "fractal": "unchecked",
+      "physical-system": "unchecked",
+      "scope": "unchecked"
+    },
+    "archives": []
+  },
+  "http://web.archive.org/web/20210308120600/https://en.wikipedia.org/wiki/Physical_information": {
+    "cited_by": [
+      "entity",
+      "information"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "23be734d0e8b8b9ff69d754e0a08e32a5575e16d9668a3d51c989205b78b4b97",
+    "quotes": {
+      "entity": "unchecked",
+      "information": "present"
+    },
+    "archives": []
+  },
+  "http://web.archive.org/web/20250121090728/https://www.nytimes.com/2014/10/12/opinion/sunday/are-we-really-conscious.html": {
+    "cited_by": [
+      "attention-schema"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "e56dd07194da4f550e4bbed54c2362f51ff14b36137e0e2fbb239e952c0506eb",
+    "quotes": {
+      "attention-schema": "unchecked"
+    },
+    "archives": []
+  },
+  "http://www.cs.nott.ac.uk/~gmh/cat.html": {
+    "cited_by": [
+      "category-theory"
+    ],
+    "fetched_at": null,
+    "status": null,
+    "content_sha256": null,
+    "quotes": {
+      "category-theory": "unchecked"
+    },
+    "archives": []
+  },
+  "http://www.etymonline.com/index.php?term=evolution": {
+    "cited_by": [
+      "evolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "3ff1b8599a585a58144928f3f8daebf82d68320d2627ffbbe4dd0fd7e30911ff",
+    "quotes": {
+      "evolution": "unchecked"
+    },
+    "archives": []
+  },
+  "http://www.etymonline.com/index.php?term=resolution": {
+    "cited_by": [
+      "resolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c97294cdcb35db09e73229aef29a655ea94ba788670b619363fea02b4e44ce37",
+    "quotes": {
+      "resolution": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20160124073344/http://www.etymonline.com/index.php?term=resolution"
+    ]
+  },
+  "http://www.etymonline.com/index.php?term=scope": {
+    "cited_by": [
+      "scope"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c386387f8adaa5b06262d2c0587de4437f0f298108bbbd0b8e737db6feb741c5",
+    "quotes": {
+      "scope": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20151216193527/http://www.etymonline.com/index.php?term=scope"
+    ]
+  },
+  "http://www.fractalwisdom.com/science-of-chaos/the-ultimate-paradigm-shift/": {
+    "cited_by": [
+      "science"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "4603e3653d3f075f8fa248a0e82e47e547d7844864e2802e0efcab7da8946152",
+    "quotes": {
+      "science": "unchecked"
+    },
+    "archives": []
+  },
+  "http://www.meditationplex.com/meditation-benefits/effects-meditation-brain-coherence-intelligence/": {
+    "cited_by": [
+      "coherence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "84ecaf9d3eddb91c61ec2ab62626578faaac14bfe654a26d7c7e02a0b38a4ea8",
+    "quotes": {
+      "coherence": "unchecked"
+    },
+    "archives": []
+  },
+  "http://www.oshorajneesh.com/download/osho-books/The_Upanishads/The_Supreme_Doctrine.pdf": {
+    "cited_by": [
+      "god"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "0222387fae368d3ebfe9762e7c0c0a8de526f61e8ee11c5c77e11ceaf6cfa59e",
+    "quotes": {
+      "god": "unchecked"
+    },
+    "archives": []
+  },
+  "http://www.princeton.edu/~graziano/Consciousness_Research.html": {
+    "cited_by": [
+      "attention-schema"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 403,
+    "content_sha256": null,
+    "quotes": {
+      "attention-schema": "unchecked"
+    },
+    "archives": [
+      "http://web.archive.org/web/20190421012750/http://www.princeton.edu:80/~graziano/Consciousness_Research.html"
+    ]
+  },
+  "http://xlinux.nist.gov/dads/": {
+    "cited_by": [
+      "algorithm"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "80e6aa488e7c9712130f36d00467ae4810883a41c855a60c721ff5792ffc2150",
+    "quotes": {
+      "algorithm": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Abstract_object": {
+    "cited_by": [
+      "abstract",
+      "abstract-system",
+      "conceptual-existence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b8f08c45689b3ed435f913344497c471739c80f06082d4918cda77c6f80a160c",
+    "quotes": {
+      "abstract": "archived",
+      "abstract-system": "archived",
+      "conceptual-existence": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150314181457/https://en.wikipedia.org/wiki/Abstract_object",
+      "https://web.archive.org/web/20210319012157/https://en.wikipedia.org/wiki/Abstract_object"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Abstraction": {
+    "cited_by": [
+      "abstraction"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c729f5c8f3d6242146c4da5feebef4433f21540ff95cd1e87759f7b36cef3971",
+    "quotes": {
+      "abstraction": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150110021841/https://en.wikipedia.org/wiki/Abstraction"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Accuracy_and_precision": {
+    "cited_by": [
+      "accuracy",
+      "precision"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "8da8ae135fe4b6a6c0892e953dea7b5756e19ff88efe6cc92db08b43d940e9d1",
+    "quotes": {
+      "accuracy": "moved",
+      "precision": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Analogy": {
+    "cited_by": [
+      "analogy"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "df907097ff6f21ca14af051c5215ba4afd731924b44d2a0749b4edc77e5f2f0c",
+    "quotes": {
+      "analogy": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150109152157/https://en.wikipedia.org/wiki/Analogy"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Anthropomorphism": {
+    "cited_by": [
+      "anthropomorphism"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "5b567ae9dba679c8fbb458ad0d15e8b812d1dbc6de4eedffebf3d4e7fbc3e8d8",
+    "quotes": {
+      "anthropomorphism": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150107231358/https://en.wikipedia.org/wiki/Anthropomorphism"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Art": {
+    "cited_by": [
+      "art"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "3e3a469fa7668994dd22ec2835fef14b9e8ba2c6f66d5a6c5ab158b345f36693",
+    "quotes": {
+      "art": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150107193255/https://en.wikipedia.org/wiki/Art"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Awareness": {
+    "cited_by": [
+      "awareness"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "77d9495336ed31ea04f85ffdda954c2614a7cc6f0113ce29518aa7fb42209b1c",
+    "quotes": {
+      "awareness": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150212010123/https://en.wikipedia.org/wiki/Awareness"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Being": {
+    "cited_by": [
+      "being",
+      "entity"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b2cc6485a07f86f98fcb1d060f05294f13de1bf3a599fa95c7be17b65ff93096",
+    "quotes": {
+      "being": "archived",
+      "entity": "unchecked"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150113094655/https://en.wikipedia.org/wiki/Being"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Cell_signaling": {
+    "cited_by": [
+      "signal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "ecae975b69dd369dd8014b0b9e485afed25ce8debe931ef125a2ee4fe08c106a",
+    "quotes": {
+      "signal": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108230050/https://en.wikipedia.org/wiki/Cell_signaling"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Coherence": {
+    "cited_by": [
+      "coherence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "e8e6ac9bf6475a7a9343875d7a410c30158b2c7b7c4c7ffcedbf6b2a4621ef98",
+    "quotes": {
+      "coherence": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Coherence_(physics)": {
+    "cited_by": [
+      "coherence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "bebcf28689c363ca65aed1bf3ebf0deaa7c377021270f09fb15ff648f28259ff",
+    "quotes": {
+      "coherence": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150112192907/https://en.wikipedia.org/wiki/Coherence_(physics)"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Collective": {
+    "cited_by": [
+      "collective"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "edcb4583c14ce073429e7a0c13c0322ca6bd0e2d54b8bf4b309dcab4c9c41af5",
+    "quotes": {
+      "collective": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Concept": {
+    "cited_by": [
+      "concept"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "aec48bed8ea44e53126e6082f88297e5e649f377d89bf3463f2e9166c1ad9745",
+    "quotes": {
+      "concept": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Conceptual_model": {
+    "cited_by": [
+      "model"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "83798a621c12fbdcf6de6b1cbf552d3a5f4f176a67ed4963c6a4a729b5f87e69",
+    "quotes": {
+      "model": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150101032325/https://en.wikipedia.org/wiki/Conceptual_model"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Consciousness": {
+    "cited_by": [
+      "consciousness",
+      "unconsciousness"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c4f7a43f87d68be9e810efb15dc712f64df1abab8306c83fe680f048dd1fcda4",
+    "quotes": {
+      "consciousness": "archived",
+      "unconsciousness": "unchecked"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150101231231/https://en.wikipedia.org/wiki/Consciousness"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Context_(computing)": {
+    "cited_by": [
+      "context"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "1732223a443503e9dbe2bfc8471f1e7511719d2bc610997d1b6a15643b315628",
+    "quotes": {
+      "context": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150320134513/https://en.wikipedia.org/wiki/Context_(computing)"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Context_(language_use)": {
+    "cited_by": [
+      "context"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "4d97ae31d26799810e3b5a2b7a040d0b20c32b3f55e99ae8e16aeedde96d7613",
+    "quotes": {
+      "context": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150111063842/https://en.wikipedia.org/wiki/Context_(language_use)"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Contextualism": {
+    "cited_by": [
+      "contextual-systems"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "d94b430a8552145f61e5520f3a7f3fd1d4571e013790f319a7516c5939dee264",
+    "quotes": {
+      "contextual-systems": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102042025/https://en.wikipedia.org/wiki/Contextualism"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Control_system": {
+    "cited_by": [
+      "control-system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "fad7af01aa53dbc95d8e0b3eafc23841befa0b8b7a6366aba1695b30989229d9",
+    "quotes": {
+      "control-system": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102104629/https://en.wikipedia.org/wiki/Control_system"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Control_system_(disambiguation)": {
+    "cited_by": [
+      "control-system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f3113262c054522f2bd4d628c21d94bdc67d8736aa84f322c4fee5046714e18c",
+    "quotes": {
+      "control-system": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150720084611/https://en.wikipedia.org/wiki/Control_system_(disambiguation)"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Culture": {
+    "cited_by": [
+      "culture"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "d5beb658897a3d27399e329d995a6ac8f66a30f162e9a88506d370a3275806db",
+    "quotes": {
+      "culture": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150103182528/https://en.wikipedia.org/wiki/Culture"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Domain": {
+    "cited_by": [
+      "domain"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b747453dfee05251f4c9134a8c7307efefd2b77f2043d408eed2b97515c7a657",
+    "quotes": {
+      "domain": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Domain_(biology)": {
+    "cited_by": [
+      "domain"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "776831e2b5f34fce13bc3d697b874829ba8fe863be149157efb3edf10d427b3c",
+    "quotes": {
+      "domain": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150112200311/https://en.wikipedia.org/wiki/Domain_(biology)"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Domain_(mathematical_analysis)": {
+    "cited_by": [
+      "domain"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "10e99555e613bd8dd6d101d45538574ae1ee99800f88ded4c45704c5d0f5ec45",
+    "quotes": {
+      "domain": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150321204042/https://en.wikipedia.org/wiki/Domain_(mathematical_analysis)"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Domain_(software_engineering)": {
+    "cited_by": [
+      "domain"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "8ff0d77389f65e62a35315528c3b1d1476be3d7c20220c754bcb49f8811099d7",
+    "quotes": {
+      "domain": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150320040837/https://en.wikipedia.org/wiki/Domain_(software_engineering)"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Domain_engineering": {
+    "cited_by": [
+      "domain"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b0983d692ab2127610d2d896158ee337e56a56bc183cb2c5b78fea64db0cf40d",
+    "quotes": {
+      "domain": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Ecosystem": {
+    "cited_by": [
+      "ecosystem"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "7cdbe41a4e0322e53f10b2461934dbb7899d1923e108c454bbfbd82292f1c213",
+    "quotes": {
+      "ecosystem": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108153404/https://en.wikipedia.org/wiki/Ecosystem"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Emotion": {
+    "cited_by": [
+      "emotion"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b63e361cc744e6decd151e7f2f284e88ec4f270f81a389d26ab0612b3e9af7ef",
+    "quotes": {
+      "emotion": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Energy": {
+    "cited_by": [
+      "energy"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "55852d20a5d89b35c6de03db4bc9e0a981352bac6acae078a8dae42172cfe49a",
+    "quotes": {
+      "energy": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Entity": {
+    "cited_by": [
+      "entity"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "49593eb788933ff8885edc99dda59fe9c8a88d05d71391cc1ec646038dd14d5e",
+    "quotes": {
+      "entity": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150105051200/https://en.wikipedia.org/wiki/Entity"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Evolution": {
+    "cited_by": [
+      "evolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "1b01c6c30d362d8c9177176201147ecfec44f45e22a1122c1a74c4a7240a542c",
+    "quotes": {
+      "evolution": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Evolution_(disambiguation)": {
+    "cited_by": [
+      "evolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "96eaec5ff4365b797843fb4536f2e4d2e512e5d0f830471202fe347f81c45136",
+    "quotes": {
+      "evolution": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20141014232907/https://en.wikipedia.org/wiki/Evolution_(disambiguation)"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Evolutionary_algorithm": {
+    "cited_by": [
+      "evolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "5d63086b3dfa1dce61db2c7a20fc45bf78c21b194f6abfe7dc5155a4f967927d",
+    "quotes": {
+      "evolution": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Existence": {
+    "cited_by": [
+      "existence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "0128a6e50d36ce76f2332e618e7f6e95d51e8af799652eb3e1bbb1389b0a3171",
+    "quotes": {
+      "existence": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108081501/https://en.wikipedia.org/wiki/Existence"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Focus": {
+    "cited_by": [
+      "focus"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c3968e536b4137fb8f22d87a256b204a9a01e393571cec03fffb8218ccd7e4be",
+    "quotes": {
+      "focus": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Formal_system": {
+    "cited_by": [
+      "abstract-system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "a038de0ecbc819b04da0d1c80ffa007db3e4e12df5ae2464967c333c5f5b7ba1",
+    "quotes": {
+      "abstract-system": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20220101150710/https://en.wikipedia.org/wiki/Formal_system"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Fractal": {
+    "cited_by": [
+      "fractal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "7cbb85db813e8c475e3f37118c618424b63603447cb79a62a0d66fcb0ea79de8",
+    "quotes": {
+      "fractal": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/God": {
+    "cited_by": [
+      "god"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c14b3f7a51a57eeb8b7fef9890e146752d144f0653d40a07b189b3d15def3a36",
+    "quotes": {
+      "god": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Herstory": {
+    "cited_by": [
+      "history"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "d92307d49202d73621a40c2704b74f0e424e182b83eac878452f8886ace51fe0",
+    "quotes": {
+      "history": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150324085234/https://en.wikipedia.org/wiki/Herstory"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Heuristic": {
+    "cited_by": [
+      "heuristic"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "fcb25423d47838b7944474c0307e9f931218aec2fad1b378feaff1c571d93910",
+    "quotes": {
+      "heuristic": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150107043524/https://en.wikipedia.org/wiki/Heuristic"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Higher_consciousness": {
+    "cited_by": [
+      "expanding-consciousness"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "23cce3bde7f38bb1c9770d70962f7cbddbb189b18c8ac6809b336952fe4c30b8",
+    "quotes": {
+      "expanding-consciousness": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150213205850/https://en.wikipedia.org/wiki/Higher_consciousness"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/History": {
+    "cited_by": [
+      "history"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f81a1ca3ff1005cb75a45ef642309c5946ad31b582d61cc144f750b494a5eedc",
+    "quotes": {
+      "history": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150107223120/https://en.wikipedia.org/wiki/History"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Human": {
+    "cited_by": [
+      "human"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "4a58a2ba9b226e705000d16f7ca750cb172d24aa504dc6a6c0e572df31ec7066",
+    "quotes": {
+      "human": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150101185929/https://en.wikipedia.org/wiki/Human"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Illusion": {
+    "cited_by": [
+      "illusion"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "1395a1b598e271b53fe96dcaa2b0b7754da3c91d7d4172214195f9991b56a05c",
+    "quotes": {
+      "illusion": "moved"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Image_resolution": {
+    "cited_by": [
+      "resolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "fa6b47343f449c6de6107386fa13737ac07cc661c986a43105ac5063cd765740",
+    "quotes": {
+      "resolution": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108103552/https://en.wikipedia.org/wiki/Image_resolution"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Information": {
+    "cited_by": [
+      "communication",
+      "entity",
+      "information"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "e29f9e8b60a494cb965c2d6cd990131b8ab8218a7ffa51df2c03166c17f1df1a",
+    "quotes": {
+      "communication": "archived",
+      "entity": "unchecked",
+      "information": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150104000358/https://en.wikipedia.org/wiki/Information"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Intelligence": {
+    "cited_by": [
+      "intelligence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f6c816f900ac96189d98a72f985e23ea1e3abdb04dac6c6a3a3c6048379225c1",
+    "quotes": {
+      "intelligence": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150103065258/https://en.wikipedia.org/wiki/Intelligence"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Introduction_to_evolution": {
+    "cited_by": [
+      "evolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "2d8cfb1d5cdcecc6bfb360860e3d8067cc70c90037b87236d910536659ceff38",
+    "quotes": {
+      "evolution": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Language": {
+    "cited_by": [
+      "language"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "4923a66f62990345c85a871180689625b469f6b52da2e1c85f64e4b054c53040",
+    "quotes": {
+      "language": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150101031507/https://en.wikipedia.org/wiki/Language"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Level_of_consciousness_(Esotericism)": {
+    "cited_by": [
+      "expanding-consciousness"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "3ec596b2efc4677043006d7d6ec5da9924f217e66f5f4461deed5acb07e6cbe6",
+    "quotes": {
+      "expanding-consciousness": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150211104231/https://en.wikipedia.org/wiki/Level_of_consciousness_(Esotericism)"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Linguistics": {
+    "cited_by": [
+      "linguistics"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "343a662f41961ea23d3352277cfe66967f01734081debed718965fb8d6111a2f",
+    "quotes": {
+      "linguistics": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108143714/https://en.wikipedia.org/wiki/Linguistics"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Love": {
+    "cited_by": [
+      "love"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "96b263ab4da05dcf8baaec5a936618c0b8b753826b024849624c5e74646c2249",
+    "quotes": {
+      "love": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102063407/https://en.wikipedia.org/wiki/Love"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Michael_Graziano": {
+    "cited_by": [
+      "attention-schema"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "7e71cab5f38f557c3cbf71f8a13479935692b99e3cf80dcad53120bd2cc0f1bf",
+    "quotes": {
+      "attention-schema": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Morphology_(linguistics)": {
+    "cited_by": [
+      "context"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "0609495e9fd47d7436f023909d0dbab98e90e119a32c6b1dab191bb954fe404e",
+    "quotes": {
+      "context": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150215094346/https://en.wikipedia.org/wiki/Morphology_(linguistics)"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Nature": {
+    "cited_by": [
+      "physical-existence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c6b42bc2920a3c43f125c76035c843470e86292e98b2bf04017938618c12d1e7",
+    "quotes": {
+      "physical-existence": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Noumenon": {
+    "cited_by": [
+      "noumena"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f155ab7753129f0e3dece94551f86f1803d779491ce1a2a9bf68f5d368dae493",
+    "quotes": {
+      "noumena": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Novelty": {
+    "cited_by": [
+      "novelty"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "83c1c9f75c869872ecb97ce9b215859ea07823863c67929ce6a57496fd90fb22",
+    "quotes": {
+      "novelty": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Paradox": {
+    "cited_by": [
+      "paradox"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "9bcce149e82e8f7ecd5072d0d29d4ee930767ad31ff28fe4627bdee3008e27b1",
+    "quotes": {
+      "paradox": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102022357/https://en.wikipedia.org/wiki/Paradox"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Pattern": {
+    "cited_by": [
+      "pattern"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "8dbefed599cde533c2938c44dfd3bb06637cb1eedbfbb0021053b26b25e68ca3",
+    "quotes": {
+      "pattern": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108194217/https://en.wikipedia.org/wiki/Pattern"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Perspective": {
+    "cited_by": [
+      "perspective"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "700203e5fce1c2bf608e030f21c2dd78dffc78c93e5674d3341726acfee43583",
+    "quotes": {
+      "perspective": "moved"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Phenomenon": {
+    "cited_by": [
+      "phenomena"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "bd45fcb2c62d175f53bcc4fc2149e86624fa22005f53a53479375be3eb8c8e23",
+    "quotes": {
+      "phenomena": "moved"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Philosophy": {
+    "cited_by": [
+      "philosophy"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "0e3037076d952dcb7d6b277490170b699c360235663eda9abf640c8c5dea296f",
+    "quotes": {
+      "philosophy": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150101031126/https://en.wikipedia.org/wiki/Philosophy"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Physical_system": {
+    "cited_by": [
+      "physical-existence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "d49c4d2b1c04cbd55bc2e1b31af4874159af448728ade82a5f344881d9087df2",
+    "quotes": {
+      "physical-existence": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102125412/https://en.wikipedia.org/wiki/Physical_system"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Platonic_realism": {
+    "cited_by": [
+      "conceptual-existence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "31ee08de98c83e12cbd7112336898ce508d99b67a23375b998687a652f0679f2",
+    "quotes": {
+      "conceptual-existence": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20200107103850/https://en.wikipedia.org/wiki/Platonic_realism"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Pneuma": {
+    "cited_by": [
+      "pneuma"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f9ce9333e17030d686ed5bb21b68d6535f340eafe9c0e7e8a536386bef9a8435",
+    "quotes": {
+      "pneuma": "moved"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Project": {
+    "cited_by": [
+      "project"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "339369c94aa03756ac1005161771aafaa35e759f1e2fd26949f851b25b7f2ddd",
+    "quotes": {
+      "project": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Qualitative_research": {
+    "cited_by": [
+      "qualitative"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "5477fadd63f249503fc591655c0e7c0a4e2e2c383a56c053c93ca2eff4be6266",
+    "quotes": {
+      "qualitative": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Quantitative_research": {
+    "cited_by": [
+      "quantitative"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "fefb6400327bd455d799290958b8775108793e78085bf151bc0867861b28bb92",
+    "quotes": {
+      "quantitative": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Reality": {
+    "cited_by": [
+      "reality"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c41dde5429e3a91e07d60689d3c6e9adf87fcfd2ed61604f82df0b2780f043bf",
+    "quotes": {
+      "reality": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150101091351/https://en.wikipedia.org/wiki/Reality"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Science": {
+    "cited_by": [
+      "science"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "da7c30e0312c04dca066fbc6e4d86783ec42b13c4893ad9e11b2f0d8741b1e04",
+    "quotes": {
+      "science": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150101200603/https://en.wikipedia.org/wiki/Science"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Signal_(electrical_engineering)": {
+    "cited_by": [
+      "signal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "39478e3cd40e8a94019eeb245482d7fb1b078bb9a362fe40aed21c7c986114d6",
+    "quotes": {
+      "signal": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108222223/https://en.wikipedia.org/wiki/Signal_(electrical_engineering)"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Signal_velocity": {
+    "cited_by": [
+      "signal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f4833277ff6bdcb0244292d47e1757f710c98779b7556aa6c27a5dd5e6185dea",
+    "quotes": {
+      "signal": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Signalling_theory": {
+    "cited_by": [
+      "signal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "db35a70d9fbfdc2f490e38398cc3ae339955aa61a96468ec6d126b09d332c0ca",
+    "quotes": {
+      "signal": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150102024433/https://en.wikipedia.org/wiki/Signalling_theory"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Soul": {
+    "cited_by": [
+      "entity",
+      "soul"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "4a913415fce17c889e850f7ab4dc606bb8031e115b8991a4a795c564da721676",
+    "quotes": {
+      "entity": "unchecked",
+      "soul": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150107214517/https://en.wikipedia.org/wiki/Soul"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Spirit": {
+    "cited_by": [
+      "spirit"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "47421fd594c3b13cc6d40fdb8672d63e127b89294839bc8fe263e5482258606a",
+    "quotes": {
+      "spirit": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150107214519/https://en.wikipedia.org/wiki/Spirit"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Spiritual_evolution": {
+    "cited_by": [
+      "evolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "762b588681cda9a0b63e9c3976e5c8f1840fb1346c55b821400b1ab5e559c1fa",
+    "quotes": {
+      "evolution": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Spirituality": {
+    "cited_by": [
+      "spirituality"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "bdb41f9729f139f1abcb8711462a28856be6b2805105cb209fb7a1c7c670ba69",
+    "quotes": {
+      "spirituality": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/State": {
+    "cited_by": [
+      "state"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b963a6a50850d47fae42992d16a83b57cdebacd8d72abe7ed18c4157872671f4",
+    "quotes": {
+      "state": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150101234035/https://en.wikipedia.org/wiki/State"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Story": {
+    "cited_by": [
+      "story"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "5a1001389dc3c11538a137b76506f8cc737b6d43b5e04581256957a8cd5a88f9",
+    "quotes": {
+      "story": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150315014232/https://en.wikipedia.org/wiki/Story"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/System": {
+    "cited_by": [
+      "abstract-system",
+      "entity",
+      "system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "971e15636a8e0a0f23918e200099be8aff14ddd5655fdacf1d5a5e84e02f6d6f",
+    "quotes": {
+      "abstract-system": "archived",
+      "entity": "unchecked",
+      "system": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150109151259/https://en.wikipedia.org/wiki/System"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Technological_evolution": {
+    "cited_by": [
+      "evolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "ea3ad349bb32dedec74460237a1a823a337c7ac40a50d394c55a6e7b41185378",
+    "quotes": {
+      "evolution": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Technology": {
+    "cited_by": [
+      "technology"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "f5f8560260f622c47e1a090f1c58aeda07f0c742c3f9627f16be602739ea992c",
+    "quotes": {
+      "technology": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150108134659/https://en.wikipedia.org/wiki/Technology"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/The_arts": {
+    "cited_by": [
+      "art"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "7fe7cb3db49ddded04c3c373788087ce4e558655453263a4fdb2b06471e09077",
+    "quotes": {
+      "art": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150101201852/https://en.wikipedia.org/wiki/The_arts"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Time_evolution": {
+    "cited_by": [
+      "evolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "43a5bbf8143dd595bce80567ade26153e7267f121df77dfc660902852cce2e43",
+    "quotes": {
+      "evolution": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Tool": {
+    "cited_by": [
+      "tool"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "371406759dd813167fe962ba6b6751f5ce3710d280e09d27cd64d024cddf4d0f",
+    "quotes": {
+      "tool": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Tradition": {
+    "cited_by": [
+      "tradition"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "9ccd9d7987c0bfd8efacc13b684d31c43d7eb04d008f5ba17130e7df3e440e64",
+    "quotes": {
+      "tradition": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150111072411/https://en.wikipedia.org/wiki/Tradition"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Transcendence_(philosophy)": {
+    "cited_by": [
+      "transcendence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "55d48bd7f67f470d83189f6c6845e06135f031c85cdc3fec2b6856ba14c17f97",
+    "quotes": {
+      "transcendence": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Type%E2%80%93token_distinction": {
+    "cited_by": [
+      "type"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "7d92ba3bbb26f8b182d2f2ca69ecfed5a852c1ea644c4f253bc6ee02ad0164c2",
+    "quotes": {
+      "type": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Understanding_Media": {
+    "cited_by": [
+      "technology"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "0d6158a251eb7449896bf7346e0b5c680563741c30083b05606fea1eb39b9dc7",
+    "quotes": {
+      "technology": "present"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Universal_evolution": {
+    "cited_by": [
+      "evolution"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "939d0c9754c443b91a35ce999da3ad60b983910047e2a4a3b9de5cc70936db49",
+    "quotes": {
+      "evolution": "unchecked"
+    },
+    "archives": []
+  },
+  "https://en.wikipedia.org/wiki/Unix_signal": {
+    "cited_by": [
+      "signal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "419d517248d3d98142d38044ef4d9538c684e02efe2ff03ab58781007f36f2f9",
+    "quotes": {
+      "signal": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150216210340/https://en.wikipedia.org/wiki/Unix_signal"
+    ]
+  },
+  "https://en.wiktionary.org/wiki/abstract": {
+    "cited_by": [
+      "abstract-system"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "adcf4d5e814aabe7212bcd83e5bda65103e8aa0528223d29e0b7b0627148b947",
+    "quotes": {
+      "abstract-system": "present"
+    },
+    "archives": []
+  },
+  "https://en.wiktionary.org/wiki/conceptual": {
+    "cited_by": [
+      "conceptual-existence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "6a0b551a280b1e2f49ddf000fc0e5205fc0a8945acc5904c3356d506ab65a4ac",
+    "quotes": {
+      "conceptual-existence": "present"
+    },
+    "archives": []
+  },
+  "https://en.wiktionary.org/wiki/contextualism": {
+    "cited_by": [
+      "contextual-systems"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "9bcf4ae6fc51e469eb958c6824ab6a246567ec2b677041da37e094f6dcb00f81",
+    "quotes": {
+      "contextual-systems": "present"
+    },
+    "archives": []
+  },
+  "https://en.wiktionary.org/wiki/ecosystem": {
+    "cited_by": [
+      "ecosystem"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "4ad8f19e6a0148ebe1e321f9271127f7d9b0969ea74f0e3be4770190315efdd6",
+    "quotes": {
+      "ecosystem": "archived"
+    },
+    "archives": [
+      "https://web.archive.org/web/20150301031716/https://en.wiktionary.org/wiki/ecosystem"
+    ]
+  },
+  "https://en.wiktionary.org/wiki/existence": {
+    "cited_by": [
+      "conceptual-existence",
+      "physical-existence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "a722be21e2518ee0ee1e5fcf855a96a17806e35b849a9629293cb402b6aeef32",
+    "quotes": {
+      "conceptual-existence": "present",
+      "physical-existence": "present"
+    },
+    "archives": []
+  },
+  "https://en.wiktionary.org/wiki/noumenon": {
+    "cited_by": [
+      "noumena"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "0a9ab5e874b0699132871b141b024c6a62757459c3e348f26aa069ec660e0fb2",
+    "quotes": {
+      "noumena": "present"
+    },
+    "archives": []
+  },
+  "https://en.wiktionary.org/wiki/phenomenon": {
+    "cited_by": [
+      "phenomena"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "5b07e3c01c94bf1789a5c250b319df5cf8fc79a0eccd71d8ead25c1153655d52",
+    "quotes": {
+      "phenomena": "present"
+    },
+    "archives": []
+  },
+  "https://en.wiktionary.org/wiki/physical": {
+    "cited_by": [
+      "physical-existence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "9582e5ae681153767d40b1c59e419d0b6c54dbda8b6fe36c56162ef60966f26e",
+    "quotes": {
+      "physical-existence": "present"
+    },
+    "archives": []
+  },
+  "https://en.wiktionary.org/wiki/pneuma": {
+    "cited_by": [
+      "pneuma"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "21a9091fb5ac660fe6588291b294e287468945b7d4f077d9fa20e154fba8d9b6",
+    "quotes": {
+      "pneuma": "present"
+    },
+    "archives": []
+  },
+  "https://en.wiktionary.org/wiki/project": {
+    "cited_by": [
+      "project"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "1c022155b2044c7a9e310a9cf90efc17d3c7467f64845cfadbb5b15d0db52acc",
+    "quotes": {
+      "project": "present"
+    },
+    "archives": []
+  },
+  "https://en.wiktionary.org/wiki/qualitative": {
+    "cited_by": [
+      "qualitative"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c650e13b1b1e0b590ffcae8e879cbe031038bc9a03f82bb1eae81449a59bf44a",
+    "quotes": {
+      "qualitative": "present"
+    },
+    "archives": []
+  },
+  "https://en.wiktionary.org/wiki/quantitative": {
+    "cited_by": [
+      "quantitative"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "1b38e2fa11f0961de38578278eefd01f27648863ecde8d247cd821153b0c92bb",
+    "quotes": {
+      "quantitative": "present"
+    },
+    "archives": []
+  },
+  "https://journals.colorado.edu/index.php/cril/article/view/279": {
+    "cited_by": [
+      "evolutionary-linguistics"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "9e9532e3e7b9725667e715642c2ca508bfcf96d59f3b6dd911af1e1a0768e531",
+    "quotes": {
+      "evolutionary-linguistics": "unchecked"
+    },
+    "archives": []
+  },
+  "https://news.ycombinator.com/item?id=2864317": {
+    "cited_by": [
+      "implicit-scope"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "7cb176ce94e20b3a2ef76a079cd5d4bca35c750d35d21900b9658f9dc38a7670",
+    "quotes": {
+      "implicit-scope": "unchecked"
+    },
+    "archives": []
+  },
+  "https://web.archive.org/web/20150912000000/http://www.aaai.org/ocs/index.php/SARA/SARA13/paper/view/7249": {
+    "cited_by": [
+      "abstraction"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "c672e6464b898482febed38c70f4d713144378f9effcf49b5acd2a5b5239c7d4",
+    "quotes": {
+      "abstraction": "unchecked"
+    },
+    "archives": []
+  },
+  "https://www.etymonline.com/word/noumenon": {
+    "cited_by": [
+      "noumena"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "2f63a315682d899139fbc42130ad67a83bd0d7cbb0545eb390b7a9882bcc371f",
+    "quotes": {
+      "noumena": "present"
+    },
+    "archives": []
+  },
+  "https://www.etymonline.com/word/phenomenon": {
+    "cited_by": [
+      "phenomena"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "e48d63dc631e47e5e8634b94c036bde0f84f2fddf3d657150f5da6f1fb2a3f14",
+    "quotes": {
+      "phenomena": "present"
+    },
+    "archives": []
+  },
+  "https://www.etymonline.com/word/pneuma": {
+    "cited_by": [
+      "pneuma"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "497292a3b31b75e7ec13b0f8a4d8dff5958a5185845be5152fb10dc7ba428211",
+    "quotes": {
+      "pneuma": "present"
+    },
+    "archives": []
+  },
+  "https://www.etymonline.com/word/project": {
+    "cited_by": [
+      "project"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "b4eec4787fe15057bb0e1691ba1ff5f6ff2c54f86c5a2c7498aae243c4a8cc4e",
+    "quotes": {
+      "project": "present"
+    },
+    "archives": []
+  },
+  "https://www.youtube.com/results?search_query=fractal+zoom": {
+    "cited_by": [
+      "fractal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "67bae9f9d8773c01a784951f055cbb75afe254b32a9c338a13fdaad19450e0e0",
+    "quotes": {
+      "fractal": "unchecked"
+    },
+    "archives": []
+  },
+  "https://www.youtube.com/results?search_query=mandelbrot+zoom": {
+    "cited_by": [
+      "fractal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "67bae9f9d8773c01a784951f055cbb75afe254b32a9c338a13fdaad19450e0e0",
+    "quotes": {
+      "fractal": "unchecked"
+    },
+    "archives": []
+  },
+  "https://www.youtube.com/watch?v=0jGaio87u3A": {
+    "cited_by": [
+      "fractal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
+    "quotes": {
+      "fractal": "unchecked"
+    },
+    "archives": []
+  },
+  "https://www.youtube.com/watch?v=CD9yNFmb2FE": {
+    "cited_by": [
+      "fractal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
+    "quotes": {
+      "fractal": "unchecked"
+    },
+    "archives": []
+  },
+  "https://www.youtube.com/watch?v=PbwaFQ2r2c4": {
+    "cited_by": [
+      "fractal"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
+    "quotes": {
+      "fractal": "unchecked"
+    },
+    "archives": []
+  },
+  "https://www.youtube.com/watch?v=_ahvzDzKdB0&feature=youtu.be": {
+    "cited_by": [
+      "this-philosophy"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
+    "quotes": {
+      "this-philosophy": "unchecked"
+    },
+    "archives": []
+  },
+  "https://www.youtube.com/watch?v=aAlaRdrcQcY": {
+    "cited_by": [
+      "concrescence"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
+    "quotes": {
+      "concrescence": "unchecked"
+    },
+    "archives": []
+  },
+  "https://www.youtube.com/watch?v=cz-3WDdqbj0": {
+    "cited_by": [
+      "abstraction"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
+    "quotes": {
+      "abstraction": "unchecked"
+    },
+    "archives": []
+  },
+  "https://www.youtube.com/watch?v=o6L6XeNdd_k": {
+    "cited_by": [
+      "category-theory"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
+    "quotes": {
+      "category-theory": "unchecked"
+    },
+    "archives": []
+  },
+  "https://www.youtube.com/watch?v=vqCOss4hqnE": {
+    "cited_by": [
+      "consciousness"
+    ],
+    "fetched_at": "2026-09-14T12:25:38Z",
+    "status": 200,
+    "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
+    "quotes": {
+      "consciousness": "unchecked"
+    },
+    "archives": []
+  }
+}

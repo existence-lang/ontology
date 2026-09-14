@@ -1,0 +1,621 @@
+{
+  "ontology": "existence-lang/ontology",
+  "classes": [
+    "structure",
+    "contradictions",
+    "sources",
+    "mirrors"
+  ],
+  "findings": [
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "agree",
+      "message": "quoted passage on http://en.wikipedia.org/wiki/Agreement has changed but still matches: “* A pact, convention, or treaty between nations, sub-national entities, organiza…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "integrity",
+      "message": "quoted passage on http://en.wikipedia.org/wiki/Integrity has changed but still matches: “Integrity is a personal choice, an uncompromising and predictably consistent com…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "physical-system",
+      "message": "quoted passage on http://en.wikipedia.org/wiki/Physical_system has changed but still matches: “the portion of the physical universe chosen for analysis”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "compassion",
+      "message": "quoted passage on http://en.wikipedia.org/wiki/Self-compassion has changed but still matches: “Self-compassion is extending compassion to one's self in instances of perceived …”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "abstract",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/abstract has changed but still matches: “(now rare) Drawn away; removed from; apart from; separate. [First attested aroun…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "agree",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/agree has changed but still matches: “(intransitive) To suit or be adapted in its effects; to do well. \"the same food …”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "art",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/art has changed but still matches: “(uncountable) The conscious production or arrangement of sounds, colours, forms,…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "attention-schema",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/attention has changed but still matches: “(uncountable, military) A state of alertness in the standing position. \"The comp…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "coercion",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/coerce has changed but still matches: “(transitive) to use force, threat, fraud, or intimidation in attempt to compel o…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "coercion",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/coercion has changed but still matches: “(not countable) Actual or threatened force for the purpose of compelling action …”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "coherence",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/coherence has changed but still matches: “Quality of cohering; of being coherent; internal consistency.”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "collective",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/collective has changed but still matches: “(chiefly in communist countries) One of more farms managed and owned, through th…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "communication",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/communicate has changed but still matches: “(transitive, obsolete) To share (in); to have in common, to partake of. [16th-19…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "communication",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/communication has changed but still matches: “(uncountable) The concept or state of exchanging data or information between ent…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "concept",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/concept has changed but still matches: “An understanding retained in the mind, from experience, reasoning and/or imagina…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "consciousness",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/conscious has changed but still matches: “Alert, awake. \"The noise woke me, but it was another few minutes before I was fu…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "domain",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/domain has changed but still matches: “A field or sphere of activity, influence or expertise. \"Dealing with complaints …”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "emotion",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/emotion has changed but still matches: “A reaction by an non-human organism with behavioral and physiological elements s…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "energy",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/energy has changed but still matches: “(physics) A quantity that denotes the ability to do work and is measured in a un…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "entity",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/entity has changed but still matches: “That which has a distinct existence as an individual unit. Often used for organi…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "environment",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/environment has changed but still matches: “(computing) The software and/or hardware existing on any particular computer sys…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "epistemology",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/epistemology has changed but still matches: “(countable) A particular theory of knowledge. \"In his epistemology, Plato mainta…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "evolution",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/evolution has changed but still matches: “Accumulation of change. \"Among other forms of change, the evolution of transport…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "evolutionary-linguistics",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/evolution has changed but still matches: “Accumulation of change. \"Among other forms of change, the evolution of transport…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "feeling",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/feeling has changed but still matches: “(always in the plural) Emotional state or well-being. \"You really hurt my feelin…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "focus",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/focus has changed but still matches: “(countable, geometry) A point of a conic at which rays reflected from a curve or…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "god",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/god has changed but still matches: “Alternative spelling of God”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "human",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/human has changed but still matches: “(comparable) Having the nature or attributes of a human being. \"To err is human;…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "information",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/information has changed but still matches: “(law) A statement of criminal activity brought before a judge or magistrate; in …”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "integrity",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/integrity has changed but still matches: “(aviation) The ability of a system to provide timely warnings to users when they…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "intelligence",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/intelligence has changed but still matches: “(uncountable) Capacity of mind, especially to understand principles, truths, fac…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "judgement",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/judge has changed but still matches: “(intransitive) To arbitrate; to pass opinion on something, especially to settle …”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "language",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/language has changed but still matches: “(computing, countable) A computer language.”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "love",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/love has changed but still matches: “(transitive, colloquial) To be strongly inclined towards something; an emphatic …”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "model",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/model has changed but still matches: “(logic) An interpretation which makes a certain sentence true, in which case tha…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "novelty",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/novelty_theory has changed but still matches: “A theory developed by philosopher Terence McKenna that aims to describe \"novelty…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "ontology",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/ontology has changed but still matches: “(uncountable, philosophy) The branch of metaphysics that addresses the nature or…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "paradox",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/paradox has changed but still matches: “A self-contradictory statement, which can only be true if it is false, and vice …”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "pattern",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/pattern has changed but still matches: “(now rare) A copy. [from 15th c.]”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "perspective",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/perspective has changed but still matches: “By analogy, sound recording technique to adjust and integrate sound sources seem…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "reality",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/reality has changed but still matches: “The state of being actual or real. \"The reality of the crash scene on TV dawned …”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "redefinition",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/redefinition has changed but still matches: “The act or event of redefining. \"George Orwell's novel 1984 proposed that people…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "religion",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/religion has changed but still matches: “Any practice that someone or some group is seriously devoted to. \"At this point,…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "resolution",
+      "message": "quoted passage no longer found on http://en.wiktionary.org/wiki/resolution but is in the snapshot https://web.archive.org/web/20150405213157/http://en.wiktionary.org/wiki/resolution: “A strong will, determination.”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150405213157/http://en.wiktionary.org/wiki/resolution beside the link",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "respect",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/respect has changed but still matches: “(uncountable, always plural) Polite greetings, often offered as condolences afte…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "attention-schema",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/schema has changed but still matches: “(logic) A formula in the language of an axiomatic system, in which one or more s…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "science",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/science has changed but still matches: “(uncountable, archaic) Knowledge gained through study or practice; mastery of a …”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "signal",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/signal has changed but still matches: “(of a radio, TV, telephone, internet, etc) An electrical or electromagnetic acti…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "soul",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/soul has changed but still matches: “(religion, folklore) The spirit or essence of a person usually thought to consis…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "spirit",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/spirit has changed but still matches: “(usually in the plural) A volatile liquid, such as alcohol. The plural form spir…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "spiritual-work",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/spiritual has changed but still matches: “Not lay or temporal; relating to sacred things; ecclesiastical. \"the spiritual f…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "state",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/state has changed but still matches: “(mathematics, stochastic processes) An element of the range of the random variab…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "story",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/story has changed but still matches: “A lie. \"You’ve been telling stories again, haven’t you?\"”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "tool",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/tool has changed but still matches: “Something to perform an operation; an instrument; a means.”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "type",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/type has changed but still matches: “(printing, countable) A letter or character used for printing, historically a ca…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "violence",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/violence has changed but still matches: “Action which causes destruction, pain, or suffering. \"We try to avoid violence i…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "spiritual-work",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/work has changed but still matches: “The place where one is employed. \"He hasn’t come home yet, he’s still at work.\"”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "unreachable_host",
+      "severity": "warning",
+      "term": "redefine",
+      "message": "host juneroca.com is unreachable (io: failed to lookup address information: Name or service not known); its sources were skipped",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "unreachable_host",
+      "severity": "warning",
+      "term": "category-theory",
+      "message": "host ncatlab.org:8080 is unreachable (timeout: global); its sources were skipped",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "unreachable_host",
+      "severity": "warning",
+      "term": "god",
+      "message": "host theunboundedspirit.com is unreachable (too many redirects); its sources were skipped",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "unreachable_host",
+      "severity": "warning",
+      "term": "category-theory",
+      "message": "host www.cs.nott.ac.uk is unreachable (io: Connection reset by peer (os error 104)); its sources were skipped",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "dead_link",
+      "severity": "error",
+      "term": "attention-schema",
+      "message": "source http://www.princeton.edu/~graziano/Consciousness_Research.html returned HTTP 403",
+      "fix": "replace the link with the archived copy http://web.archive.org/web/20190421012750/http://www.princeton.edu:80/~graziano/Consciousness_Research.html",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "accuracy",
+      "message": "quoted passage on https://en.wikipedia.org/wiki/Accuracy_and_precision has changed but still matches: “accuracy of a measurement system is the degree of closeness of measurements of a…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "illusion",
+      "message": "quoted passage on https://en.wikipedia.org/wiki/Illusion has changed but still matches: “An illusion is a distortion of the senses, revealing how the brain normally orga…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "perspective",
+      "message": "quoted passage on https://en.wikipedia.org/wiki/Perspective has changed but still matches: “Perspectivity, the formation of an image in a picture plane of a scene viewed fr…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "phenomena",
+      "message": "quoted passage on https://en.wikipedia.org/wiki/Phenomenon has changed but still matches: “A phenomenon, sometimes spelled phaenomenon, is an observable event.”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "pneuma",
+      "message": "quoted passage on https://en.wikipedia.org/wiki/Pneuma has changed but still matches: “Pneuma is an ancient Greek word for \"breath\", and in a religious context for \"sp…”",
+      "fix": null,
+      "fixed": false
+    }
+  ],
+  "summary": {
+    "errors": 2,
+    "warnings": 65,
+    "fixable": 2,
+    "fixed": 2
+  },
+  "clean": false
+}

@@ -38,7 +38,7 @@ A skewed projection of an Object/Concept in a different Resolution based on the 
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/resolution" target="_blank">resolution (wiktionary)</a> <a href="https://web.archive.org/web/20150330012110/http://en.wiktionary.org/wiki/resolution" target="_blank">(archived 2015-03-30)</a>
+<a href="http://en.wiktionary.org/wiki/resolution" target="_blank">resolution (wiktionary)</a> <a href="https://web.archive.org/web/20150330012110/http://en.wiktionary.org/wiki/resolution" target="_blank">(archived 2015-03-30)</a> <a href="https://web.archive.org/web/20150405213157/http://en.wiktionary.org/wiki/resolution" target="_blank">(archived 2015-04-05)</a>
 
 > ### Noun
 
