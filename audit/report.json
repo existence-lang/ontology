@@ -45,24 +45,6 @@
     },
     {
       "class": "sources",
-      "check": "quote_missing",
-      "severity": "error",
-      "term": "universal-set",
-      "message": "quoted passage no longer found on http://en.wikipedia.org/wiki/Universal_set but is in the snapshot https://web.archive.org/web/20150221042205/http://en.wikipedia.org/wiki/Universal_set: “universal set is a set which contains all objects, including itself”",
-      "fix": "pin the archived copy https://web.archive.org/web/20150221042205/http://en.wikipedia.org/wiki/Universal_set beside the link",
-      "fixed": true
-    },
-    {
-      "class": "sources",
-      "check": "quote_missing",
-      "severity": "error",
-      "term": "violence",
-      "message": "quoted passage no longer found on http://en.wikipedia.org/wiki/Violence but is in the snapshot https://web.archive.org/web/20150208151039/http://en.wikipedia.org/wiki/Violence: “The World Health Organization defines violence as \"the intentional use of physic…”",
-      "fix": "pin the archived copy https://web.archive.org/web/20150208151039/http://en.wikipedia.org/wiki/Violence beside the link",
-      "fixed": true
-    },
-    {
-      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "abstract",
@@ -225,12 +207,30 @@
     },
     {
       "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "evolution",
+      "message": "quoted passage no longer found on http://en.wiktionary.org/wiki/evolution but is in the snapshot https://web.archive.org/web/20150402233751/http://en.wiktionary.org/wiki/evolution: “(general) Gradual directional change especially one leading to a more advanced o…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150402233751/http://en.wiktionary.org/wiki/evolution beside the link",
+      "fixed": true
+    },
+    {
+      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "evolution",
       "message": "quoted passage on http://en.wiktionary.org/wiki/evolution has changed but still matches: “Accumulation of change. \"Among other forms of change, the evolution of transport…”",
       "fix": null,
       "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "evolutionary-linguistics",
+      "message": "quoted passage no longer found on http://en.wiktionary.org/wiki/evolution but is in the snapshot https://web.archive.org/web/20150402233751/http://en.wiktionary.org/wiki/evolution: “(general) Gradual directional change especially one leading to a more advanced o…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150402233751/http://en.wiktionary.org/wiki/evolution beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -495,39 +495,21 @@
     },
     {
       "class": "sources",
-      "check": "quote_missing",
-      "severity": "error",
-      "term": "conceptual-system",
-      "message": "quoted passage no longer found on http://en.wiktionary.org/wiki/system but is in the snapshot https://web.archive.org/web/20150504133345/http://en.wiktionary.org/wiki/system: “A collection of organized things; a whole composed of relationships among its me…”",
-      "fix": "pin the archived copy https://web.archive.org/web/20150504133345/http://en.wiktionary.org/wiki/system beside the link",
-      "fixed": true
-    },
-    {
-      "class": "sources",
-      "check": "quote_missing",
-      "severity": "error",
-      "term": "control-system",
-      "message": "quoted passage no longer found on http://en.wiktionary.org/wiki/system but is in the snapshot https://web.archive.org/web/20150504133345/http://en.wiktionary.org/wiki/system: “A collection of organized things; a whole composed of relationships among its me…”",
-      "fix": "pin the archived copy https://web.archive.org/web/20150504133345/http://en.wiktionary.org/wiki/system beside the link",
-      "fixed": true
-    },
-    {
-      "class": "sources",
-      "check": "quote_missing",
-      "severity": "error",
-      "term": "system",
-      "message": "quoted passage no longer found on http://en.wiktionary.org/wiki/system but is in the snapshot https://web.archive.org/web/20150504133345/http://en.wiktionary.org/wiki/system: “A collection of organized things; a whole composed of relationships among its me…”",
-      "fix": "pin the archived copy https://web.archive.org/web/20150504133345/http://en.wiktionary.org/wiki/system beside the link",
-      "fixed": true
-    },
-    {
-      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "tool",
       "message": "quoted passage on http://en.wiktionary.org/wiki/tool has changed but still matches: “Something to perform an operation; an instrument; a means.”",
       "fix": null,
       "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "type",
+      "message": "quoted passage no longer found on http://en.wiktionary.org/wiki/type but is in the snapshot https://web.archive.org/web/20150319060141/http://en.wiktionary.org/wiki/type: “(biology) An individual considered representative of members of its taxonomic gr…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150319060141/http://en.wiktionary.org/wiki/type beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -596,6 +578,15 @@
       "class": "sources",
       "check": "dead_link",
       "severity": "error",
+      "term": "science",
+      "message": "source http://www.fractalwisdom.com/science-of-chaos/the-ultimate-paradigm-shift/ returned HTTP 503",
+      "fix": "replace the link with the archived copy http://web.archive.org/web/20211019205630/http://www.fractalwisdom.com/science-of-chaos/the-ultimate-paradigm-shift/",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "dead_link",
+      "severity": "error",
       "term": "attention-schema",
       "message": "source http://www.princeton.edu/~graziano/Consciousness_Research.html returned HTTP 403",
       "fix": "replace the link with the archived copy http://web.archive.org/web/20190421012750/http://www.princeton.edu:80/~graziano/Consciousness_Research.html",
@@ -612,12 +603,48 @@
     },
     {
       "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "existence",
+      "message": "quoted passage found neither on https://en.wikipedia.org/wiki/Existence nor in its pinned copy https://web.archive.org/web/20150108081501/https://en.wikipedia.org/wiki/Existence: “Everything that 'is', or more simply, everything”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "abstract-system",
+      "message": "quoted passage found neither on https://en.wikipedia.org/wiki/Formal_system nor in its pinned copy https://web.archive.org/web/20220101150710/https://en.wikipedia.org/wiki/Formal_system: “A formal system is an abstract structure used for inferring theorems from axioms…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "illusion",
       "message": "quoted passage on https://en.wikipedia.org/wiki/Illusion has changed but still matches: “An illusion is a distortion of the senses, revealing how the brain normally orga…”",
       "fix": null,
       "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "language",
+      "message": "quoted passage no longer found on https://en.wikipedia.org/wiki/Language but is in the snapshot https://web.archive.org/web/20150206061845/https://en.wikipedia.org/wiki/Language: “Language is the human ability to acquire and use complex systems of communicatio…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150206061845/https://en.wikipedia.org/wiki/Language beside the link",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "pattern",
+      "message": "quoted passage no longer found on https://en.wikipedia.org/wiki/Pattern but is in the snapshot https://web.archive.org/web/20150408224642/https://en.wikipedia.org/wiki/Pattern: “A pattern, apart from the term's use to mean \"Template\", is a discernible regula…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150408224642/https://en.wikipedia.org/wiki/Pattern beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -657,19 +684,46 @@
     },
     {
       "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "state",
+      "message": "quoted passage no longer found on https://en.wikipedia.org/wiki/State but is in the snapshot https://web.archive.org/web/20150225034328/https://en.wikipedia.org/wiki/State: “State commonly refers to either the present condition of a system or entity, or …”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150225034328/https://en.wikipedia.org/wiki/State beside the link",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "signal",
+      "message": "quoted passage no longer found on https://en.wikipedia.org/wiki/Unix_signal but is in the snapshot https://web.archive.org/web/20150327032619/https://en.wikipedia.org/wiki/Unix_signal: “a limited form of inter-process communication used in Unix, Unix-like, and other…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150327032619/https://en.wikipedia.org/wiki/Unix_signal beside the link",
+      "fixed": true
+    },
+    {
+      "class": "sources",
       "check": "dead_link",
       "severity": "error",
       "term": "implicit-scope",
       "message": "source https://news.ycombinator.com/item?id=2864317 returned HTTP 429",
       "fix": null,
       "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "unreachable_host",
+      "severity": "warning",
+      "term": "abstraction",
+      "message": "host web.archive.org is unreachable (io: Connection refused); its sources were skipped",
+      "fix": null,
+      "fixed": false
     }
   ],
   "summary": {
-    "errors": 7,
-    "warnings": 66,
-    "fixable": 6,
-    "fixed": 6
+    "errors": 12,
+    "warnings": 67,
+    "fixable": 9,
+    "fixed": 9
   },
   "clean": false
 }
