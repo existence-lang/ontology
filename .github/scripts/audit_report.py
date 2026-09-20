@@ -153,7 +153,14 @@ def render(report, previous=None, env=None):
     # instead is what let the issue say "2 error(s) ... findings remain" above
     # an empty Errors section: the CLI counts a fixed error as an error, and
     # the sections do not.
-    outstanding = [f for f in findings if not f.get("fixed")]
+    unfixed = [f for f in findings if not f.get("fixed")]
+    # An `accepted` finding is a decision already recorded in
+    # audit/waivers.json, not work waiting on anyone. It is still printed --
+    # a decision the reader cannot see is indistinguishable from a check that
+    # stopped running -- but it is not outstanding, so it is counted nowhere
+    # in the headline.
+    accepted = [f for f in unfixed if f["severity"] == "accepted"]
+    outstanding = [f for f in unfixed if f["severity"] != "accepted"]
     errors = [f for f in outstanding if f["severity"] == "error"]
     warnings = [f for f in outstanding if f["severity"] == "warning"]
     fixable = [f for f in outstanding if f.get("fix")]
@@ -161,6 +168,10 @@ def render(report, previous=None, env=None):
 
     if outstanding:
         state = "findings remain"
+    elif accepted and not fixed:
+        # Nothing to do, but not "clean" either: something is being lived with
+        # on purpose, and saying "clean" would bury the decision.
+        state = "only accepted findings remain"
     elif fixed:
         # Not "clean": the resolutions are real but they are sitting in an
         # unmerged pull request, so main still reads the old way.
@@ -202,6 +213,7 @@ def render(report, previous=None, env=None):
     out.append("")
     out.append(section("Errors", errors))
     out.append(section("Warnings", warnings))
+    out.append(section("Accepted", accepted))
     out.append(section("Fixed by this run", fixed))
     out.append("<!-- ontology-audit: generated; edited in place each week -->")
     return "\n".join(out).rstrip() + "\n"

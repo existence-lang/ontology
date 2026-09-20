@@ -164,6 +164,56 @@ class SinceLastRun(unittest.TestCase):
         self.assertIn("0 new, 0 resolved.", body)
 
 
+class Accepted(unittest.TestCase):
+    """An `accepted` finding is a decision recorded in audit/waivers.json.
+
+    It must be visible -- a decision the reader cannot see reads exactly like a
+    check that quietly stopped running -- and it must be counted nowhere in the
+    headline, or the weekly issue reports work that nobody is waiting on.
+    """
+
+    def render(self, rep, prev=None):
+        return audit_report.render(rep, prev, env=dict(ALL_ON))
+
+    def test_an_accepted_finding_is_counted_as_neither_error_nor_warning(self):
+        body = self.render(report([
+            finding("a", severity="error"),
+            finding("god", severity="accepted"),
+        ]))
+        errors, warnings, fixable, fixed, _ = HEADLINE.search(body).groups()
+        self.assertEqual((errors, warnings, fixable, fixed), ("1", "0", "0", "0"))
+
+    def test_an_accepted_finding_is_still_printed_with_its_reason(self):
+        f = finding("god", severity="accepted")
+        f["message"] = "host x is unreachable — accepted 2026-09-20: the page is unrecoverable"
+        body = self.render(report([f]))
+        self.assertIn("### Accepted (1)", body)
+        self.assertIn("the page is unrecoverable", body)
+
+    def test_a_run_with_only_accepted_findings_does_not_claim_clean(self):
+        body = self.render(report([finding("god", severity="accepted")]))
+        self.assertIn("only accepted findings remain", body)
+        self.assertNotIn("findings remain.", body.split("only accepted")[0])
+
+    def test_no_accepted_findings_renders_no_accepted_section(self):
+        body = self.render(report([finding("a", severity="error")]))
+        self.assertNotIn("### Accepted", body)
+
+    def test_every_headline_count_still_equals_its_section_with_accepted(self):
+        body = self.render(report([
+            finding("a", severity="error"),
+            finding("b", severity="warning"),
+            finding("god", severity="accepted"),
+            finding("c", severity="error", fixed=True, fix="applied"),
+        ]))
+        counts = dict((name, int(n)) for name, n in SECTION.findall(body))
+        errors, warnings, _, fixed, _ = HEADLINE.search(body).groups()
+        self.assertEqual(int(errors), counts.get("Errors", 0))
+        self.assertEqual(int(warnings), counts.get("Warnings", 0))
+        self.assertEqual(int(fixed), counts.get("Fixed by this run", 0))
+        self.assertEqual(counts.get("Accepted"), 1)
+
+
 class Capabilities(unittest.TestCase):
     """The second invariant: a capability reports what it CAN do, not what it
     happened to do.
