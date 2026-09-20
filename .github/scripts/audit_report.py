@@ -111,27 +111,37 @@ def capabilities(env=None):
     return "\n".join(lines)
 
 
-def main():
-    if len(sys.argv) < 2:
-        sys.exit(__doc__)
-    report = load(sys.argv[1])
-    if report is None:
-        sys.exit(f"cannot read report {sys.argv[1]}")
-    previous = load(sys.argv[2]) if len(sys.argv) > 2 else None
-
+def render(report, previous=None, env=None):
+    """Return the issue body for REPORT, diffed against PREVIOUS when given."""
     findings = report.get("findings", [])
-    summary = report.get("summary", {})
-    errors = [f for f in findings if f["severity"] == "error" and not f.get("fixed")]
-    warnings = [f for f in findings if f["severity"] == "warning"]
+    # A finding this run resolved is not outstanding. Everything the headline
+    # counts except "fixed this run" is read off these lists, which are the
+    # same ones the sections below render -- counting from report["summary"]
+    # instead is what let the issue say "2 error(s) ... findings remain" above
+    # an empty Errors section: the CLI counts a fixed error as an error, and
+    # the sections do not.
+    outstanding = [f for f in findings if not f.get("fixed")]
+    errors = [f for f in outstanding if f["severity"] == "error"]
+    warnings = [f for f in outstanding if f["severity"] == "warning"]
+    fixable = [f for f in outstanding if f.get("fix")]
     fixed = [f for f in findings if f.get("fixed")]
+
+    if outstanding:
+        state = "findings remain"
+    elif fixed:
+        # Not "clean": the resolutions are real but they are sitting in an
+        # unmerged pull request, so main still reads the old way.
+        state = "all findings fixed this run"
+    else:
+        state = "clean"
 
     out = []
     out.append(f"Weekly `existence audit --all` of **{report.get('ontology', '?')}** "
                f"(classes: {', '.join(report.get('classes', []))}).")
     out.append("")
-    out.append(f"**{summary.get('errors', 0)} error(s), {summary.get('warnings', 0)} warning(s), "
-               f"{summary.get('fixable', 0)} fixable, {summary.get('fixed', 0)} fixed this run** — "
-               + ("clean" if report.get("clean") else "findings remain") + ".")
+    out.append(f"**{len(errors)} error(s), {len(warnings)} warning(s), "
+               f"{len(fixable)} fixable, {len(fixed)} fixed this run** — "
+               + state + ".")
     out.append("")
     out.append("Safe resolutions (suffix-less links, dead links swapped for archived copies, "
                "regenerated indexes) land in the `audit: safe fixes` pull request; the refreshed "
@@ -139,7 +149,7 @@ def main():
                "straight to `main`. Everything below is a decision.")
     out.append("")
 
-    caps = capabilities()
+    caps = capabilities(env)
     if caps:
         out.append(caps)
 
@@ -161,7 +171,17 @@ def main():
     out.append(section("Warnings", warnings))
     out.append(section("Fixed by this run", fixed))
     out.append("<!-- ontology-audit: generated; edited in place each week -->")
-    sys.stdout.write("\n".join(out).rstrip() + "\n")
+    return "\n".join(out).rstrip() + "\n"
+
+
+def main():
+    if len(sys.argv) < 2:
+        sys.exit(__doc__)
+    report = load(sys.argv[1])
+    if report is None:
+        sys.exit(f"cannot read report {sys.argv[1]}")
+    previous = load(sys.argv[2]) if len(sys.argv) > 2 else None
+    sys.stdout.write(render(report, previous))
 
 
 if __name__ == "__main__":
