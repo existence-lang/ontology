@@ -165,6 +165,18 @@ class SinceLastRun(unittest.TestCase):
 
 
 class Capabilities(unittest.TestCase):
+    """The second invariant: a capability reports what it CAN do, not what it
+    happened to do.
+
+    The pull-request capability was derived from whether a `gh pr create` was
+    attempted. While the hand-opened `audit: safe fixes` pull request stays
+    open the job takes the already-open path and never attempts one, so the
+    organization's "Actions may not create pull requests" policy never produced
+    a failure and the weekly issue reported the capability as `on` every single
+    week -- silent for exactly as long as an earlier side effect kept covering
+    for it, and loud only on the first week it no longer does.
+    """
+
     def test_everything_on_is_silence(self):
         body = audit_report.render(report([]), env=dict(ALL_ON))
         self.assertNotIn("## Capabilities", body)
@@ -173,6 +185,43 @@ class Capabilities(unittest.TestCase):
         env = dict(ALL_ON, AUDIT_SEMANTIC_STATE="off")
         body = audit_report.render(report([]), env=env)
         self.assertIn("## Capabilities", body)
+        self.assertIn("ANTHROPIC_API_KEY", body)
+
+    def test_a_failed_pass_is_labelled_failed_not_off(self):
+        env = dict(ALL_ON, AUDIT_SEMANTIC_STATE="failed")
+        body = audit_report.render(report([]), env=env)
+        self.assertIn("failed — the class could not run", body)
+
+    def test_a_restricted_capability_is_reported_though_nothing_failed(self):
+        env = dict(ALL_ON, AUDIT_PR_STATE="restricted")
+        body = audit_report.render(report([]), env=env)
+        self.assertIn("## Capabilities", body)
+        self.assertIn("restricted", body)
+        # The whole point of the state: name the week it stops being masked.
+        self.assertIn("merged or closed", body)
+        self.assertIn("AUDIT_TOKEN", body)
+
+    def test_an_unreadable_policy_is_unknown_rather_than_assumed_on(self):
+        env = dict(ALL_ON, AUDIT_PR_STATE="unknown")
+        body = audit_report.render(report([]), env=env)
+        self.assertIn("## Capabilities", body)
+        self.assertIn("unverified", body)
+
+    def test_an_unrecognised_state_surfaces_rather_than_vanishing(self):
+        env = dict(ALL_ON, AUDIT_PR_STATE="something-new")
+        body = audit_report.render(report([]), env=env)
+        self.assertIn("## Capabilities", body)
+        self.assertIn("something-new", body)
+
+    def test_an_off_pull_request_says_the_branch_was_pushed_instead(self):
+        env = dict(ALL_ON, AUDIT_PR_STATE="off")
+        body = audit_report.render(report([]), env=env)
+        self.assertIn("the branch is pushed instead", body)
+
+    def test_two_capabilities_off_are_both_listed(self):
+        env = {"AUDIT_PR_STATE": "restricted", "AUDIT_SEMANTIC_STATE": "off"}
+        body = audit_report.render(report([]), env=env)
+        self.assertIn("AUDIT_TOKEN", body)
         self.assertIn("ANTHROPIC_API_KEY", body)
 
 

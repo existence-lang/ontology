@@ -160,6 +160,39 @@ jobs:
             echo "::warning::could not record the audit state on main; next run has no previous report to diff against"
           fi
 
+      # Whether Actions may open a pull request here is a policy, not something
+      # the upsert step below can learn. While the `audit: safe fixes` pull
+      # request stays open that step takes the already-open path and never
+      # attempts a create, so the organization's restriction never produces a
+      # failure and the issue reports the capability as working -- for exactly
+      # as long as an earlier hand-opened pull request keeps covering for it.
+      # Read the policy instead of inferring it from what happened to be tried.
+      - name: Read the pull-request policy
+        id: pr_policy
+        env:
+          GH_TOKEN: ${{ secrets.AUDIT_TOKEN || github.token }}
+          HAS_AUDIT_TOKEN: ${{ secrets.AUDIT_TOKEN != '' && 'yes' || 'no' }}
+        run: |
+          if [ "$HAS_AUDIT_TOKEN" = "yes" ]; then
+            # A classic PAT opens the pull request as its owner, so the Actions
+            # policy does not apply to it.
+            echo "state=on" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          # `can_approve_pull_request_reviews` is the REST name for the
+          # "Allow GitHub Actions to create and approve pull requests" toggle.
+          # The endpoint needs admin, so a read failure is `unknown`, never a
+          # silent `on`.
+          allowed=$(gh api "repos/$GITHUB_REPOSITORY/actions/permissions/workflow" \
+            --jq .can_approve_pull_request_reviews 2>/dev/null || true)
+          case "$allowed" in
+            true)  state=on ;;
+            false) state=restricted ;;
+            *)     state=unknown ;;
+          esac
+          echo "policy read as: ${allowed:-unreadable} -> $state"
+          echo "state=$state" >> "$GITHUB_OUTPUT"
+
       # The safe-fix branch is rebuilt from main every run so it never carries
       # stale resolutions; a force push keeps the one open PR current.
       - name: Upsert the safe-fixes pull request
@@ -168,6 +201,9 @@ jobs:
           # A classic PAT in the AUDIT_TOKEN secret lets the job open the PR
           # when the organization forbids GITHUB_TOKEN from doing so.
           GH_TOKEN: ${{ secrets.AUDIT_TOKEN || github.token }}
+          # Every path that does NOT attempt a create reports the policy, so a
+          # week where nothing was tried cannot read as a week where it worked.
+          POLICY_STATE: ${{ steps.pr_policy.outputs.state }}
         run: |
           git config user.name "ontology-audit[bot]"
           git config user.email "ontology-audit@users.noreply.github.com"
@@ -175,7 +211,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "no safe fixes this run"
             echo "link=" >> "$GITHUB_OUTPUT"
-            echo "pr_state=on" >> "$GITHUB_OUTPUT"
+            echo "pr_state=$POLICY_STATE" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git checkout -B "$FIX_BRANCH"
@@ -187,7 +223,7 @@ jobs:
           if [ -n "$existing" ]; then
             echo "pull request already open; branch updated: $existing"
             echo "link=$existing" >> "$GITHUB_OUTPUT"
-            echo "pr_state=on" >> "$GITHUB_OUTPUT"
+            echo "pr_state=$POLICY_STATE" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           set +e
@@ -213,7 +249,7 @@ jobs:
         env:
           # An optional pass that never ran leaves no trace in the report, so
           # its state travels beside it and the issue explains its own gaps.
-          AUDIT_PR_STATE: ${{ steps.pr.outputs.pr_state || 'on' }}
+          AUDIT_PR_STATE: ${{ steps.pr.outputs.pr_state || steps.pr_policy.outputs.state || 'unknown' }}
           AUDIT_SEMANTIC_STATE: ${{ steps.audit.outputs.semantic || 'on' }}
         run: |
           python3 .github/scripts/audit_report.py audit/report.json /tmp/previous-report.json > /tmp/issue-body.md

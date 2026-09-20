@@ -9,10 +9,15 @@ are new since then and findings that were resolved. Both are optional-safe:
 a missing PREVIOUS means no diff section.
 
 Two optional passes are read from the environment rather than the report,
-because the report cannot describe a pass that never ran: AUDIT_PR_STATE is
-`on` when the safe-fixes pull request was opened or updated and `off` when the
-job could only push the branch, and AUDIT_SEMANTIC_STATE is `on`, `off`, or
-`failed`. Both default to `on`, so running this script by hand stays silent.
+because the report cannot describe a pass that never ran. AUDIT_SEMANTIC_STATE
+is `on`, `off`, or `failed`. AUDIT_PR_STATE is `on` when a pull request was
+opened or the policy says one can be, `off` when a create was attempted and
+refused, `restricted` when the policy forbids Actions from opening one at all,
+and `unknown` when the policy could not be read. `restricted` is the state that
+matters: while an already-open pull request keeps being updated the job never
+attempts a create, so a capability that is blocked by policy reports itself as
+working for exactly as long as nobody needs to hear about it. Both default to
+`on`, so running this script by hand stays silent.
 
 Only the standard library is used so the workflow needs no install step.
 """
@@ -71,42 +76,70 @@ def section(title, findings):
 # What each optional pass gives the reader, and the single thing that turns it
 # on. Keyed by the environment variable suffix the workflow sets.
 CAPABILITIES = OrderedDict([
-    ("PR", (
-        "safe fixes arrive as a pull request",
-        "the branch is pushed but the organization forbids GITHUB_TOKEN from "
-        "opening the PR; add an `AUDIT_TOKEN` repository secret (classic PAT, "
-        "`repo` scope), or allow Actions to create pull requests for the "
-        "existence-lang organization",
-    )),
-    ("SEMANTIC", (
-        "the semantic class judges each lay definition against its linked neighbours",
-        "set the `ANTHROPIC_API_KEY` repository secret to a Console API key "
-        "(`sk-ant-api03-...`); an OAuth token is rejected by the Messages API",
-    )),
+    ("PR", {
+        "what": "safe fixes arrive as a pull request",
+        # Each non-`on` state says what the reader would otherwise have to
+        # infer from silence. `restricted` exists because "nothing failed this
+        # run" and "this can run" are different claims, and only the second one
+        # is a capability.
+        "states": {
+            "off": "off — a pull request was attempted and refused; the branch is pushed instead",
+            "restricted": "restricted — the already-open pull request is still being kept "
+                          "current, so this week looks fine, but Actions may not open a new "
+                          "one: the first run after that pull request is merged or closed can "
+                          "only push the branch",
+            "unknown": "unknown — the pull-request policy for this repository could not be "
+                       "read, so whether a new pull request can be opened is unverified",
+        },
+        "remedy": "add an `AUDIT_TOKEN` repository secret (classic PAT, `repo` scope), or "
+                  "allow Actions to create pull requests for the existence-lang organization "
+                  "(the repository-level setting cannot override the organization one)",
+    }),
+    ("SEMANTIC", {
+        "what": "the semantic class judges each lay definition against its linked neighbours",
+        "states": {
+            "off": "off — the class did not run",
+            "failed": "failed — the class could not run",
+        },
+        "remedy": "set the `ANTHROPIC_API_KEY` repository secret to a Console API key "
+                  "(`sk-ant-api03-...`); an OAuth token is rejected by the Messages API",
+    }),
 ])
 
 
 def capabilities(env=None):
-    """Name the optional passes that did not run, with the one-line remedy.
+    """Name the optional passes that did not, or cannot, run, with the remedy.
 
     An absent capability is invisible in the report itself — a class that never
     ran contributes no findings, which reads exactly like a clean class — so the
     reason has to be carried separately or it lives only in whoever remembers
-    the workflow file. Everything on is silence: this block appears only while
-    something is off, so a fully-configured week costs the reader nothing.
+    the workflow file. The same hole opens one level up: a capability that is
+    forbidden by policy but whose absence is masked by an earlier side effect
+    (a hand-opened pull request the job merely updates) also contributes no
+    failure, which reads exactly like a working capability. `restricted` is for
+    that. Everything on is silence: this block appears only while something is
+    off, so a fully-configured week costs the reader nothing.
     """
     env = os.environ if env is None else env
     off = []
-    for suffix, (what, remedy) in CAPABILITIES.items():
+    for suffix, cap in CAPABILITIES.items():
         state = env.get(f"AUDIT_{suffix}_STATE", "on")
-        if state != "on":
-            off.append((what, "failed" if state == "failed" else "off", remedy))
+        if state == "on":
+            continue
+        # An unrecognised state is still reported rather than dropped: a state
+        # this renderer has not been taught is a worse reason to stay silent
+        # than one it has.
+        off.append((cap["what"], cap["states"].get(state, state), cap["remedy"]))
     if not off:
         return ""
     lines = ["## Capabilities", "",
-             "Optional passes that did not run this week:", ""]
-    for what, label, remedy in off:
-        lines.append(f"- **{what}** — {label}: {remedy}")
+             "Optional passes that did not run, or cannot run, this week:", ""]
+    for what, described, remedy in off:
+        # State and remedy on separate lines: a `restricted` description is a
+        # sentence, and running it into the remedy with a colon produced one
+        # unreadable line per capability.
+        lines.append(f"- **{what}** — {described}")
+        lines.append(f"  - remedy: {remedy}")
     lines.append("")
     return "\n".join(lines)
 
