@@ -39,9 +39,9 @@ And subsections of the subsections are also categories.
 
 <a href="https://www.youtube.com/watch?v=o6L6XeNdd_k" target="_blank">Category Theory by Tom LaGatta (youtube.com)</a>
 
-<a href="http://ncatlab.org:8080/nlab/show/category+theory" target="_blank">Category Theory (ncatlab.org)</a>
+<a href="https://ncatlab.org/nlab/show/category+theory" target="_blank">Category Theory (ncatlab.org)</a>
 
-<a href="http://www.cs.nott.ac.uk/~gmh/cat.html" target="_blank">Introduction to Category Theory - Graham Hutton</a>
+<a href="https://people.cs.nott.ac.uk/pszgmh/cat.html" target="_blank">Introduction to Category Theory - Graham Hutton</a>
 
 ### [Pattern](./pattern.md) Expression
 

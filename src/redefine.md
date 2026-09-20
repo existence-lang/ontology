@@ -22,7 +22,7 @@ Here are some arguments against redefinitions.
 
 There may be confusion caused from redefinition. This philosophy seeks to make these redefinitions explicit & make the audience aware of these redefinitions. Inspiring thought of the implications of these redefinitions help the audience think of Existence with a new perspective.
 
-<a href="http://juneroca.com/words/redefining-words/" target="_blank">Redefining Words (juneroca.com)</a>
+<a href="http://juneroca.com/words/redefining-words/" target="_blank">Redefining Words (juneroca.com)</a> <a href="https://web.archive.org/web/20141106083809/http://juneroca.com/words/redefining-words/" target="_blank">(archived 2014-11-06)</a>
 
 ### Scope & Precision
 
