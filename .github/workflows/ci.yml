@@ -12,7 +12,7 @@ permissions:
 env:
   # existence-lang/existence release providing `existence audit --structure`
   # (bump to pick up CLI changes)
-  EXISTENCE_REV: v0.10.0
+  EXISTENCE_REV: v0.11.0
 
 jobs:
   # Standard library only, so no toolchain to install: the weekly issue body is
