@@ -214,6 +214,51 @@ class Accepted(unittest.TestCase):
         self.assertEqual(counts.get("Accepted"), 1)
 
 
+class Degraded(unittest.TestCase):
+    """An archive outage has to be above the fold.
+
+    Buried as one `sources / archive_unavailable` row among sixty-odd warnings,
+    it reads as a normal week -- which is exactly wrong, because when the
+    archive is down most of the sources class ran without the fallback that
+    resolves it, and a clean-looking result is not evidence the sources are
+    well.
+    """
+
+    def outage(self):
+        f = finding("web.archive.org", severity="warning", check="archive_unavailable")
+        f["message"] = "the archive host web.archive.org was unavailable for this run (HTTP 503); the sources class ran without its fallback"
+        return f
+
+    def test_an_outage_is_rendered_above_the_findings(self):
+        body = audit_report.render(report([self.outage()]), env=dict(ALL_ON))
+        self.assertIn("## Degraded this run", body)
+        self.assertIn("ran without its fallback", body)
+        self.assertLess(body.index("## Degraded this run"), body.index("## This run"))
+
+    def test_no_outage_renders_no_degraded_section(self):
+        body = audit_report.render(report([finding("a")]), env=dict(ALL_ON))
+        self.assertNotIn("## Degraded this run", body)
+
+    def test_an_outage_is_still_counted_and_listed_as_a_warning(self):
+        # Promoted, not moved: it is a real finding and the counts must agree
+        # with the sections, which is this file's whole invariant.
+        body = audit_report.render(report([self.outage()]), env=dict(ALL_ON))
+        _, warnings, _, _, _ = HEADLINE.search(body).groups()
+        self.assertEqual(int(warnings), 1)
+        counts = dict((name, int(n)) for name, n in SECTION.findall(body))
+        self.assertEqual(counts.get("Warnings"), 1)
+
+    def test_an_accepted_outage_is_not_promoted(self):
+        # A waived outage is a decision already recorded; promoting it would
+        # put a settled question above the fold every week.
+        f = self.outage()
+        f["severity"] = "accepted"
+        body = audit_report.render(report([f]), env=dict(ALL_ON))
+        self.assertNotIn("## Degraded this run", body)
+        # Still visible, just not above the fold.
+        self.assertIn("### Accepted (1)", body)
+
+
 class Capabilities(unittest.TestCase):
     """The second invariant: a capability reports what it CAN do, not what it
     happened to do.

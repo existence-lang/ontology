@@ -193,6 +193,27 @@ def render(report, previous=None, env=None):
                "straight to `main`. Everything below is a decision.")
     out.append("")
 
+    # An archive outage is not one warning among sixty-seven. When the Wayback
+    # Machine is down, every dead link and every lost quote in the run loses
+    # its fallback at once, so most of the sources class ran without the thing
+    # that resolves it -- and the reader, counting warnings, sees a normal
+    # week. It goes above the fold for the same reason the Capabilities block
+    # does: a pass that could not run has to say so itself.
+    # An accepted outage is excluded: a decision already recorded in
+    # audit/waivers should not be re-promoted above the fold every week, which
+    # is the thing accepting it was for.
+    degraded = [
+        f
+        for f in findings
+        if f.get("check") == "archive_unavailable" and f["severity"] != "accepted"
+    ]
+    if degraded:
+        out.append("## Degraded this run")
+        out.append("")
+        for f in degraded:
+            out.append(f"- {f['message']}")
+        out.append("")
+
     caps = capabilities(env)
     if caps:
         out.append(caps)

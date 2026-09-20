@@ -34,7 +34,7 @@ concurrency:
 
 env:
   # existence-lang/existence release providing `existence audit --all`
-  EXISTENCE_REV: v0.12.0
+  EXISTENCE_REV: v0.13.0
   FIX_BRANCH: audit/safe-fixes
   ISSUE_TITLE: Ontology audit
   PR_TITLE: "audit: safe fixes"
