@@ -134,8 +134,9 @@ def main():
                + ("clean" if report.get("clean") else "findings remain") + ".")
     out.append("")
     out.append("Safe resolutions (suffix-less links, dead links swapped for archived copies, "
-               "regenerated indexes) and the refreshed `audit/sources.lock.json` land in the "
-               "`audit: safe fixes` pull request. Everything below is a decision.")
+               "regenerated indexes) land in the `audit: safe fixes` pull request; the refreshed "
+               "`audit/sources.lock.json` and this report are machine state and are committed "
+               "straight to `main`. Everything below is a decision.")
     out.append("")
 
     caps = capabilities()
