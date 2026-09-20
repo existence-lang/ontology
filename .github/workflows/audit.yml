@@ -4,9 +4,14 @@ name: Ontology audit
 # network sources pass), keep ONE issue titled "Ontology audit" up to date
 # with the report and its diff from last week, and keep ONE pull request
 # "audit: safe fixes" carrying only the mechanical resolutions (suffix-less
-# links, dead links swapped for archived copies, regenerated indexes) plus
-# the refreshed sources lock and the report itself. Nothing else is changed
-# without a person deciding.
+# links, dead links swapped for archived copies, regenerated indexes).
+# Nothing else is changed without a person deciding.
+#
+# Machine state (audit/report.json, audit/sources.lock.json, and the semantic
+# verdict cache) is NOT a decision, so it is committed straight to `main`.
+# It cannot ride the pull request: the safe-fixes branch is rebuilt from main
+# every run, so a file that lives only there is gone by the next run -- which
+# is why the week-over-week diff below had nothing to compare against.
 #
 # The paid semantic class (an LLM judging each lay definition against its
 # linked neighbours) is opt-in: it runs only when the repository has an
@@ -60,6 +65,9 @@ jobs:
         run: cargo install --locked --git https://github.com/existence-lang/existence --tag "$EXISTENCE_REV" existence
 
       # Keep last week's report for the diff before this run overwrites it.
+      # It is on main because "Record the audit state on main" below put it
+      # there; the very first run after that step landed has no predecessor
+      # and renders no diff section, which is correct.
       - name: Keep the previous report
         run: |
           mkdir -p audit
@@ -116,6 +124,42 @@ jobs:
           path: audit/semantic.cache.json
           key: semantic-cache-${{ github.run_id }}
 
+      # Machine state goes to main so next week's run has a predecessor to diff
+      # against. Only audit/ is staged here; the safe fixes stay unstaged in the
+      # worktree and travel to the pull request in the next step.
+      - name: Record the audit state on main
+        run: |
+          git config user.name "ontology-audit[bot]"
+          git config user.email "ontology-audit@users.noreply.github.com"
+          git add -- audit
+          if git diff --cached --quiet; then
+            echo "audit state unchanged this run"
+            exit 0
+          fi
+          git commit -m "audit: record report and sources lock ($(date -u +%Y-%m-%d))" \
+            -m "Machine state from the weekly Ontology audit: audit/report.json, audit/sources.lock.json, and audit/semantic.cache.json when the semantic class ran. Next week's run diffs against this commit. Content resolutions are decisions and stay in the safe-fixes pull request." \
+            -m "Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          # autoStash carries the unstaged safe fixes across a rebase if main
+          # moved between checkout and now.
+          pushed=0
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              pushed=1
+              break
+            fi
+            echo "main moved since checkout; rebasing and retrying ($attempt/3)"
+            git fetch origin main
+            if ! git -c rebase.autoStash=true rebase origin/main; then
+              git rebase --abort || true
+              break
+            fi
+          done
+          if [ "$pushed" -ne 1 ]; then
+            # Not fatal: this run's findings still reach the issue and the pull
+            # request. Only next week's diff loses its predecessor.
+            echo "::warning::could not record the audit state on main; next run has no previous report to diff against"
+          fi
+
       # The safe-fix branch is rebuilt from main every run so it never carries
       # stale resolutions; a force push keeps the one open PR current.
       - name: Upsert the safe-fixes pull request
@@ -127,16 +171,16 @@ jobs:
         run: |
           git config user.name "ontology-audit[bot]"
           git config user.email "ontology-audit@users.noreply.github.com"
-          git add -A src terms.md audit
+          git add -A src terms.md
           if git diff --cached --quiet; then
-            echo "no safe fixes or lock changes this run"
+            echo "no safe fixes this run"
             echo "link=" >> "$GITHUB_OUTPUT"
             echo "pr_state=on" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git checkout -B "$FIX_BRANCH"
           git commit -m "audit: safe fixes and refreshed sources lock ($(date -u +%Y-%m-%d))" \
-            -m "Applied by the weekly Ontology audit: suffix-less links, dead links swapped for archived copies, regenerated indexes, plus audit/sources.lock.json, audit/report.json, and audit/semantic.cache.json when the semantic class ran. Decisions stay in the Ontology audit issue." \
+            -m "Applied by the weekly Ontology audit: suffix-less links, dead links swapped for archived copies, regenerated indexes. The report and the sources lock are machine state and are committed to main instead. Decisions stay in the Ontology audit issue." \
             -m "Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           git push --force origin "$FIX_BRANCH"
           existing=$(gh pr list --head "$FIX_BRANCH" --state open --json url --jq '.[0].url')
@@ -148,7 +192,7 @@ jobs:
           fi
           set +e
           url=$(gh pr create --head "$FIX_BRANCH" --base main --title "$PR_TITLE" \
-            --body "Mechanical resolutions from the weekly [Ontology audit](${{ github.server_url }}/${{ github.repository }}/issues?q=is%3Aissue+in%3Atitle+%22Ontology+audit%22): suffix-less links, dead links swapped for archived copies, regenerated indexes, plus the refreshed \`audit/sources.lock.json\` and \`audit/report.json\`. Rebuilt from \`main\` on every run. CI does not run on pushes made with the workflow token; run \`existence audit --structure\` locally before merging.")
+            --body "Mechanical resolutions from the weekly [Ontology audit](${{ github.server_url }}/${{ github.repository }}/issues?q=is%3Aissue+in%3Atitle+%22Ontology+audit%22): suffix-less links, dead links swapped for archived copies, regenerated indexes. The refreshed \`audit/sources.lock.json\` and \`audit/report.json\` are machine state and are committed straight to \`main\`. Rebuilt from \`main\` on every run. CI does not run on pushes made with the workflow token; run \`existence audit --structure\` locally before merging.")
           created=$?
           set -e
           if [ "$created" -eq 0 ]; then
