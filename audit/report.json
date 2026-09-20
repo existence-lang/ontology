@@ -45,6 +45,24 @@
     },
     {
       "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "universal-set",
+      "message": "quoted passage no longer found on http://en.wikipedia.org/wiki/Universal_set but is in the snapshot https://web.archive.org/web/20150221042205/http://en.wikipedia.org/wiki/Universal_set: “universal set is a set which contains all objects, including itself”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150221042205/http://en.wikipedia.org/wiki/Universal_set beside the link",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "violence",
+      "message": "quoted passage no longer found on http://en.wikipedia.org/wiki/Violence but is in the snapshot https://web.archive.org/web/20150208151039/http://en.wikipedia.org/wiki/Violence: “The World Health Organization defines violence as \"the intentional use of physic…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150208151039/http://en.wikipedia.org/wiki/Violence beside the link",
+      "fixed": true
+    },
+    {
+      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "abstract",
@@ -396,15 +414,6 @@
     },
     {
       "class": "sources",
-      "check": "quote_missing",
-      "severity": "error",
-      "term": "resolution",
-      "message": "quoted passage no longer found on http://en.wiktionary.org/wiki/resolution but is in the snapshot https://web.archive.org/web/20150405213157/http://en.wiktionary.org/wiki/resolution: “A strong will, determination.”",
-      "fix": "pin the archived copy https://web.archive.org/web/20150405213157/http://en.wiktionary.org/wiki/resolution beside the link",
-      "fixed": true
-    },
-    {
-      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "respect",
@@ -483,6 +492,33 @@
       "message": "quoted passage on http://en.wiktionary.org/wiki/story has changed but still matches: “A lie. \"You’ve been telling stories again, haven’t you?\"”",
       "fix": null,
       "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "conceptual-system",
+      "message": "quoted passage no longer found on http://en.wiktionary.org/wiki/system but is in the snapshot https://web.archive.org/web/20150504133345/http://en.wiktionary.org/wiki/system: “A collection of organized things; a whole composed of relationships among its me…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150504133345/http://en.wiktionary.org/wiki/system beside the link",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "control-system",
+      "message": "quoted passage no longer found on http://en.wiktionary.org/wiki/system but is in the snapshot https://web.archive.org/web/20150504133345/http://en.wiktionary.org/wiki/system: “A collection of organized things; a whole composed of relationships among its me…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150504133345/http://en.wiktionary.org/wiki/system beside the link",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "system",
+      "message": "quoted passage no longer found on http://en.wiktionary.org/wiki/system but is in the snapshot https://web.archive.org/web/20150504133345/http://en.wiktionary.org/wiki/system: “A collection of organized things; a whole composed of relationships among its me…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150504133345/http://en.wiktionary.org/wiki/system beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -609,13 +645,31 @@
       "message": "quoted passage on https://en.wikipedia.org/wiki/Pneuma has changed but still matches: “Pneuma is an ancient Greek word for \"breath\", and in a religious context for \"sp…”",
       "fix": null,
       "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_moved",
+      "severity": "warning",
+      "term": "spirituality",
+      "message": "quoted passage on https://en.wikipedia.org/wiki/Spirituality has changed but still matches: “Modern usages tend to refer to a subjective experience of a sacred dimension, an…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "dead_link",
+      "severity": "error",
+      "term": "implicit-scope",
+      "message": "source https://news.ycombinator.com/item?id=2864317 returned HTTP 429",
+      "fix": null,
+      "fixed": false
     }
   ],
   "summary": {
-    "errors": 2,
-    "warnings": 65,
-    "fixable": 2,
-    "fixed": 2
+    "errors": 7,
+    "warnings": 66,
+    "fixable": 6,
+    "fixed": 6
   },
   "clean": false
 }
