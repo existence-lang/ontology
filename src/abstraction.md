@@ -26,7 +26,7 @@ The more an entity is abstracted, the less [novelty](./novelty.md) that individu
 
 <a href="https://www.youtube.com/watch?v=cz-3WDdqbj0" target="_blank">08 NATF14 Guest Keynote: "Brains, Data, and Machine Intelligence" - Jeff Hawkins</a>
 
-<a href="https://en.wikipedia.org/wiki/Abstraction" target="_blank">abstraction (Wikipedia)</a> <a href="https://web.archive.org/web/20150110021841/https://en.wikipedia.org/wiki/Abstraction" target="_blank">(archived 2015-01-10)</a>
+<a href="https://en.wikipedia.org/wiki/Abstraction" target="_blank">abstraction (Wikipedia)</a> <a href="https://web.archive.org/web/20150110021841/https://en.wikipedia.org/wiki/Abstraction" target="_blank">(archived 2015-01-10)</a> <a href="https://web.archive.org/web/20150210065041/https://en.wikipedia.org/wiki/Abstraction" target="_blank">(archived 2015-02-10)</a>
 
 > Abstraction in its main sense is a conceptual process by which general rules and concepts are derived from the usage and classification of specific examples, literal ("real" or "concrete") signifiers, first principles, or other methods. "An abstraction" is the product of this process—a concept that acts as a super-categorical noun for all subordinate concepts, and connects any related concepts as a group, field, or category.
 

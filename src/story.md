@@ -34,7 +34,7 @@ A Story is algorithmic. It is often of a low [resolution](./resolution.md), thus
 
 > A sequence of events, or a situation, such as might be related in an account. "What's the story with him?" "I tried it again; same story, no error message, nothing happened."
 
-<a href="https://en.wikipedia.org/wiki/Story" target="_blank">Story (Wikipedia)</a> <a href="https://web.archive.org/web/20150315014232/https://en.wikipedia.org/wiki/Story" target="_blank">(archived 2015-03-15)</a>
+<a href="https://en.wikipedia.org/wiki/Story" target="_blank">Story (Wikipedia)</a> <a href="https://web.archive.org/web/20150315014232/https://en.wikipedia.org/wiki/Story" target="_blank">(archived 2015-03-15)</a> <a href="https://web.archive.org/web/20150412144052/https://en.wikipedia.org/wiki/Story" target="_blank">(archived 2015-04-12)</a>
 
 > Story, a recounting of a sequence of events
 
