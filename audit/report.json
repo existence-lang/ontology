@@ -12,9 +12,9 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "physical-system",
-      "message": "quoted passage on http://en.wikipedia.org/wiki/Physical_system has changed but still matches; the snapshot https://web.archive.org/web/20150102125412/http://en.wikipedia.org/wiki/Physical_system carries it verbatim: “the portion of the physical universe chosen for analysis”",
-      "fix": "pin the archived copy https://web.archive.org/web/20150102125412/http://en.wikipedia.org/wiki/Physical_system beside the link",
-      "fixed": true
+      "message": "quoted passage on http://en.wikipedia.org/wiki/Physical_system has changed but still matches, and no snapshot carries it verbatim: “the portion of the physical universe chosen for analysis”",
+      "fix": null,
+      "fixed": false
     },
     {
       "class": "sources",
@@ -24,6 +24,33 @@
       "message": "quoted passage on http://en.wikipedia.org/wiki/Self-compassion has changed but still matches, and no snapshot carries it verbatim: “Self-compassion is extending compassion to one's self in instances of perceived …”",
       "fix": null,
       "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "inertia",
+      "message": "quoted passage is not on http://en.wikipedia.org/wiki/Social_inertia and its pinned copy https://web.archive.org/web/20150507144959/http://en.wikipedia.org/wiki/Social_inertia (io: Connection refused) could not be fetched, so the pin was not checked: “In psychology and sociology, social inertia is the resistance to change or the e…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "type",
+      "message": "quoted passage is not on http://en.wikipedia.org/wiki/Type_theory and its pinned copy https://web.archive.org/web/20150102011503/http://en.wikipedia.org/wiki/Type_theory (io: Connection refused) could not be fetched, so the pin was not checked: “In mathematics, logic, and computer science, a type theory is any of a class of …” (+1 more)",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "universal-set",
+      "message": "quoted passage no longer found on http://en.wikipedia.org/wiki/Universal_set but is in the snapshot https://web.archive.org/web/20150221042205/http://en.wikipedia.org/wiki/Universal_set: “universal set is a set which contains all objects, including itself”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150221042205/http://en.wikipedia.org/wiki/Universal_set beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -39,9 +66,9 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "coercion",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/coerce has changed but still matches, and no snapshot carries it verbatim: “(transitive) to use force, threat, fraud, or intimidation in attempt to compel o…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/coerce has changed but still matches; the snapshot https://web.archive.org/web/20150305202954/http://en.wiktionary.org/wiki/coerce carries it verbatim: “(transitive) to use force, threat, fraud, or intimidation in attempt to compel o…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150305202954/http://en.wiktionary.org/wiki/coerce beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -54,21 +81,12 @@
     },
     {
       "class": "sources",
-      "check": "pin_unreachable",
-      "severity": "warning",
-      "term": "coherence",
-      "message": "quoted passage is not on http://en.wiktionary.org/wiki/coherence and its pinned copy https://web.archive.org/web/20150107114547/http://en.wiktionary.org/wiki/coherence (timeout: global) could not be fetched, so the pin was not checked: “a logical arrangement of parts \"His arguments lacked coherence.\"” (+1 more)",
-      "fix": null,
-      "fixed": false
-    },
-    {
-      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "emotion",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/emotion has changed but still matches, and no snapshot carries it verbatim: “A reaction by an non-human organism with behavioral and physiological elements s…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/emotion has changed but still matches; the snapshot https://web.archive.org/web/20150216053151/http://en.wiktionary.org/wiki/emotion carries it verbatim: “A reaction by an non-human organism with behavioral and physiological elements s…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150216053151/http://en.wiktionary.org/wiki/emotion beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -108,10 +126,10 @@
     },
     {
       "class": "sources",
-      "check": "quote_moved",
+      "check": "pin_unreachable",
       "severity": "warning",
       "term": "focus",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/focus has changed but still matches, and no snapshot carries it verbatim: “(uncountable, photography, cinematography) The fact of the convergence of light …”",
+      "message": "quoted passage is not on http://en.wiktionary.org/wiki/focus and its pinned copy https://web.archive.org/web/20150216054810/http://en.wiktionary.org/wiki/focus (io: Connection refused) could not be fetched, so the pin was not checked: “(countable, optics) A point at which reflected or refracted rays of light conver…” (+2 more)",
       "fix": null,
       "fixed": false
     },
@@ -120,9 +138,9 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "human",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/human has changed but still matches, and no snapshot carries it verbatim: “(comparable) Having the nature or attributes of a human being. \"To err is human;…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/human has changed but still matches; the snapshot https://web.archive.org/web/20150112181243/http://en.wiktionary.org/wiki/human carries it verbatim: “(comparable) Having the nature or attributes of a human being. \"To err is human;…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150112181243/http://en.wiktionary.org/wiki/human beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -135,12 +153,30 @@
     },
     {
       "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "intelligence",
+      "message": "quoted passage is not on http://en.wiktionary.org/wiki/intelligence and its pinned copy https://web.archive.org/web/20150216001230/http://en.wiktionary.org/wiki/intelligence (io: Connection refused) could not be fetched, so the pin was not checked: “(uncountable) Information, usually secret, about the enemy or about hostile acti…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "judgement",
+      "message": "quoted passage is not on http://en.wiktionary.org/wiki/judge and its pinned copy https://web.archive.org/web/20150226100953/http://en.wiktionary.org/wiki/judge (io: Connection refused) could not be fetched, so the pin was not checked: “A person officiating at a sports or similar event. \"At a boxing match the decisi…” (+6 more)",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "novelty",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/novelty_theory has changed but still matches, and no snapshot carries it verbatim: “A theory developed by philosopher Terence McKenna that aims to describe \"novelty…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/novelty_theory has changed but still matches; the snapshot https://web.archive.org/web/20150515043359/http://en.wiktionary.org/wiki/novelty_theory carries it verbatim: “A theory developed by philosopher Terence McKenna that aims to describe \"novelty…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150515043359/http://en.wiktionary.org/wiki/novelty_theory beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -165,36 +201,18 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "pattern",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/pattern has changed but still matches, and no snapshot carries it verbatim: “(now rare) A copy. [from 15th c.]”",
-      "fix": null,
-      "fixed": false
-    },
-    {
-      "class": "sources",
-      "check": "pin_unreachable",
-      "severity": "warning",
-      "term": "perspective",
-      "message": "quoted passage is not on http://en.wiktionary.org/wiki/perspective and its pinned copy https://web.archive.org/web/20140814191432/http://en.wiktionary.org/wiki/perspective (timeout: global) could not be fetched, so the pin was not checked: “A perspective optical glass, as used in a telescope. \"Not a perspective, but a m…”",
-      "fix": null,
-      "fixed": false
-    },
-    {
-      "class": "sources",
-      "check": "pin_unreachable",
-      "severity": "warning",
-      "term": "philosophy",
-      "message": "quoted passage is not on http://en.wiktionary.org/wiki/philosophy and its pinned copy https://web.archive.org/web/20150215024302/http://en.wiktionary.org/wiki/philosophy (timeout: global) could not be fetched, so the pin was not checked: “(uncountable, originally) The love of wisdom.” (+2 more)",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/pattern has changed but still matches; the snapshot https://web.archive.org/web/20150217053535/http://en.wiktionary.org/wiki/pattern carries it verbatim: “(now rare) A copy. [from 15th c.]”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150217053535/http://en.wiktionary.org/wiki/pattern beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "reality",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/reality has changed but still matches, and no snapshot carries it verbatim: “The state of being actual or real. \"The reality of the crash scene on TV dawned …”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/reality has changed but still matches; the snapshot https://web.archive.org/web/20150819095329/http://en.wiktionary.org/wiki/reality carries it verbatim: “The state of being actual or real. \"The reality of the crash scene on TV dawned …”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150819095329/http://en.wiktionary.org/wiki/reality beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -210,9 +228,9 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "signal",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/signal has changed but still matches, and no snapshot carries it verbatim: “(of a radio, TV, telephone, internet, etc) An electrical or electromagnetic acti…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/signal has changed but still matches; the snapshot https://web.archive.org/web/20150326135422/http://en.wiktionary.org/wiki/signal carries it verbatim: “(of a radio, TV, telephone, internet, etc) An electrical or electromagnetic acti…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150326135422/http://en.wiktionary.org/wiki/signal beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -255,7 +273,16 @@
       "check": "pin_unreachable",
       "severity": "warning",
       "term": "resolution",
-      "message": "quoted passage is not on http://www.etymonline.com/index.php?term=resolution and its pinned copy https://web.archive.org/web/20160124073344/http://www.etymonline.com/index.php?term=resolution (timeout: global) could not be fetched, so the pin was not checked: “late 14c., \"a breaking into parts,\" from Old French resolution (14c.) or directl…”",
+      "message": "quoted passage is not on http://www.etymonline.com/index.php?term=resolution and its pinned copy https://web.archive.org/web/20160124073344/http://www.etymonline.com/index.php?term=resolution (io: Connection refused) could not be fetched, so the pin was not checked: “late 14c., \"a breaking into parts,\" from Old French resolution (14c.) or directl…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "scope",
+      "message": "quoted passage is not on http://www.etymonline.com/index.php?term=scope and its pinned copy https://web.archive.org/web/20151216193527/http://www.etymonline.com/index.php?term=scope (io: Connection refused) could not be fetched, so the pin was not checked: “\"extent,\" 1530s, \"room to act,\" from Italian scopo \"aim, purpose, object, thing …”",
       "fix": null,
       "fixed": false
     },
@@ -270,10 +297,118 @@
     },
     {
       "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "abstract",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Abstract_object and its pinned copy https://web.archive.org/web/20150314181457/https://en.wikipedia.org/wiki/Abstract_object (io: Connection refused), https://web.archive.org/web/20210319012157/https://en.wikipedia.org/wiki/Abstract_object (io: Connection refused) could not be fetched, so the pin was not checked: “an object with no physical referents”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "abstract-system",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Abstract_object and its pinned copy https://web.archive.org/web/20150314181457/https://en.wikipedia.org/wiki/Abstract_object (io: Connection refused), https://web.archive.org/web/20210319012157/https://en.wikipedia.org/wiki/Abstract_object (io: Connection refused) could not be fetched, so the pin was not checked: “an object with no physical referents”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "conceptual-existence",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Abstract_object and its pinned copy https://web.archive.org/web/20210319012157/https://en.wikipedia.org/wiki/Abstract_object (io: Connection refused), https://web.archive.org/web/20150314181457/https://en.wikipedia.org/wiki/Abstract_object (io: Connection refused) could not be fetched, so the pin was not checked: “In metaphysics, the distinction between abstract and concrete refers to a divide…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "abstraction",
+      "message": "quoted passage no longer found on https://en.wikipedia.org/wiki/Abstraction but is in the snapshot https://web.archive.org/web/20150210065041/https://en.wikipedia.org/wiki/Abstraction: “Abstraction in its main sense is a conceptual process by which general rules and…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150210065041/https://en.wikipedia.org/wiki/Abstraction beside the link",
+      "fixed": true
+    },
+    {
+      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "accuracy",
       "message": "quoted passage on https://en.wikipedia.org/wiki/Accuracy_and_precision has changed but still matches, and no snapshot carries it verbatim: “accuracy of a measurement system is the degree of closeness of measurements of a…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "analogy",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Analogy and its pinned copy https://web.archive.org/web/20150109152157/https://en.wikipedia.org/wiki/Analogy (io: Connection refused) could not be fetched, so the pin was not checked: “process of transferring information or meaning from a particular subject (the an…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "anthropomorphism",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Anthropomorphism and its pinned copy https://web.archive.org/web/20150107231358/https://en.wikipedia.org/wiki/Anthropomorphism (io: Connection refused) could not be fetched, so the pin was not checked: “attribution of human form or other characteristics to anything other than a huma…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "art",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Art and its pinned copy https://web.archive.org/web/20150107193255/https://en.wikipedia.org/wiki/Art (io: Connection refused) could not be fetched, so the pin was not checked: “a diverse range of human activities and the products of those activities. In the…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "awareness",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Awareness and its pinned copy https://web.archive.org/web/20150212010123/https://en.wikipedia.org/wiki/Awareness (io: Connection refused) could not be fetched, so the pin was not checked: “state or ability to perceive, to feel, or to be conscious of events, objects, th…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "being",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Being and its pinned copy https://web.archive.org/web/20150113094655/https://en.wikipedia.org/wiki/Being (io: Connection refused) could not be fetched, so the pin was not checked: “Being is an extremely broad concept encompassing objective and subjective featur…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "signal",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Cell_signaling and its pinned copy https://web.archive.org/web/20150108230050/https://en.wikipedia.org/wiki/Cell_signaling (timeout: global) could not be fetched, so the pin was not checked: “a complex system of communication that governs basic cellular activities and coo…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "coherence",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Coherence_(physics) and its pinned copy https://web.archive.org/web/20150112192907/https://en.wikipedia.org/wiki/Coherence_(physics) (io: Connection refused) could not be fetched, so the pin was not checked: “Spatial coherence describes the correlation between waves at different points in…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "model",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Conceptual_model and its pinned copy https://web.archive.org/web/20150101032325/https://en.wikipedia.org/wiki/Conceptual_model (io: Connection refused) could not be fetched, so the pin was not checked: “composition of concepts, which are used to help people know, understand, or simu…”",
       "fix": null,
       "fixed": false
     },
@@ -291,7 +426,34 @@
       "check": "pin_unreachable",
       "severity": "warning",
       "term": "resolution",
-      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Image_resolution and its pinned copy https://web.archive.org/web/20150108103552/https://en.wikipedia.org/wiki/Image_resolution (timeout: global) could not be fetched, so the pin was not checked: “Image resolution is the detail an image holds. The term applies to raster digita…”",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Image_resolution and its pinned copy https://web.archive.org/web/20150108103552/https://en.wikipedia.org/wiki/Image_resolution (io: Connection refused) could not be fetched, so the pin was not checked: “Image resolution is the detail an image holds. The term applies to raster digita…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "communication",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Information and its pinned copy https://web.archive.org/web/20150104000358/https://en.wikipedia.org/wiki/Information (io: Connection refused) could not be fetched, so the pin was not checked: “Communication normally exists within the context of some social situation. The s…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "information",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Information and its pinned copy https://web.archive.org/web/20150104000358/https://en.wikipedia.org/wiki/Information (io: Connection refused) could not be fetched, so the pin was not checked: “Information (shortened as info or info.) is that which informs, i.e. that from w…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "intelligence",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Intelligence and its pinned copy https://web.archive.org/web/20150103065258/https://en.wikipedia.org/wiki/Intelligence (io: Connection refused) could not be fetched, so the pin was not checked: “Intelligence has been defined in many different ways such as in terms of one's c…”",
       "fix": null,
       "fixed": false
     },
@@ -300,9 +462,9 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "perspective",
-      "message": "quoted passage on https://en.wikipedia.org/wiki/Perspective has changed but still matches, and no snapshot carries it verbatim: “Perspectivity, the formation of an image in a picture plane of a scene viewed fr…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on https://en.wikipedia.org/wiki/Perspective has changed but still matches; the snapshot https://web.archive.org/web/20150107162802/https://en.wikipedia.org/wiki/Perspective carries it verbatim: “Perspectivity, the formation of an image in a picture plane of a scene viewed fr…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150107162802/https://en.wikipedia.org/wiki/Perspective beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -333,38 +495,38 @@
     },
     {
       "class": "sources",
-      "check": "dead_link",
-      "severity": "error",
-      "term": "implicit-scope",
-      "message": "source https://news.ycombinator.com/item?id=2864317 returned HTTP 429",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "state",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/State and its pinned copy https://web.archive.org/web/20150101234035/https://en.wikipedia.org/wiki/State (io: Connection refused), https://web.archive.org/web/20150225034328/https://en.wikipedia.org/wiki/State (io: Connection refused) could not be fetched, so the pin was not checked: “State commonly refers to either the present condition of a system or entity, or …”",
       "fix": null,
       "fixed": false
     },
     {
       "class": "sources",
-      "check": "unreachable_host",
-      "severity": "warning",
-      "term": "abstraction",
-      "message": "host web.archive.org is unreachable (timeout: global); its sources were skipped",
-      "fix": null,
-      "fixed": false
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "story",
+      "message": "quoted passage no longer found on https://en.wikipedia.org/wiki/Story but is in the snapshot https://web.archive.org/web/20150412144052/https://en.wikipedia.org/wiki/Story: “Story, a recounting of a sequence of events”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150412144052/https://en.wikipedia.org/wiki/Story beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
       "check": "archive_unavailable",
       "severity": "warning",
       "term": "web.archive.org",
-      "message": "the archive host web.archive.org was unavailable for this run (timeout: global); 5 pinned snapshots could not be read, and no archived copy could answer for a dead link or a lost quote — the sources class ran without its fallback, so a clean-looking result this week is not evidence the sources are well",
+      "message": "the archive host web.archive.org was unavailable for this run (timeout: global); 25 pinned snapshots could not be read, and no archived copy could answer for a dead link or a lost quote — the sources class ran without its fallback, so a clean-looking result this week is not evidence the sources are well",
       "fix": null,
       "fixed": false
     }
   ],
   "summary": {
-    "errors": 2,
-    "warnings": 37,
+    "errors": 4,
+    "warnings": 53,
     "accepted": 0,
-    "fixable": 3,
-    "fixed": 3
+    "fixable": 13,
+    "fixed": 13
   },
   "clean": false
 }
