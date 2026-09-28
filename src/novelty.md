@@ -26,7 +26,7 @@ Since Existence includes all time (and higher physical dimensions), nothing is "
 
 > In novelty theory, newness, density of complexification, and dynamic change as opposed to static habituation.
 
-<a href="http://en.wiktionary.org/wiki/novelty_theory" target="_blank">novelty theory (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/novelty_theory" target="_blank">novelty theory (wiktionary)</a> <a href="https://web.archive.org/web/20150515043359/http://en.wiktionary.org/wiki/novelty_theory" target="_blank">(archived 2015-05-15)</a>
 
 > ### Noun
 

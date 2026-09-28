@@ -36,7 +36,7 @@ The Attention Schema matters because it determines what an [entity](./entity.md)
 
 Michael Graziano has a model of the Attention Schema regarding symbolic [definitions](./definition.md). This schema is temporal and changes within the being based on the internal model & the current context.
 
-<a href="http://www.princeton.edu/~graziano/Consciousness_Research.html" target="_blank">The Attention Schema Theory (princeton.edu)</a>
+<a href="http://web.archive.org/web/20190421012750/http://www.princeton.edu:80/~graziano/Consciousness_Research.html" target="_blank">The Attention Schema Theory (princeton.edu)</a>
 
 <a href="http://web.archive.org/web/20250121090728/https://www.nytimes.com/2014/10/12/opinion/sunday/are-we-really-conscious.html" target="_blank">Are We Really Conscious?  (nytimes.com)</a>
 

@@ -12,7 +12,7 @@ Any of the five traditionally accepted senses may directly observe patterns. [Ab
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/pattern" target="_blank">pattern (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/pattern" target="_blank">pattern (wiktionary)</a> <a href="https://web.archive.org/web/20150217053535/http://en.wiktionary.org/wiki/pattern" target="_blank">(archived 2015-02-17)</a>
 
 > ### Noun
 
