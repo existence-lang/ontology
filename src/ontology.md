@@ -12,7 +12,7 @@ Ontology matters because it establishes the foundational categories of [Existenc
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/ontology" target="_blank">ontology (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/ontology" target="_blank">ontology (wiktionary)</a> <a href="https://web.archive.org/web/20150217143651/http://en.wiktionary.org/wiki/ontology" target="_blank">(archived 2015-02-17)</a>
 
 > ### Noun
 
