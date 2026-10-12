@@ -39,9 +39,9 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "coercion",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/coerce has changed but still matches; the snapshot https://web.archive.org/web/20150305202954/http://en.wiktionary.org/wiki/coerce carries it verbatim: “(transitive) to use force, threat, fraud, or intimidation in attempt to compel o…”",
-      "fix": "pin the archived copy https://web.archive.org/web/20150305202954/http://en.wiktionary.org/wiki/coerce beside the link",
-      "fixed": true
+      "message": "quoted passage on http://en.wiktionary.org/wiki/coerce has changed but still matches, and no snapshot carries it verbatim: “(transitive) to use force, threat, fraud, or intimidation in attempt to compel o…”",
+      "fix": null,
+      "fixed": false
     },
     {
       "class": "sources",
@@ -108,15 +108,6 @@
     },
     {
       "class": "sources",
-      "check": "pin_unreachable",
-      "severity": "warning",
-      "term": "fractal",
-      "message": "quoted passage is not on http://en.wiktionary.org/wiki/fractal and its pinned copy https://web.archive.org/web/20150212091538/http://en.wiktionary.org/wiki/fractal (timeout: global) could not be fetched, so the pin was not checked: “(mathematics) A mathematical set that has a non-integer and constant Hausdorff d…” (+1 more)",
-      "fix": null,
-      "fixed": false
-    },
-    {
-      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "human",
@@ -129,26 +120,8 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "integrity",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/integrity has changed but still matches, and no snapshot carries it verbatim: “(aviation) The ability of a system to provide timely warnings to users when they…”",
-      "fix": null,
-      "fixed": false
-    },
-    {
-      "class": "sources",
-      "check": "quote_missing",
-      "severity": "error",
-      "term": "intelligence",
-      "message": "quoted passage no longer found on http://en.wiktionary.org/wiki/intelligence but is in the snapshot https://web.archive.org/web/20150501140315/http://en.wiktionary.org/wiki/intelligence: “(uncountable) Information, usually secret, about the enemy or about hostile acti…”",
-      "fix": "pin the archived copy https://web.archive.org/web/20150501140315/http://en.wiktionary.org/wiki/intelligence beside the link",
-      "fixed": true
-    },
-    {
-      "class": "sources",
-      "check": "quote_moved",
-      "severity": "warning",
-      "term": "intelligence",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/intelligence has changed but still matches; the snapshot https://web.archive.org/web/20150501140315/http://en.wiktionary.org/wiki/intelligence carries it verbatim: “(uncountable) Capacity of mind, especially to understand principles, truths, fac…”",
-      "fix": "pin the archived copy https://web.archive.org/web/20150501140315/http://en.wiktionary.org/wiki/intelligence beside the link",
+      "message": "quoted passage on http://en.wiktionary.org/wiki/integrity has changed but still matches; the snapshot https://web.archive.org/web/20150111145303/http://en.wiktionary.org/wiki/integrity carries it verbatim: “(aviation) The ability of a system to provide timely warnings to users when they…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150111145303/http://en.wiktionary.org/wiki/integrity beside the link",
       "fixed": true
     },
     {
@@ -165,9 +138,9 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "ontology",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/ontology has changed but still matches, and no snapshot carries it verbatim: “(uncountable, philosophy) The branch of metaphysics that addresses the nature or…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/ontology has changed but still matches; the snapshot https://web.archive.org/web/20150217143651/http://en.wiktionary.org/wiki/ontology carries it verbatim: “(uncountable, philosophy) The branch of metaphysics that addresses the nature or…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150217143651/http://en.wiktionary.org/wiki/ontology beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -192,36 +165,18 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "pattern",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/pattern has changed but still matches, and no snapshot carries it verbatim: “(now rare) A copy. [from 15th c.]”",
-      "fix": null,
-      "fixed": false
-    },
-    {
-      "class": "sources",
-      "check": "pin_unreachable",
-      "severity": "warning",
-      "term": "perspective",
-      "message": "quoted passage is not on http://en.wiktionary.org/wiki/perspective and its pinned copy https://web.archive.org/web/20140814191432/http://en.wiktionary.org/wiki/perspective (timeout: global) could not be fetched, so the pin was not checked: “A perspective optical glass, as used in a telescope. \"Not a perspective, but a m…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/pattern has changed but still matches; the snapshot https://web.archive.org/web/20150217053535/http://en.wiktionary.org/wiki/pattern carries it verbatim: “(now rare) A copy. [from 15th c.]”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150217053535/http://en.wiktionary.org/wiki/pattern beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "reality",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/reality has changed but still matches, and no snapshot carries it verbatim: “The state of being actual or real. \"The reality of the crash scene on TV dawned …”",
-      "fix": null,
-      "fixed": false
-    },
-    {
-      "class": "sources",
-      "check": "pin_unreachable",
-      "severity": "warning",
-      "term": "redefine",
-      "message": "quoted passage is not on http://en.wiktionary.org/wiki/redefine and its pinned copy https://web.archive.org/web/20150226214837/http://en.wiktionary.org/wiki/redefine (timeout: global) could not be fetched, so the pin was not checked: “(computing) to define an area of storage, that has already been defined, in a di…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/reality has changed but still matches; the snapshot https://web.archive.org/web/20150819095329/http://en.wiktionary.org/wiki/reality carries it verbatim: “The state of being actual or real. \"The reality of the crash scene on TV dawned …”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150819095329/http://en.wiktionary.org/wiki/reality beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -237,18 +192,18 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "signal",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/signal has changed but still matches, and no snapshot carries it verbatim: “(of a radio, TV, telephone, internet, etc) An electrical or electromagnetic acti…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/signal has changed but still matches; the snapshot https://web.archive.org/web/20150326135422/http://en.wiktionary.org/wiki/signal carries it verbatim: “(of a radio, TV, telephone, internet, etc) An electrical or electromagnetic acti…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150326135422/http://en.wiktionary.org/wiki/signal beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "soul",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/soul has changed but still matches, and no snapshot carries it verbatim: “(religion, folklore) The spirit or essence of a person usually thought to consis…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/soul has changed but still matches; the snapshot https://web.archive.org/web/20150216100053/http://en.wiktionary.org/wiki/soul carries it verbatim: “(religion, folklore) The spirit or essence of a person usually thought to consis…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150216100053/http://en.wiktionary.org/wiki/soul beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -270,12 +225,39 @@
     },
     {
       "class": "sources",
-      "check": "dead_link",
-      "severity": "error",
+      "check": "unreachable_host",
+      "severity": "warning",
       "term": "god",
-      "message": "source http://theunboundedspirit.com/existence-is-god/ returned HTTP 522",
+      "message": "host theunboundedspirit.com is unreachable (too many redirects); its sources were skipped",
       "fix": null,
       "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "dead_link",
+      "severity": "error",
+      "term": "evolution",
+      "message": "source http://www.etymonline.com/index.php?term=evolution returned HTTP 403",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "dead_link",
+      "severity": "error",
+      "term": "resolution",
+      "message": "source http://www.etymonline.com/index.php?term=resolution returned HTTP 403",
+      "fix": "replace the link with the archived copy https://web.archive.org/web/20160124073344/http://www.etymonline.com/index.php?term=resolution",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "dead_link",
+      "severity": "error",
+      "term": "scope",
+      "message": "source http://www.etymonline.com/index.php?term=scope returned HTTP 403",
+      "fix": "replace the link with the archived copy https://web.archive.org/web/20151216193527/http://www.etymonline.com/index.php?term=scope",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -291,9 +273,18 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "accuracy",
-      "message": "quoted passage on https://en.wikipedia.org/wiki/Accuracy_and_precision has changed but still matches; the snapshot https://web.archive.org/web/20150105105450/https://en.wikipedia.org/wiki/Accuracy_and_precision carries it verbatim: “accuracy of a measurement system is the degree of closeness of measurements of a…”",
-      "fix": "pin the archived copy https://web.archive.org/web/20150105105450/https://en.wikipedia.org/wiki/Accuracy_and_precision beside the link",
-      "fixed": true
+      "message": "quoted passage on https://en.wikipedia.org/wiki/Accuracy_and_precision has changed but still matches, and no snapshot carries it verbatim: “accuracy of a measurement system is the degree of closeness of measurements of a…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "analogy",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Analogy and its pinned copy https://web.archive.org/web/20150109152157/https://en.wikipedia.org/wiki/Analogy (timeout: global) could not be fetched, so the pin was not checked: “process of transferring information or meaning from a particular subject (the an…”",
+      "fix": null,
+      "fixed": false
     },
     {
       "class": "sources",
@@ -324,15 +315,6 @@
     },
     {
       "class": "sources",
-      "check": "pin_unreachable",
-      "severity": "warning",
-      "term": "philosophy",
-      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Philosophy and its pinned copy https://web.archive.org/web/20150101031126/https://en.wikipedia.org/wiki/Philosophy (timeout: global) could not be fetched, so the pin was not checked: “the study of general and fundamental problems, such as those connected with real…”",
-      "fix": null,
-      "fixed": false
-    },
-    {
-      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "pneuma",
@@ -351,20 +333,83 @@
     },
     {
       "class": "sources",
+      "check": "pin_unreachable",
+      "severity": "warning",
+      "term": "state",
+      "message": "quoted passage is not on https://en.wikipedia.org/wiki/State and its pinned copy https://web.archive.org/web/20150101234035/https://en.wikipedia.org/wiki/State (timeout: global), https://web.archive.org/web/20150225034328/https://en.wikipedia.org/wiki/State (timeout: global) could not be fetched, so the pin was not checked: “State commonly refers to either the present condition of a system or entity, or …”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "story",
+      "message": "quoted passage no longer found on https://en.wikipedia.org/wiki/Story but is in the snapshot https://web.archive.org/web/20141211215940/https://en.wikipedia.org/wiki/Story: “Story, a recounting of a sequence of events”",
+      "fix": "pin the archived copy https://web.archive.org/web/20141211215940/https://en.wikipedia.org/wiki/Story beside the link",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "unreachable_host",
+      "severity": "warning",
+      "term": "abstraction",
+      "message": "host web.archive.org is unreachable (timeout: global); its sources were skipped",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
+      "check": "dead_link",
+      "severity": "error",
+      "term": "noumena",
+      "message": "source https://www.etymonline.com/word/noumenon returned HTTP 403",
+      "fix": "replace the link with the archived copy http://web.archive.org/web/20250723185319/https://www.etymonline.com/word/noumenon",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "dead_link",
+      "severity": "error",
+      "term": "phenomena",
+      "message": "source https://www.etymonline.com/word/phenomenon returned HTTP 403",
+      "fix": "replace the link with the archived copy http://web.archive.org/web/20260225194454/https://www.etymonline.com/word/phenomenon",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "dead_link",
+      "severity": "error",
+      "term": "pneuma",
+      "message": "source https://www.etymonline.com/word/pneuma returned HTTP 403",
+      "fix": "replace the link with the archived copy http://web.archive.org/web/20250313234253/https://www.etymonline.com/word/pneuma",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "dead_link",
+      "severity": "error",
+      "term": "project",
+      "message": "source https://www.etymonline.com/word/project returned HTTP 403",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
       "check": "archive_unavailable",
       "severity": "warning",
       "term": "web.archive.org",
-      "message": "the archive host web.archive.org was unavailable for this run (HTTP 503); 5 pinned snapshots could not be read, and no archived copy could answer for a dead link or a lost quote — the sources class ran without its fallback, so a clean-looking result this week is not evidence the sources are well",
+      "message": "the archive host web.archive.org was unavailable for this run (timeout: global); 5 pinned snapshots could not be read, and no archived copy could answer for a dead link or a lost quote — the sources class ran without its fallback, so a clean-looking result this week is not evidence the sources are well",
       "fix": null,
       "fixed": false
     }
   ],
   "summary": {
-    "errors": 3,
-    "warnings": 36,
+    "errors": 9,
+    "warnings": 35,
     "accepted": 0,
-    "fixable": 14,
-    "fixed": 14
+    "fixable": 22,
+    "fixed": 22
   },
   "clean": false
 }
