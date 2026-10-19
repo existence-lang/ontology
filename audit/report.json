@@ -21,9 +21,9 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "compassion",
-      "message": "quoted passage on http://en.wikipedia.org/wiki/Self-compassion has changed but still matches, and no snapshot carries it verbatim: “Self-compassion is extending compassion to one's self in instances of perceived …”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wikipedia.org/wiki/Self-compassion has changed but still matches; the snapshot https://web.archive.org/web/20150507143617/http://en.wikipedia.org/wiki/Self-compassion carries it verbatim: “Self-compassion is extending compassion to one's self in instances of perceived …”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150507143617/http://en.wikipedia.org/wiki/Self-compassion beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -39,9 +39,9 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "coercion",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/coerce has changed but still matches, and no snapshot carries it verbatim: “(transitive) to use force, threat, fraud, or intimidation in attempt to compel o…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/coerce has changed but still matches; the snapshot https://web.archive.org/web/20150305202954/http://en.wiktionary.org/wiki/coerce carries it verbatim: “(transitive) to use force, threat, fraud, or intimidation in attempt to compel o…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150305202954/http://en.wiktionary.org/wiki/coerce beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -111,9 +111,9 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "human",
-      "message": "quoted passage on http://en.wiktionary.org/wiki/human has changed but still matches, and no snapshot carries it verbatim: “(comparable) Having the nature or attributes of a human being. \"To err is human;…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on http://en.wiktionary.org/wiki/human has changed but still matches; the snapshot https://web.archive.org/web/20150112181243/http://en.wiktionary.org/wiki/human carries it verbatim: “(comparable) Having the nature or attributes of a human being. \"To err is human;…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150112181243/http://en.wiktionary.org/wiki/human beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -238,8 +238,8 @@
       "severity": "error",
       "term": "evolution",
       "message": "source http://www.etymonline.com/index.php?term=evolution returned HTTP 403",
-      "fix": null,
-      "fixed": false
+      "fix": "replace the link with the archived copy http://web.archive.org/web/20170722040432/http://www.etymonline.com/index.php?term=evolution",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -273,18 +273,9 @@
       "check": "quote_moved",
       "severity": "warning",
       "term": "accuracy",
-      "message": "quoted passage on https://en.wikipedia.org/wiki/Accuracy_and_precision has changed but still matches, and no snapshot carries it verbatim: “accuracy of a measurement system is the degree of closeness of measurements of a…”",
-      "fix": null,
-      "fixed": false
-    },
-    {
-      "class": "sources",
-      "check": "pin_unreachable",
-      "severity": "warning",
-      "term": "analogy",
-      "message": "quoted passage is not on https://en.wikipedia.org/wiki/Analogy and its pinned copy https://web.archive.org/web/20150109152157/https://en.wikipedia.org/wiki/Analogy (timeout: global) could not be fetched, so the pin was not checked: “process of transferring information or meaning from a particular subject (the an…”",
-      "fix": null,
-      "fixed": false
+      "message": "quoted passage on https://en.wikipedia.org/wiki/Accuracy_and_precision has changed but still matches; the snapshot https://web.archive.org/web/20150105105450/https://en.wikipedia.org/wiki/Accuracy_and_precision carries it verbatim: “accuracy of a measurement system is the degree of closeness of measurements of a…”",
+      "fix": "pin the archived copy https://web.archive.org/web/20150105105450/https://en.wikipedia.org/wiki/Accuracy_and_precision beside the link",
+      "fixed": true
     },
     {
       "class": "sources",
@@ -333,33 +324,6 @@
     },
     {
       "class": "sources",
-      "check": "pin_unreachable",
-      "severity": "warning",
-      "term": "state",
-      "message": "quoted passage is not on https://en.wikipedia.org/wiki/State and its pinned copy https://web.archive.org/web/20150101234035/https://en.wikipedia.org/wiki/State (timeout: global), https://web.archive.org/web/20150225034328/https://en.wikipedia.org/wiki/State (timeout: global) could not be fetched, so the pin was not checked: “State commonly refers to either the present condition of a system or entity, or …”",
-      "fix": null,
-      "fixed": false
-    },
-    {
-      "class": "sources",
-      "check": "quote_missing",
-      "severity": "error",
-      "term": "story",
-      "message": "quoted passage no longer found on https://en.wikipedia.org/wiki/Story but is in the snapshot https://web.archive.org/web/20141211215940/https://en.wikipedia.org/wiki/Story: “Story, a recounting of a sequence of events”",
-      "fix": "pin the archived copy https://web.archive.org/web/20141211215940/https://en.wikipedia.org/wiki/Story beside the link",
-      "fixed": true
-    },
-    {
-      "class": "sources",
-      "check": "unreachable_host",
-      "severity": "warning",
-      "term": "abstraction",
-      "message": "host web.archive.org is unreachable (timeout: global); its sources were skipped",
-      "fix": null,
-      "fixed": false
-    },
-    {
-      "class": "sources",
       "check": "dead_link",
       "severity": "error",
       "term": "noumena",
@@ -391,25 +355,16 @@
       "severity": "error",
       "term": "project",
       "message": "source https://www.etymonline.com/word/project returned HTTP 403",
-      "fix": null,
-      "fixed": false
-    },
-    {
-      "class": "sources",
-      "check": "archive_unavailable",
-      "severity": "warning",
-      "term": "web.archive.org",
-      "message": "the archive host web.archive.org was unavailable for this run (timeout: global); 5 pinned snapshots could not be read, and no archived copy could answer for a dead link or a lost quote — the sources class ran without its fallback, so a clean-looking result this week is not evidence the sources are well",
-      "fix": null,
-      "fixed": false
+      "fix": "replace the link with the archived copy http://web.archive.org/web/20260825183737/https://www.etymonline.com/word/project",
+      "fixed": true
     }
   ],
   "summary": {
-    "errors": 9,
-    "warnings": 35,
+    "errors": 8,
+    "warnings": 31,
     "accepted": 0,
-    "fixable": 22,
-    "fixed": 22
+    "fixable": 27,
+    "fixed": 27
   },
   "clean": false
 }
