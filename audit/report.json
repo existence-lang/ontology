@@ -9,6 +9,15 @@
   "findings": [
     {
       "class": "sources",
+      "check": "quote_missing",
+      "severity": "error",
+      "term": "algorithm",
+      "message": "quoted passage no longer found on http://en.wikipedia.org/wiki/Algorithm: “As an effective method, an algorithm can be expressed within both a finite amoun…”",
+      "fix": null,
+      "fixed": false
+    },
+    {
+      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "physical-system",
@@ -360,7 +369,7 @@
     }
   ],
   "summary": {
-    "errors": 8,
+    "errors": 9,
     "warnings": 31,
     "accepted": 0,
     "fixable": 27,
