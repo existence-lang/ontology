@@ -14,7 +14,7 @@ It is advantageous for an Entity to be able to assess the integrity of entities,
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/integrity" target="_blank">integrity (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/integrity" target="_blank">integrity (wiktionary)</a> <a href="https://web.archive.org/web/20150111145303/http://en.wiktionary.org/wiki/integrity" target="_blank">(archived 2015-01-11)</a>
 
 > ### Noun
 
