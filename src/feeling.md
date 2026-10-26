@@ -24,7 +24,7 @@ Human feelings include love, happiness, fear, sadness, etc.
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/feeling" target="_blank">feeling (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/feeling" target="_blank">feeling (wiktionary)</a> <a href="https://web.archive.org/web/20150411084458/http://en.wiktionary.org/wiki/feeling" target="_blank">(archived 2015-04-11)</a>
 
 > ### Adjective (comparative more feeling, superlative most feeling)
 

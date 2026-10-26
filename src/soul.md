@@ -22,7 +22,7 @@ When [souls](./soul.md) connect, there's a notion of co-[evolution](./evolution.
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/soul" target="_blank">soul (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/soul" target="_blank">soul (wiktionary)</a> <a href="https://web.archive.org/web/20150216100053/http://en.wiktionary.org/wiki/soul" target="_blank">(archived 2015-02-16)</a>
 
 > ### Noun
 
