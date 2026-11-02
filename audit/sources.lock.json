@@ -3,7 +3,7 @@
     "cited_by": [
       "attention-schema"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "935c6a950799e12ffdebd4fca508c0eee8853b94b5428bcc39c3deab9452d128",
     "quotes": {
@@ -15,9 +15,9 @@
     "cited_by": [
       "aesthetics"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "76f49a39112efdb5654052e3bd1a084b340a619c0fd4c7d5719d44ca54c3e40a",
+    "content_sha256": "998253e29118d1a7d4aa8afe7875bf0307a22c0a74ef3822fd6ef0d4bfcdac58",
     "quotes": {
       "aesthetics": "archived"
     },
@@ -29,7 +29,7 @@
     "cited_by": [
       "agree"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "ae1d5575d02e5e0a1b5a818806b1076bcf619fd1874b1caabf8e48610118724f",
     "quotes": {
@@ -43,9 +43,9 @@
     "cited_by": [
       "algorithm"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "090b03e3ff3fc848293f0e108570ac3fe12cb04fcbdcfae1d221aaa64feb8689",
+    "content_sha256": "15108ad794c3b1835370f897c9d663d1a3155b4c428d987167dfa03857d19cf2",
     "quotes": {
       "algorithm": "missing"
     },
@@ -55,7 +55,7 @@
     "cited_by": [
       "animism"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "fc9ed991b911edf0ab43cdc5d6361bbae392ce7932c4de741c82a67ef4f9b703",
     "quotes": {
@@ -69,9 +69,9 @@
     "cited_by": [
       "axiology"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "3d4dcad581f837e3edd9d6f1256f03eadeaec574bce155abc62d3539926cd4db",
+    "content_sha256": "4ff28a5b8f8c63f64157b2e2b5371f754e15b6c426e18dc1c5b641dee1452b54",
     "quotes": {
       "axiology": "archived"
     },
@@ -84,7 +84,7 @@
       "belief",
       "belief-system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "b9e121a968f1ce760ccb3e1feb9f8a6612ed43806d333d73e00ad6800034e488",
     "quotes": {
@@ -99,9 +99,9 @@
     "cited_by": [
       "category-theory"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "eef31cac18a3b9636b60050c712f57efad727eedc3ab054c9ab79698bc29d78c",
+    "content_sha256": "0dd510106f6eb4798362d72a11d3da71b3c18cf4d1e82fb7a9ba61c311fcc5b6",
     "quotes": {
       "category-theory": "archived"
     },
@@ -113,7 +113,7 @@
     "cited_by": [
       "coercion"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "113810837622e271aa5d3033c78b04aa11a959848bb8c8db4c77b00a37f30e00",
     "quotes": {
@@ -127,7 +127,7 @@
     "cited_by": [
       "compassion"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "ec3ab0c949b5c946fb6a640b7357c26a29b5e0f385b46f4ae8c27eb5853891b9",
     "quotes": {
@@ -141,7 +141,7 @@
     "cited_by": [
       "conceptual-system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "b77efa51c4019fc0d806f5e03430f022ddbf4f6ca74f4d3417fe78bb5c88027e",
     "quotes": {
@@ -155,7 +155,7 @@
     "cited_by": [
       "create"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "dae5bdf502e60411c66da803ef630737cb533ab13b7b1c843ab71104d4c3ed8b",
     "quotes": {
@@ -167,9 +167,9 @@
     "cited_by": [
       "create"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "31fdd647c59f5f56c4b88e98f0c099f23122e9869cd6dd2637e78c6b1bf2a550",
+    "content_sha256": "f2ed9087f0aaf3e056b1df7bb04429ba94eef7d36d5bb79ab44fce95a2aac03b",
     "quotes": {
       "create": "archived"
     },
@@ -181,7 +181,7 @@
     "cited_by": [
       "definition"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "8072bc23262e93d4d0b99717e7e727b4dbc2d2cd004b03388bda0f3aa7a18b5c",
     "quotes": {
@@ -195,7 +195,7 @@
     "cited_by": [
       "domain-driven-design"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "1b96e4e71a98eab8d9b415a3485bc3b9a17447e0534bb33f93966b596af24639",
     "quotes": {
@@ -209,9 +209,9 @@
     "cited_by": [
       "epistemology"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "036353d5085977a19904e1daaf39163f45e2b199f178e65030f137ef3b5e5c0e",
+    "content_sha256": "9fdaf8fd2a7e652d6e21914de0c8b078ded49c52b66c0fca9f509874f604c907",
     "quotes": {
       "epistemology": "archived"
     },
@@ -223,9 +223,9 @@
     "cited_by": [
       "ethics"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "4e038c91f7060d2d9ac07b0af3499e601dcd7c5471b7511c238c59289f414144",
+    "content_sha256": "756c7bf888f9c41836761aa711804efd01c49d4cc1eee7879b9834823a86519b",
     "quotes": {
       "ethics": "archived"
     },
@@ -237,7 +237,7 @@
     "cited_by": [
       "evolutionary-linguistics"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "a7094adea1be6de8afa11e4b0e6edffdbf31de2409f47b74ea452faa66daed82",
     "quotes": {
@@ -251,9 +251,9 @@
     "cited_by": [
       "faith"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "62df107c9fa9b17d6a1e7bdd7b7ca9b6e0465eb075ae0abf06cd5152ef648285",
+    "content_sha256": "21466be724dd2d09d83f582057b72ee9a86f899e93b12c330809e23b8d9b3dd7",
     "quotes": {
       "faith": "archived"
     },
@@ -265,7 +265,7 @@
     "cited_by": [
       "feeling"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "6ce98c05b8a92389fac87101f57f2ad0235ce840ba8aff805ce1929b1a1d1278",
     "quotes": {
@@ -279,9 +279,9 @@
     "cited_by": [
       "inertia"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "e48c3a1a0537da8b60a0879bf50a46df1cddeb9d7f0d559cde13d2ca8a7e9b62",
+    "content_sha256": "7329c98c6a22736f08144ed71e70b666c77719442a5561769445dc0210791a87",
     "quotes": {
       "inertia": "archived"
     },
@@ -293,7 +293,7 @@
     "cited_by": [
       "integrity"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "94bdd2aaf5c222fda60dc8379c54bf5f522b46cadce7a223ad3cbe482fd34f43",
     "quotes": {
@@ -307,7 +307,7 @@
     "cited_by": [
       "judgement"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "52c0dd658ed558cece2ea791862680692ced957d631ea3370a79cb6d2acf7723",
     "quotes": {
@@ -321,7 +321,7 @@
     "cited_by": [
       "presence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "788ceaecb43bff491715f549f36ae4e23b5813c06a2afaf16e1816ed551faf6d",
     "quotes": {
@@ -335,9 +335,9 @@
     "cited_by": [
       "natural-law"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "33f9c1d659414838f444f9e67bfb56f0ee7bbf1e5689fa4cb126d8133fe4f87e",
+    "content_sha256": "8c54578d293cfb6cae7d49f6fa90db27d0cfbb0a577ddee6ccf59bf0cfc8d415",
     "quotes": {
       "natural-law": "archived"
     },
@@ -349,9 +349,9 @@
     "cited_by": [
       "nature"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "2eb2b6aa7152d7f263063b9e17e730fd5219b9c6ca97f7832be4f484fcfb0bf0",
+    "content_sha256": "9d1de524bced228f443cec2a40b42c062c60818495b51d64a10801458bceaa85",
     "quotes": {
       "nature": "archived"
     },
@@ -363,9 +363,9 @@
     "cited_by": [
       "ontology"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "8bae3ccea9fb1e3ee519ecf56b57b343922aa1df1472fd043637f5c4399f5224",
+    "content_sha256": "32fa3fa982a8a2d0df6b8cf9fa8072720ec0e353fab00bbd5bc66143f324b61b",
     "quotes": {
       "ontology": "archived"
     },
@@ -377,7 +377,7 @@
     "cited_by": [
       "physical-system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "d49c4d2b1c04cbd55bc2e1b31af4874159af448728ade82a5f344881d9087df2",
     "quotes": {
@@ -391,7 +391,7 @@
     "cited_by": [
       "prejudice"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "4194c2b4d2da0e0100f7115bee1e951065f3e86e428b8c189b5846bcdad2e546",
     "quotes": {
@@ -405,7 +405,7 @@
     "cited_by": [
       "religion"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "e748c9f1fc3299c3e2c539fdc8ded6d3bdc3e33378fcca6569fff23ca38e2473",
     "quotes": {
@@ -419,9 +419,9 @@
     "cited_by": [
       "respect"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "fde945a0bdff61f81917f30ea7c308cc7df7def8f3ffbc6d967dab8aa73b48ad",
+    "content_sha256": "7dc7ac0f876d09afe2ac4705068b55f92450b088d5bca4020d3effe140761a2f",
     "quotes": {
       "respect": "archived"
     },
@@ -433,9 +433,9 @@
     "cited_by": [
       "compassion"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "5d12d901d7d70eca6efa8ec3c8d4f4c172343a3c65cd04fde5267facddf24c4c",
+    "content_sha256": "f744a03b3106048befea5edf75deef3d9bf9afc79aaea0af4316cd602a8dd67b",
     "quotes": {
       "compassion": "archived"
     },
@@ -447,9 +447,9 @@
     "cited_by": [
       "sexual-reproduction"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "efaf3c330e7e93870983e16b9c8affffa770577339862c6acd31878447ff09aa",
+    "content_sha256": "81351e8f5eac7a94279d1b44f8c65e7351185a8b71d071399d76b6567661f806",
     "quotes": {
       "sexual-reproduction": "present"
     },
@@ -459,7 +459,7 @@
     "cited_by": [
       "inertia"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "db201b86ba81bcc1e370b42879c6fb844c0227275b84eb16dbd67e4e3819e451",
     "quotes": {
@@ -473,9 +473,9 @@
     "cited_by": [
       "type"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "0572660b39374fe0fb1fbfc051689ce09479d30e0525058e4559eb9eaa696bbb",
+    "content_sha256": "8198b629af831768e2738e0ed2ce52e748ca9b6e6b7988360f310f64ba1b32f9",
     "quotes": {
       "type": "archived"
     },
@@ -487,7 +487,7 @@
     "cited_by": [
       "universal-set"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "274b9a612f306b519d6c1851ce97d52edd04532b52c637d8a2a7d78efff130f9",
     "quotes": {
@@ -502,7 +502,7 @@
     "cited_by": [
       "violence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "286f8b2d3c8426998ab505b278bbb86f29a0525e924578bb46087c64174a9538",
     "quotes": {
@@ -517,9 +517,9 @@
     "cited_by": [
       "abstract"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "6f87021c38a806a899bf1f032829dda029cea510cd46ea876e9d78931cd663b7",
+    "content_sha256": "0f2b27daf2e498da2b57e59bbd9caf9904e6bcee49a92d2cb8bb085bbc00d552",
     "quotes": {
       "abstract": "moved"
     },
@@ -531,9 +531,9 @@
     "cited_by": [
       "abstraction"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "ff089fa7b8c83f5819b086781eef485effa102df2cb1f43b350ad71df4c3cfcd",
+    "content_sha256": "04bf05e8de7ab86be2cf36b38642d95d5c1d51699173ee8821d7509fef06d2a0",
     "quotes": {
       "abstraction": "archived"
     },
@@ -546,7 +546,7 @@
     "cited_by": [
       "accuracy"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "eef9d897760716b8f7065bffb6e3fa2dc8f48e1857866aee390dc003a9863054",
     "quotes": {
@@ -560,9 +560,9 @@
     "cited_by": [
       "aesthetics"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "e225443afc269eea8aadc739a8ca616c2f7b4eac515d3d861871bdd5dcafc257",
+    "content_sha256": "ff67953f3dbe585348630937f9444335d6873722b53269d76a0f082d7b898b85",
     "quotes": {
       "aesthetics": "present"
     },
@@ -572,9 +572,9 @@
     "cited_by": [
       "agree"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "c47e37e269bcaaa79ffd6bc318ffef967f8b0048a1faa562a37da60674898678",
+    "content_sha256": "0137ef8867e3326f10cdb3bcf5421d00ce4d9f165590553db0efe942175ca19e",
     "quotes": {
       "agree": "archived"
     },
@@ -586,9 +586,9 @@
     "cited_by": [
       "algorithm"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "1fd424f2e8febc90a037bb1c3add34cc0def81e5b7edcaee02c78fdc39f36785",
+    "content_sha256": "0ddc10940150d0add688df173371dce85a0d965d1fd4c648d6afff1703b5f724",
     "quotes": {
       "algorithm": "archived"
     },
@@ -600,9 +600,9 @@
     "cited_by": [
       "analogy"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "39995ea21185cc155b6eac105de216c4956f6d1d0abdfc461908bb9d8533df5f",
+    "content_sha256": "c9528b271cd477c87ecfc06e045484add9947ce4fc02e3f28a74a0d5134e2a6b",
     "quotes": {
       "analogy": "present"
     },
@@ -612,7 +612,7 @@
     "cited_by": [
       "animism"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "c1dbc3bc9b5afed9d4ca6a1bcdb5d904affdf20927d34d050e90e88d30915c1b",
     "quotes": {
@@ -624,9 +624,9 @@
     "cited_by": [
       "anthropomorphism"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "0d9dc0eb849ecae9814e648e480f02ab7cae1f28cb1348d1f37e4cb5ef3d7721",
+    "content_sha256": "c20963c56c3783bad7fc9a5e364a4dcd2e54e67ef528ced868d6683f47c7b13d",
     "quotes": {
       "anthropomorphism": "archived"
     },
@@ -638,9 +638,9 @@
     "cited_by": [
       "art"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "19cc376167e4aa7af30de3a84a745bcec6ab077c537fbdbed6d7332a7f3a3e38",
+    "content_sha256": "5fce7769f0d2dbf6ca336dc3c599ec09cc9f829bf94eeea90a133c83c2015c2b",
     "quotes": {
       "art": "archived"
     },
@@ -652,9 +652,9 @@
     "cited_by": [
       "attention-schema"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "0e86a6d322154723e1ff5c7352df64f618301c6eb0d8d3151850688315fc58cb",
+    "content_sha256": "08c3a2d0128d3349fefc4407f7db22e27b5058e90fccfe053eedf434695cc27e",
     "quotes": {
       "attention-schema": "archived"
     },
@@ -666,7 +666,7 @@
     "cited_by": [
       "awareness"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "4e77399f80d8ce5f24aeb56ce8e06ae85a6a49991d0a48611ee5bb46262d01a9",
     "quotes": {
@@ -680,7 +680,7 @@
     "cited_by": [
       "axiology"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "763cab6118cc55265d458370c8a37a55c3f2489ad289019940643c5ac08d50c3",
     "quotes": {
@@ -694,7 +694,7 @@
     "cited_by": [
       "being"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "d827484f46a9d5a5ab7438b0d3614b56419a96f6ac3892a583c94218367c5e7c",
     "quotes": {
@@ -708,9 +708,9 @@
     "cited_by": [
       "belief"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "fa04774404f8572210b91e46d60e36c81b9c296f77bc56d813e9327b5e3fc9ea",
+    "content_sha256": "432bc6c86e5dda43cd5d06c7336d5370a99a2f041183a11c0f8887df82d623c5",
     "quotes": {
       "belief": "archived"
     },
@@ -722,7 +722,7 @@
     "cited_by": [
       "belief-system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "36152a27e83499509a65d4aa21274372f443c7fa005f3da19a0a0de173a3fa0d",
     "quotes": {
@@ -734,9 +734,9 @@
     "cited_by": [
       "category-theory"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "ae2112a6c5559f034d1bac66c9adae8a71e759bed9e6e4a64274071662504ae8",
+    "content_sha256": "db49734038153e09ecacbd0bf58df7995de880bc12deb422129a2099df697c08",
     "quotes": {
       "category-theory": "present"
     },
@@ -746,9 +746,9 @@
     "cited_by": [
       "coercion"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "eafe16aab27a4603dc8e58826a8b46127a1a7fecf174c6995451743d85d8b28d",
+    "content_sha256": "d641bf99d354c29d24edecdead754616425aad5100b4ee9f9a0a02fb1e8fa2b3",
     "quotes": {
       "coercion": "archived"
     },
@@ -760,7 +760,7 @@
     "cited_by": [
       "coercion"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "fdd972d08f2bfa802445371f10a9ea6c7f75681fd27bc5d5ab63f71393c1b875",
     "quotes": {
@@ -774,9 +774,9 @@
     "cited_by": [
       "coherence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "45a9d0b0837e4b5d9e8b759c755598c2fcd8624d5824b7cf2b4c86512759966b",
+    "content_sha256": "cad707087a95967706625d6e68c7b5f5fa07bb63aa6cdfc0db574e10eb8d2a8e",
     "quotes": {
       "coherence": "archived"
     },
@@ -788,9 +788,9 @@
     "cited_by": [
       "collective"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "6d1737138165535753d0d1ee825be03492f461ba0ff24e0d0f6a711900c0fecb",
+    "content_sha256": "7c6c3fdfbe1905682d635c1de7f650ff612a02a3c5b9e3b049905c180cd30b9c",
     "quotes": {
       "collective": "archived"
     },
@@ -802,7 +802,7 @@
     "cited_by": [
       "communication"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "8bdf62e41be046a07ca23c030f83bacfa9d6ba0051e86abbf020150b37183504",
     "quotes": {
@@ -816,7 +816,7 @@
     "cited_by": [
       "communication"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "88d5f822e5f8c78e312a3635eaf6fee4e8a8fcc09146d5fed435b92ab881848f",
     "quotes": {
@@ -830,7 +830,7 @@
     "cited_by": [
       "compassion"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "404e3bfa7c6f3f2f2d35e88ff5df6a118423eaeac2e4564b510d6e80b94bcbf7",
     "quotes": {
@@ -844,7 +844,7 @@
     "cited_by": [
       "concept"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "5c4cbdf569265948e659d0b1deff5e3a16007a3844c9b0c9979b5dddf92db17c",
     "quotes": {
@@ -858,9 +858,9 @@
     "cited_by": [
       "conceptual-system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "90ca0bfa42efc4d8f3b7c334a4006d5b0e0ac2d55ccd8368dbe9346ae1d54dff",
+    "content_sha256": "4a60786de5c80badece17c0b2900f52c5ac52c6ac906f5864da232764f3027e2",
     "quotes": {
       "conceptual-system": "archived"
     },
@@ -872,7 +872,7 @@
     "cited_by": [
       "concrescence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "31a44255cec60a36a505501b55659bfdd7ac19a2f50eb83a8c6515e5d3b2b033",
     "quotes": {
@@ -886,7 +886,7 @@
     "cited_by": [
       "consciousness"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "c401211d282092c639061498feec1f597935a7f8f454756c8d3ea76a43ad8758",
     "quotes": {
@@ -900,9 +900,9 @@
     "cited_by": [
       "consciousness"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "fdf8e141019bb0b4127744800b9dda1d070ad21eeb3fc26736dcae4e3b7c15b6",
+    "content_sha256": "3c5047de8c9e86869ba0f696152d09f6a4cb3cdcbcccbc0e74b38386b53d93fc",
     "quotes": {
       "consciousness": "present"
     },
@@ -912,7 +912,7 @@
     "cited_by": [
       "context"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "7c60cd522c4a6ce8d671a87bae9fb0c40eb32f44d3859592bee6b07ee966c1c7",
     "quotes": {
@@ -926,9 +926,9 @@
     "cited_by": [
       "control-system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "52a862e06156bf20daa2b7a7ce5f4c272ff898f189904c98d7261fd2b11ea13d",
+    "content_sha256": "0e8f56deb152f4aad36ba9be5dbc398b80da0003938334e72f049d6654d9dd08",
     "quotes": {
       "control-system": "present"
     },
@@ -938,9 +938,9 @@
     "cited_by": [
       "create"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "abea5881ebef445064d1d3680567ad34ceaa8d5e034aaff5e4e950e024776bf8",
+    "content_sha256": "74a4e47c2fbe00be1cde89b67a13a929d23fc556c196544651fdad74c898f4e3",
     "quotes": {
       "create": "archived"
     },
@@ -954,9 +954,9 @@
     "cited_by": [
       "create"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "a36d9b45366429490f1b952f651567111566c88a9b3b11244a9ed4b47cde2527",
+    "content_sha256": "ef53a05fd18e92c9a2828c4b537a2dac059e918c916a3929da5da824bf82e5c3",
     "quotes": {
       "create": "archived"
     },
@@ -968,9 +968,9 @@
     "cited_by": [
       "culture"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "b7de4ba1eb585039835e4171be399caabb18e1ae4ae4707c63db5cb4af3d7fc8",
+    "content_sha256": "6b7146151635f5fb07b629376f2b3d55bceba424b54da7d0329ac8fe4100ef43",
     "quotes": {
       "culture": "archived"
     },
@@ -982,9 +982,9 @@
     "cited_by": [
       "definition"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "411e2ba988a891ae399984996d650cd5f562d3bce26475991c0946a486394792",
+    "content_sha256": "35b68c6f6e9b9907148a5ec1cfc95d2f1c3893b02317fcf4838126129b58c705",
     "quotes": {
       "definition": "archived"
     },
@@ -996,9 +996,9 @@
     "cited_by": [
       "disagree"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "17cb6685157025c5e0bdb5782b20034583b37c2b1d782a896fdc926d99e6938d",
+    "content_sha256": "b4ae86b167655a207eb2670b95e54214a0909b5d1751717e9706bca223f7d44b",
     "quotes": {
       "disagree": "archived"
     },
@@ -1010,9 +1010,9 @@
     "cited_by": [
       "domain"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "83acc07dcb4decf91821b5f2f0822a48536d8fd9bc2df29023ed4e394de57ca2",
+    "content_sha256": "12afd4576617fe7d152c82d4beb2c603083df76cdb386226a27a21574b858cb5",
     "quotes": {
       "domain": "archived"
     },
@@ -1024,9 +1024,9 @@
     "cited_by": [
       "emotion"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "79cad9905eb85ae9d738607c0b1694779d1b29dffbbc8ee5c16d098cc4f3f001",
+    "content_sha256": "22ebc053e6632da421003e95cc341c8f27aefa33d8cd83af023cf983e863f31c",
     "quotes": {
       "emotion": "archived"
     },
@@ -1038,9 +1038,9 @@
     "cited_by": [
       "energy"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "bffffc2180c741a6b7cccd50e5c8983e4eda4445c2432d9e7c25e0da8b0cfa1e",
+    "content_sha256": "8fea448dcf2da8b9c90e85f38d3a9c8f373e9f339d257f7b662696a0af279544",
     "quotes": {
       "energy": "moved"
     },
@@ -1052,9 +1052,9 @@
     "cited_by": [
       "entity"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "2c2c70319cf9ae26cf3952590ae4282a28718b449648b28eef68b3dedd745754",
+    "content_sha256": "c4f2e8c35531420266f232bde08562b15cfc96936fd841213d0baaa1d51ecb2a",
     "quotes": {
       "entity": "archived"
     },
@@ -1066,7 +1066,7 @@
     "cited_by": [
       "environment"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "de53505786ad8bf96b778f15ce7607fe2d0638b5a771c683f09afd782e18a216",
     "quotes": {
@@ -1080,9 +1080,9 @@
     "cited_by": [
       "epistemology"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "19673428cad932f2819ebfebba0979906d4fe0cefda2380ee5218b8179da5337",
+    "content_sha256": "02d7e8d9d624edc3493e90b4504884362529f6ba8bf6f302b5b355e1eaad1ab8",
     "quotes": {
       "epistemology": "archived"
     },
@@ -1094,7 +1094,7 @@
     "cited_by": [
       "ethics"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "b18e9e6aab76ddf00f0a01c3a2ca368b2b08fed0f4c407b58b4cae7670e5839a",
     "quotes": {
@@ -1107,7 +1107,7 @@
       "evolution",
       "evolutionary-linguistics"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "9888685143901f934ed6e4dbb9fb769f8e112cbd3d75b42fa630b3a24e021152",
     "quotes": {
@@ -1123,7 +1123,7 @@
     "cited_by": [
       "exist"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "3205091710cf62e285486c9529f13caaaf948958d31855c731b7d57c2aad08b8",
     "quotes": {
@@ -1135,9 +1135,9 @@
     "cited_by": [
       "existence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "fb3a81cfa9e31a66480bdd668be1c6eec09af693760a697a63ecf57053ecfd12",
+    "content_sha256": "4ae9f66f7101d175d96127d70e1b9dfae0a8d4fb1b073e15b363fa649ca3609b",
     "quotes": {
       "existence": "archived"
     },
@@ -1149,9 +1149,9 @@
     "cited_by": [
       "expanding-consciousness"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "bd02588aed63a1bca70e4132be0ea2d29388f55af7f2e5c8b8323387f74bb113",
+    "content_sha256": "e0bf217b734d4d5f9d4e05dfda5856837e6a5867ebdd099e083bc401b0c55fbf",
     "quotes": {
       "expanding-consciousness": "archived"
     },
@@ -1163,9 +1163,9 @@
     "cited_by": [
       "explicit-scope"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "6c73f1867385965e80747ecf49da17c501d0c047febbd37b268b2eec0e02ecff",
+    "content_sha256": "f66d4ca3035af88bc76d58591f5ca55ab6c1dd31f9bc7de07ef1c37c7e80ae53",
     "quotes": {
       "explicit-scope": "archived"
     },
@@ -1177,7 +1177,7 @@
     "cited_by": [
       "faith"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "288b0320c2e6ef4c4d22e6e922b4f623b99e398923b904edcfd34773f6c72fc9",
     "quotes": {
@@ -1191,7 +1191,7 @@
     "cited_by": [
       "feeling"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "cd99ee42f3fc5633657167d4f40062095671e2c07e6a7f4595c8871c8148fb6e",
     "quotes": {
@@ -1205,7 +1205,7 @@
     "cited_by": [
       "focus"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "8775b6aafea12ea6d5e77ee9497a098fb2a2f9dfa6a0d814b69ea2eab57bbb1d",
     "quotes": {
@@ -1219,9 +1219,9 @@
     "cited_by": [
       "fractal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "70ee4d2848543fa3ae60b42f630b222bcb5aadc14bebe68ec75bcbc83d87e66d",
+    "content_sha256": "460c312c71199e189a8e33daad1b50c62d48f50e816a434e939bbfae5acbd118",
     "quotes": {
       "fractal": "archived"
     },
@@ -1233,9 +1233,9 @@
     "cited_by": [
       "god"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "cd8a9c50aca375d1c02655f0e53a5345f80c6e79ed37718ee03d475cba19d105",
+    "content_sha256": "5eb14736fcacb299abd1a2e249b296a62534c936f35ad91210bdc5ad97f088ef",
     "quotes": {
       "god": "archived"
     },
@@ -1247,7 +1247,7 @@
     "cited_by": [
       "heuristic"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "dc2ac682a30593cf6c76a93aa757980194235ec7732da8a95e4523fe1af7c289",
     "quotes": {
@@ -1261,9 +1261,9 @@
     "cited_by": [
       "history"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "6fa2cf3555ee5bd35d69c9b85996e3a61f3fc3b6b8864d22fe6ecd9627d1a137",
+    "content_sha256": "e33dd0985e3a074b7d1a7b85aea4ada47916909bd37d180abf1ebf804a28614e",
     "quotes": {
       "history": "archived"
     },
@@ -1276,9 +1276,9 @@
     "cited_by": [
       "human"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "e9dc2baf2b9538ae25524f431194a6b89fd9dc9f60de8b5ead6e1a22322add04",
+    "content_sha256": "e5d7ad3cd9d55118fed560e84bd3f12241b420f728a2b8d35ced940442862264",
     "quotes": {
       "human": "archived"
     },
@@ -1291,7 +1291,7 @@
     "cited_by": [
       "illusion"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "fd439c3414fa540a98dba7ae7de6299d9933a51e27f2b4fc2cb35fa5cf254bf4",
     "quotes": {
@@ -1305,7 +1305,7 @@
     "cited_by": [
       "implicit-scope"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "eeee199c15e18038eb74b98db8bac2337edbd6bc83da2bc57e693aed6db1f9e8",
     "quotes": {
@@ -1319,9 +1319,9 @@
     "cited_by": [
       "inertia"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "91d2f9cb5df465f5fc8df68896754e24500d03b616dd60d6055d95c02400fc79",
+    "content_sha256": "5954e182570504d0cbdeabef3f2e39f573ef1970d4592ddda363e33fd97a706d",
     "quotes": {
       "inertia": "archived"
     },
@@ -1333,9 +1333,9 @@
     "cited_by": [
       "information"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "0ea4633d880e171324622bad101567ba2230c1811c291f3cef2adb53322ce5eb",
+    "content_sha256": "41e8e232701f9b2761a454eec728fbc5a51e374da03369659e1d1d10be6c56de",
     "quotes": {
       "information": "archived"
     },
@@ -1347,7 +1347,7 @@
     "cited_by": [
       "integrity"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "48a76e3378ee1d792a4ce29a825da7938a52c1bad64993db2dda21524156e99b",
     "quotes": {
@@ -1361,7 +1361,7 @@
     "cited_by": [
       "intelligence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "8b62a8d1aa5120f099c1e79baae083701b815c3fc8b485d57e004016b908d195",
     "quotes": {
@@ -1376,7 +1376,7 @@
     "cited_by": [
       "judgement"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "1f6d49ed175e9438c4d19236f8b0406ce82906216e5eadee1def6264f42974ed",
     "quotes": {
@@ -1390,7 +1390,7 @@
     "cited_by": [
       "judgement"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "f44bdcff8c85d4e2bab0c15b0b1625e4e31d41984e4763a090fec27207736a6c",
     "quotes": {
@@ -1404,7 +1404,7 @@
     "cited_by": [
       "judicious"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "77a0796c13f32566dc95347eb2247c0044196517d19393b7c1bf46c9ef0c7851",
     "quotes": {
@@ -1416,9 +1416,9 @@
     "cited_by": [
       "language"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "84307d1cd5fd4f54d7968c3945c805ff9338aa15acdfe6b467f8c21709010075",
+    "content_sha256": "4e4747b48492569f9442d843e9cdc60478e8848f806fa62edae47a910571138c",
     "quotes": {
       "language": "archived"
     },
@@ -1431,7 +1431,7 @@
       "evolutionary-linguistics",
       "linguistics"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "4945f442ef9b887ef322dc84bbd7d99f9fa42c14387da087ce965e33a1fec818",
     "quotes": {
@@ -1446,9 +1446,9 @@
     "cited_by": [
       "love"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "e1786ba77026b2ee7b6fff86636a35c9ab5ed1666dc9c8e9746847b19c730243",
+    "content_sha256": "af8b1b03c374325e055f144c055988a12a4c25bd9f70428d822f732a2d04fcbd",
     "quotes": {
       "love": "archived"
     },
@@ -1460,9 +1460,9 @@
     "cited_by": [
       "model"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "980a1c7120bc860423d169f26e9317cb9b2ef1ce4aaa7ebf1752f0e489e30774",
+    "content_sha256": "6109a4ea4046459c0d55a5222b3df775c49ca7af80e194b0aa26c1a928d9164c",
     "quotes": {
       "model": "archived"
     },
@@ -1475,7 +1475,7 @@
     "cited_by": [
       "natural-law"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "e939656c590ee82e23eb57a0880be224be5e4b6abc0d4a5c675e8f775b067bd6",
     "quotes": {
@@ -1489,7 +1489,7 @@
     "cited_by": [
       "nature"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "82fd901cf14e0d7c08e8adb20e40c01dc49a9bfb356e088029c1b869e7e5d883",
     "quotes": {
@@ -1503,9 +1503,9 @@
     "cited_by": [
       "novelty"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "c5348514755a5486dba7793e29c09bf407cc857d57f98c01c4fc8041bb96148c",
+    "content_sha256": "69bf898dcd16453beb4fe44ba98b85f71a9d045d91a93f134d3c096dad318724",
     "quotes": {
       "novelty": "present"
     },
@@ -1515,7 +1515,7 @@
     "cited_by": [
       "novelty"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "ba49d789bdb6221f34f3f171f839a19f78e1d5aa626a250657fefd0b80d270fd",
     "quotes": {
@@ -1529,7 +1529,7 @@
     "cited_by": [
       "ontology"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "caf0ceb896a7a671ec5dc8be6b371b307e1502cdddcbbb1d2d515e5a0417f97d",
     "quotes": {
@@ -1543,7 +1543,7 @@
     "cited_by": [
       "paradox"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "305789645c98471072daee3bdb76fbc0da1d8ce4786ef41c2b1d126dd6ad6815",
     "quotes": {
@@ -1557,7 +1557,7 @@
     "cited_by": [
       "pattern"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "eee83136635c279ea3ccf290f5e564949f06273b7c17c0ed64855c2d21d1a1be",
     "quotes": {
@@ -1571,7 +1571,7 @@
     "cited_by": [
       "perspective"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "bb203eb3dbe0a4bfb8f2e4c983ae673eb22fa549a5d8cfef0daff0953fc3b093",
     "quotes": {
@@ -1585,9 +1585,9 @@
     "cited_by": [
       "philosophy"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "920f49161c5b26d3d5f2dae43ce5a0f9f5e5661904e7518036fcb51f0cc17b40",
+    "content_sha256": "3416e0ca2bfc951ff3a50aef4cf9bfe5e09441961443e1d65fc131ca53913a4e",
     "quotes": {
       "philosophy": "archived"
     },
@@ -1599,7 +1599,7 @@
     "cited_by": [
       "physical-system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "e18fa214eecd2b86236eb5c9f9b4059785da389adbbdd13cc9504ddf3143377a",
     "quotes": {
@@ -1611,7 +1611,7 @@
     "cited_by": [
       "precision"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "a2ca0671d1dcbcd7d600552bde48b8f6657b8d6148e865e30753c2d9129406b1",
     "quotes": {
@@ -1623,7 +1623,7 @@
     "cited_by": [
       "prejudice"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "914478668ae9ac23c798e9691c559504963e09b6c2f6a60c24af708214883721",
     "quotes": {
@@ -1637,7 +1637,7 @@
     "cited_by": [
       "presence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "8100e3c6e7750f983a928408b0be6ee9dade7a8f542e88a21aea90e900861565",
     "quotes": {
@@ -1651,9 +1651,9 @@
     "cited_by": [
       "reality"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "bb642e15508ffce047a9ccd2a621337898a4fff6051cdaa66c745f7fbcb90b65",
+    "content_sha256": "4071a2cb9c9c36f2045e2b0ac9d8687e8d0311fde24a8c6d1bdb755b6efeaf12",
     "quotes": {
       "reality": "archived"
     },
@@ -1665,9 +1665,9 @@
     "cited_by": [
       "redefine"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "8154be0496b6dfb04140484e8fbf6cd692025446b5d7d201a47b3e75386dea01",
+    "content_sha256": "f6fc087218f2c8d802fe01dc9f521f827866eda5734833d2a8bcb2f3faacce73",
     "quotes": {
       "redefine": "archived"
     },
@@ -1679,9 +1679,9 @@
     "cited_by": [
       "redefinition"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "fbacce6f6dc7f5a3c9ea8b5b30c4710088e53fd1858d26968c267641c687b43e",
+    "content_sha256": "9c0f79c6952593b76bf104d297fdd6ef12bac1a0e2d804425b68419b0d662c8a",
     "quotes": {
       "redefinition": "archived"
     },
@@ -1693,7 +1693,7 @@
     "cited_by": [
       "religion"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "7cd4da306d487c1e5602ad102f96947c81535ec07e99cc72bcd5cf3505d86224",
     "quotes": {
@@ -1707,7 +1707,7 @@
     "cited_by": [
       "resolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "2bf648b35e415d56c0df7849c6edcdb4210a13ac8627e8e3988e31baeec57fe6",
     "quotes": {
@@ -1722,7 +1722,7 @@
     "cited_by": [
       "respect"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "1a56d35a8b3487379178a407e3e70ab55aa586dbf1def3d6102a1734eb0392aa",
     "quotes": {
@@ -1736,7 +1736,7 @@
     "cited_by": [
       "attention-schema"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "2b7452e25b7227efc44fa5fc94f2d9c2bac302cb0f8bcd358267d145fbb95639",
     "quotes": {
@@ -1750,9 +1750,9 @@
     "cited_by": [
       "science"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "53c2e9c511860a89a044326765c763c44bd5c8601959a00c46744170c277f2e3",
+    "content_sha256": "daf2036ade4a969126e528a2b1b3abb6be3a2ccf2a9dd1289e3cf901e6def588",
     "quotes": {
       "science": "archived"
     },
@@ -1767,9 +1767,9 @@
       "implicit-scope",
       "scope"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "220363bf66e0e631b45ca21cc0c0a3f7fa8c6728f9abf87debfb80b26b7b7eee",
+    "content_sha256": "d185ac11414a43d87b68e953d674df28512b3325a26963a27e2f7866b4afffe4",
     "quotes": {
       "explicit-scope": "archived",
       "implicit-scope": "archived",
@@ -1783,7 +1783,7 @@
     "cited_by": [
       "sexual-reproduction"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "06d19361af0775500bdc0415c294cb314178449f53c1c85d598897b3ad90b0ba",
     "quotes": {
@@ -1795,9 +1795,9 @@
     "cited_by": [
       "signal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "4f72eef9b659930cdaa06191c5d43e319bda3e33d5c36c1af54ac83f530602a7",
+    "content_sha256": "99b736eda8dd9b5443094530f791decb197eb3298bb57d8f979bf56d3aed9583",
     "quotes": {
       "signal": "archived"
     },
@@ -1809,9 +1809,9 @@
     "cited_by": [
       "soul"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "eff1219726d8133da17ca29891daad69792e9d183cc28da554f7fccd8cb91701",
+    "content_sha256": "0a4669dad2d58d68db7301089d33bbdfc067f96a1498aa54ca5926ca3453ce4e",
     "quotes": {
       "soul": "archived"
     },
@@ -1823,9 +1823,9 @@
     "cited_by": [
       "spirit"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "8b99391328c608ddb9bc317cad21360020dc02b8728ce3e4c742666edea52cc6",
+    "content_sha256": "7fe4f00f2569b82786dc9acf6572272e3ce339d21bf4ecfa2526ae0853d85c47",
     "quotes": {
       "spirit": "archived"
     },
@@ -1837,7 +1837,7 @@
     "cited_by": [
       "spiritual-work"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "29ee31599de58b3715b5aec2a370f4b3f567f4e39fa1a20a75661bb88b8194be",
     "quotes": {
@@ -1851,7 +1851,7 @@
     "cited_by": [
       "spirituality"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "b5dbe52f3659db00a7c5bb46376be5089e90fc3f3c71f94ef5c86ad042df9b71",
     "quotes": {
@@ -1865,9 +1865,9 @@
     "cited_by": [
       "state"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "7427ce8a62024ed38d27b3f58632cda265a5adeca70d22b2f8365dc5cf57a040",
+    "content_sha256": "88407dd33b3f96b9fda34cef90afc42ba7eee5f26ef1123d3df045c5291fbf07",
     "quotes": {
       "state": "archived"
     },
@@ -1879,9 +1879,9 @@
     "cited_by": [
       "story"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "99db25502045ddf9339650c592d33415c16788b84915783b344b12a613d53318",
+    "content_sha256": "f3ffe3f716625f014e47606e6d4ef310354e39161d5d044a335523667220d6e6",
     "quotes": {
       "story": "archived"
     },
@@ -1896,7 +1896,7 @@
       "control-system",
       "system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "dc5ffc2528fc3e59c94c52ad3e316168f88538cb97b78711666cb9e7f438e353",
     "quotes": {
@@ -1913,9 +1913,9 @@
     "cited_by": [
       "technology"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "ba430d4b04ff094e498a6effc4f17f8ec6b576da30ca9dfc2410404f1ad25c11",
+    "content_sha256": "ab06935d0ca61b071579c1a4a28e2dcc01fb6a8b806f2c5d2c74aa8572cb93a7",
     "quotes": {
       "technology": "archived"
     },
@@ -1927,9 +1927,9 @@
     "cited_by": [
       "tool"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "fc200183a69f7cfd509e32be78b6c4d7b8343dcf9d6abff31493bfce0ae0c640",
+    "content_sha256": "089ccf8d58a94be1522f97619bb5703631f77dc13bf73e04f61dc02def8bbbce",
     "quotes": {
       "tool": "archived"
     },
@@ -1942,9 +1942,9 @@
     "cited_by": [
       "tradition"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "1e6787b5525479902c621728a441cbc521ea0965a18748f298ec85d45dbe6c01",
+    "content_sha256": "9316bdceadbac7150aad893263ab9b04f1b1348f9d0860e25fcbf663df21b007",
     "quotes": {
       "tradition": "present"
     },
@@ -1954,7 +1954,7 @@
     "cited_by": [
       "transcendence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "aebb2cd4b06f8d1ce80b89c8487040b37c862a1ec4a6db4414ad2aa05d5df702",
     "quotes": {
@@ -1966,9 +1966,9 @@
     "cited_by": [
       "type"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "d4b8a18b99e9a167c4fccfa6a22165b7782769966fd888bca304af3e098e0dbd",
+    "content_sha256": "0466cea846a28f14035bb4522edb14dc3cf273eb100c59b58c40ea09ddb94c24",
     "quotes": {
       "type": "archived"
     },
@@ -1981,7 +1981,7 @@
     "cited_by": [
       "unconsciousness"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "2dfc0a408ae70640c74708d2c422c34500d148abba7d4db1bcb1a3780b16732f",
     "quotes": {
@@ -1993,9 +1993,9 @@
     "cited_by": [
       "unique"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "c58d9530e9d416385425b0d7bd6060db1605387197f083e3598518514e902b88",
+    "content_sha256": "19c380e6950b20778964c22c0d2f50a70248ea86dc471e01fd4eb79ac8157455",
     "quotes": {
       "unique": "archived"
     },
@@ -2007,7 +2007,7 @@
     "cited_by": [
       "universal-set"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "63ca412da668a88e8851a2f686542cca31676b048f2aff05bc6017e290ea7d74",
     "quotes": {
@@ -2019,7 +2019,7 @@
     "cited_by": [
       "violence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "9ae6cb91ebbabee0e35a5049ac34f1bb3999126b94da7553a90d87ee8f7f35b2",
     "quotes": {
@@ -2033,9 +2033,9 @@
     "cited_by": [
       "spiritual-work"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "e2ffd359cc22c12c75a2f769cf45fbc95b8072efaa15907e63220840cf574487",
+    "content_sha256": "3147e2c9e0ac64aabd8e6b52f75f8d1c88fb65bd3230b8955d354aedd267d12f",
     "quotes": {
       "spiritual-work": "moved"
     },
@@ -2047,7 +2047,7 @@
     "cited_by": [
       "intelligence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "fc79c04e8d2258b9ae2707130213da7dbf549743d5e4b176dc3f5e487f6de34f",
     "quotes": {
@@ -2073,7 +2073,7 @@
     "cited_by": [
       "implicit-scope"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "c587b8fdc5f9a7362fc0defcd55538b34f092e9510a2f82c72a54242a038d11e",
     "quotes": {
@@ -2085,9 +2085,9 @@
     "cited_by": [
       "attention-schema"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "0f89d7ae0e47f6fa15335e866fe7b1e28173421c8aabc81b84d20c800ed1cab2",
+    "content_sha256": "b803d54bdc27b6eba7e975d4c2033b5c437b115054c4452d51790bc12dc29653",
     "quotes": {
       "attention-schema": "unchecked"
     },
@@ -2109,7 +2109,7 @@
     "cited_by": [
       "fractal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "5bf309683989bffe7925f9f8019df2ce63b073c9b5d818e76f8bb5656c5ba931",
     "quotes": {
@@ -2121,7 +2121,7 @@
     "cited_by": [
       "resolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "d5a20620801bb22cf0929aa7ae1921bc958aaa16d46701f3d731564a82e886e2",
     "quotes": {
@@ -2135,7 +2135,7 @@
       "physical-system",
       "scope"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "f7682dc140ccbf35cb5a0a1bec732456d4cfce87e7b90b9ae3008105b50ccf7d",
     "quotes": {
@@ -2150,7 +2150,7 @@
       "entity",
       "information"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "23be734d0e8b8b9ff69d754e0a08e32a5575e16d9668a3d51c989205b78b4b97",
     "quotes": {
@@ -2163,7 +2163,7 @@
     "cited_by": [
       "attention-schema"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "e56dd07194da4f550e4bbed54c2362f51ff14b36137e0e2fbb239e952c0506eb",
     "quotes": {
@@ -2175,7 +2175,7 @@
     "cited_by": [
       "evolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 403,
     "content_sha256": "681454555c954d1a9d6216d4c06a35e685d383e014e5f748031ef58c7d79498a",
     "quotes": {
@@ -2189,7 +2189,7 @@
     "cited_by": [
       "resolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 403,
     "content_sha256": "83c5207706eb25fb0e967cc8d51e0b4a3afef7e5f446eebc6fb5f40568b728a9",
     "quotes": {
@@ -2203,7 +2203,7 @@
     "cited_by": [
       "scope"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 403,
     "content_sha256": "7a1d70a18fb469fbfe114a7f897335834afc8c5329341f1e3b3697b36dfec34e",
     "quotes": {
@@ -2217,7 +2217,7 @@
     "cited_by": [
       "science"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "4603e3653d3f075f8fa248a0e82e47e547d7844864e2802e0efcab7da8946152",
     "quotes": {
@@ -2231,7 +2231,7 @@
     "cited_by": [
       "coherence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "c1c549fa3cc464f09abd1e027998c2c1838685354bb0d4b9cb223c36a4af2aa1",
     "quotes": {
@@ -2243,7 +2243,7 @@
     "cited_by": [
       "god"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "e63cd50d26c5cc8c7e7b6e5629d3d3276c92c63020ad6bdaf6d4cbc382585f6b",
     "quotes": {
@@ -2255,7 +2255,7 @@
     "cited_by": [
       "attention-schema"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 403,
     "content_sha256": null,
     "quotes": {
@@ -2269,7 +2269,7 @@
     "cited_by": [
       "algorithm"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "80e6aa488e7c9712130f36d00467ae4810883a41c855a60c721ff5792ffc2150",
     "quotes": {
@@ -2283,7 +2283,7 @@
       "abstract-system",
       "conceptual-existence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "4a2775bc51371e0113641b6a74a227d2e3b2670a9ee4b3b4f68ad390a5adcb2c",
     "quotes": {
@@ -2300,9 +2300,9 @@
     "cited_by": [
       "abstraction"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "c8bda9946f5becb165ffc430d62208b094d308c821b46d497b5807b9f1f9f942",
+    "content_sha256": "cceacce19b65cdaa81174148fd6ac69fa118a975666e677fe72a7f4c5b13bbbf",
     "quotes": {
       "abstraction": "archived"
     },
@@ -2316,7 +2316,7 @@
       "accuracy",
       "precision"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "fd1896c709dc37074969bb5a23717c5d426e571def94935053765378016a9998",
     "quotes": {
@@ -2331,7 +2331,7 @@
     "cited_by": [
       "analogy"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "181b62960a6e26eaa0e0c99b6a0f2f4f2f790f555694e54cdb461491537d21f1",
     "quotes": {
@@ -2345,9 +2345,9 @@
     "cited_by": [
       "anthropomorphism"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "e96c2f35d41b7ac50b128bb64fca8e7980f0cb887cc086b8bcbdfe9f2efe375a",
+    "content_sha256": "48da7faac0e2e087b214738d74b0aa3d3e7327b7a27250df1b953fed251a6f6b",
     "quotes": {
       "anthropomorphism": "archived"
     },
@@ -2359,9 +2359,9 @@
     "cited_by": [
       "art"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "c1691aba1e8cde1494daa60975a57d1018edd32a13e4b0af111694fa0f309118",
+    "content_sha256": "827bd057126a4bc80023791dcd9fd13a15566c029f9f0cb78cf980c864c82d6e",
     "quotes": {
       "art": "archived"
     },
@@ -2373,7 +2373,7 @@
     "cited_by": [
       "awareness"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "7701da6e1ff6e25e1e55106ae99d821158f484c713c45438a419239d31ffa08d",
     "quotes": {
@@ -2388,9 +2388,9 @@
       "being",
       "entity"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "854d975e3048986b4a1f21f4c3504e80f08ae6e96625022d8f0cd2ae78607df1",
+    "content_sha256": "b261da1f04db9c198fc94190115e89c52ff434a09a120af65200a9b09a1d28ed",
     "quotes": {
       "being": "archived",
       "entity": "unchecked"
@@ -2403,7 +2403,7 @@
     "cited_by": [
       "signal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "8eec50cccebbf2252a772b02ae65a7e058ab4e8080f3481a4d663965bd9ee66c",
     "quotes": {
@@ -2417,7 +2417,7 @@
     "cited_by": [
       "coherence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "68c94d40d3461988b6adf05bc676a323c671bfb9f83e1faa3ed745dcf466eddf",
     "quotes": {
@@ -2429,9 +2429,9 @@
     "cited_by": [
       "coherence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "e1ed1ba0f67f2c6b59a4fdbb65e34dceb244d824a580fcbf3e8120febc1701f4",
+    "content_sha256": "da5dde99266d90bbcc8fff4d68a2396d592318041199747074b52ac589c9ec4c",
     "quotes": {
       "coherence": "archived"
     },
@@ -2443,7 +2443,7 @@
     "cited_by": [
       "collective"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "5530c7b01a0b4586e1602eff0c52560a21b531beea9d733a16429587120bd479",
     "quotes": {
@@ -2455,9 +2455,9 @@
     "cited_by": [
       "concept"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "ec4852e5356043512bb24bface75daf65858006e4f88a835b22a4b5ea8d019f3",
+    "content_sha256": "714e59b3a5072fa6f1dbd307117e5fe1fc96dbde8ebb4cdece5d049252996720",
     "quotes": {
       "concept": "unchecked"
     },
@@ -2467,7 +2467,7 @@
     "cited_by": [
       "model"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "eac900ec7a6c810f8520717715488374a317045ae53d852809d388817382a55a",
     "quotes": {
@@ -2482,9 +2482,9 @@
       "consciousness",
       "unconsciousness"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "24a68ebebe6a80de0841463de79121843e86b99f3b8cbf5aabf3b2ad3c0cdf05",
+    "content_sha256": "716629add15ded2c2686d58cac03a36f58b90f7c27664e489b7e66a6b7f9d4dd",
     "quotes": {
       "consciousness": "archived",
       "unconsciousness": "unchecked"
@@ -2497,7 +2497,7 @@
     "cited_by": [
       "context"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "1732223a443503e9dbe2bfc8471f1e7511719d2bc610997d1b6a15643b315628",
     "quotes": {
@@ -2511,7 +2511,7 @@
     "cited_by": [
       "context"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "4d97ae31d26799810e3b5a2b7a040d0b20c32b3f55e99ae8e16aeedde96d7613",
     "quotes": {
@@ -2525,7 +2525,7 @@
     "cited_by": [
       "contextual-systems"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "92aaa20fb935699576c067e1234fbb23f03840ff0b0076a8f4492f1b196bc799",
     "quotes": {
@@ -2539,7 +2539,7 @@
     "cited_by": [
       "control-system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "da133fbf5a4cdbcbc35e754c7f031bb9fa5ef04f5110bc44a62503c25b4ab98c",
     "quotes": {
@@ -2553,7 +2553,7 @@
     "cited_by": [
       "control-system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "f3113262c054522f2bd4d628c21d94bdc67d8736aa84f322c4fee5046714e18c",
     "quotes": {
@@ -2567,7 +2567,7 @@
     "cited_by": [
       "culture"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "94cec8aa59bb4272495a366b42935f0cbf4eeefdd3a08b9266f1500eacbad125",
     "quotes": {
@@ -2581,7 +2581,7 @@
     "cited_by": [
       "domain"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "76983d117b49aea063dcd6fc72dbd30703febcace5ee292a6507548978fdee0b",
     "quotes": {
@@ -2593,7 +2593,7 @@
     "cited_by": [
       "domain"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "ed0aa3b5e5f539510725f68fe928c50752819df4c89436c6bcc0720ab2fa7f99",
     "quotes": {
@@ -2607,7 +2607,7 @@
     "cited_by": [
       "domain"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "10e99555e613bd8dd6d101d45538574ae1ee99800f88ded4c45704c5d0f5ec45",
     "quotes": {
@@ -2621,7 +2621,7 @@
     "cited_by": [
       "domain"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "8ff0d77389f65e62a35315528c3b1d1476be3d7c20220c754bcb49f8811099d7",
     "quotes": {
@@ -2635,7 +2635,7 @@
     "cited_by": [
       "domain"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "b0983d692ab2127610d2d896158ee337e56a56bc183cb2c5b78fea64db0cf40d",
     "quotes": {
@@ -2647,9 +2647,9 @@
     "cited_by": [
       "ecosystem"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "7cdbe41a4e0322e53f10b2461934dbb7899d1923e108c454bbfbd82292f1c213",
+    "content_sha256": "452c6e0f1f60806f7a4cff8a09f6941a13557272ba59cdfa70ab4c76a07c016a",
     "quotes": {
       "ecosystem": "archived"
     },
@@ -2661,9 +2661,9 @@
     "cited_by": [
       "emotion"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "8079746728d14a8db2c5e4fc691d20536e1e6d26bfa059ad2979a4c4eaf248f8",
+    "content_sha256": "d64fc5930ab8132aa16a322bb57da0a296946872c83c01be2a92ecfa3424a46f",
     "quotes": {
       "emotion": "present"
     },
@@ -2673,9 +2673,9 @@
     "cited_by": [
       "energy"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "117d35baa529e7e73fca345bc38828672add54af26aafa93c8e32b4bd1764a1d",
+    "content_sha256": "00cb66d8891aec5ed91b6059f5f5b4e8ff34b2bbcc06a93e757b45ad82c84ca0",
     "quotes": {
       "energy": "unchecked"
     },
@@ -2685,9 +2685,9 @@
     "cited_by": [
       "entity"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "f90b13f8a46196bde136c5210542cb0ff38ef6d03aa337b4db9b2d77138c95ef",
+    "content_sha256": "3f46135c68261ff028c7059a1f2a91e9a07182807a1e3945019a215d91bc283b",
     "quotes": {
       "entity": "archived"
     },
@@ -2699,7 +2699,7 @@
     "cited_by": [
       "evolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "8e813cf8d039883f57dfc81194dd598f279f3347d5460c77130ef9d8a8b4cf97",
     "quotes": {
@@ -2711,7 +2711,7 @@
     "cited_by": [
       "evolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "ea5c485dbed5609ffc49a180585a478aa17c5083a1cf9823c49fb04e003e1a34",
     "quotes": {
@@ -2725,9 +2725,9 @@
     "cited_by": [
       "evolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "0603eaa726f622df468cb0822cf5f3e85f12609a5f8a037b0968eae1c90e34a3",
+    "content_sha256": "b2c3a79a0727a271fda2d7bc576e780729bbfd12f8ce8727f44006bfba826960",
     "quotes": {
       "evolution": "unchecked"
     },
@@ -2737,9 +2737,9 @@
     "cited_by": [
       "existence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "fa017f3fb7daa1d92e46d28b35b907ba19705b0685c702aaa442ee9cf826aae0",
+    "content_sha256": "dc604e9bc2094c2960c0f0c3f39f52ec45e4ead5202e0ae6cfec6d9be277b7c1",
     "quotes": {
       "existence": "archived"
     },
@@ -2751,7 +2751,7 @@
     "cited_by": [
       "focus"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "aa69a8ceddafe0cd0f8b42807d5448c7d741a52c42ea0d7d6bbbb711f5809eb0",
     "quotes": {
@@ -2763,7 +2763,7 @@
     "cited_by": [
       "abstract-system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "9f187d05cca1a5a22092cd85fdb9df3b1824b5693e60be1e26a9f8f7ed963f52",
     "quotes": {
@@ -2777,7 +2777,7 @@
     "cited_by": [
       "fractal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "7c38b18ef14b98e48260cdeed4f1b99c306a343c6d540dcc52f70233164fe238",
     "quotes": {
@@ -2789,9 +2789,9 @@
     "cited_by": [
       "god"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "6033e6df2eeae61ca8675c84d5db3f675401912a58c6ab14f9f8895e0e82105b",
+    "content_sha256": "f571bf6ee25a32ecdfbefef70fe23fe741f63a34ada0b7aba21b36dada54d026",
     "quotes": {
       "god": "unchecked"
     },
@@ -2801,9 +2801,9 @@
     "cited_by": [
       "history"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "d92307d49202d73621a40c2704b74f0e424e182b83eac878452f8886ace51fe0",
+    "content_sha256": "24904e11d871d22d6824510f8cd182b483d0642c971608da1f6892e2f4799020",
     "quotes": {
       "history": "archived"
     },
@@ -2815,7 +2815,7 @@
     "cited_by": [
       "heuristic"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "f67536417def08d4a81bb8bda466f54a6769f6e38f8d47bb4d9b4574b859485a",
     "quotes": {
@@ -2829,9 +2829,9 @@
     "cited_by": [
       "expanding-consciousness"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "38ab153297e9d63b091edc70a6386493438ab4fad70ba5265e57e3310cb4c640",
+    "content_sha256": "68f55b536b365adf04587a47ecc9bc97869e4ed4875fcda45e41d8267008215c",
     "quotes": {
       "expanding-consciousness": "archived"
     },
@@ -2843,9 +2843,9 @@
     "cited_by": [
       "history"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "5909d00c10375a008c1c613b83259eac18dec1b24dd398912e658d46779a8b24",
+    "content_sha256": "50794c95ebbda09b78d6e8a271ebad8ddcedaf01303b64965edb3bd798f49780",
     "quotes": {
       "history": "archived"
     },
@@ -2857,9 +2857,9 @@
     "cited_by": [
       "human"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "af4e3d3d4a0f00400949ae2cbe00fa3902ee87f42c3d89913e8ed4c4e2f0c7a4",
+    "content_sha256": "173af99905eb5d3259bae6e795f827cfc9056f583f5ae68bca825f5cf9fdde92",
     "quotes": {
       "human": "archived"
     },
@@ -2871,7 +2871,7 @@
     "cited_by": [
       "illusion"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "0727bd906f34ffe2c589d8754ae90ae95884b3fef3f535f26354d32692576760",
     "quotes": {
@@ -2885,7 +2885,7 @@
     "cited_by": [
       "resolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "fbbbe4b2497157e2982a769c38ccb882d13bf2a02e1a2e24068b5fcdd71c72b6",
     "quotes": {
@@ -2901,9 +2901,9 @@
       "entity",
       "information"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "bab8e546509ad7491e35c8f42846e2cd82aa8fe1b1b8657fbacffbfcf2e090a6",
+    "content_sha256": "ab280986e41cbb197ee0a5367f5139481fb197e315f004f48f88c8dd3ebb5425",
     "quotes": {
       "communication": "archived",
       "entity": "unchecked",
@@ -2917,7 +2917,7 @@
     "cited_by": [
       "intelligence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "6afb834a964472f88ac1aee2fe4d0ef01f77229e0536d47cbe7365eb1ef841bb",
     "quotes": {
@@ -2931,7 +2931,7 @@
     "cited_by": [
       "evolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "7538408ec3de3420dfb6a6202df72d54670488e925c3b0e0507602be4f4a62b9",
     "quotes": {
@@ -2943,9 +2943,9 @@
     "cited_by": [
       "language"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "216f8370740be4fdcb8fb222c30dee58e49dab58c9bf0e605d756db1c4e289a1",
+    "content_sha256": "c5e7dd52777db55da14058ac6cf966f91c03f79dfb330a92ca6bb7a088525ae3",
     "quotes": {
       "language": "archived"
     },
@@ -2958,9 +2958,9 @@
     "cited_by": [
       "expanding-consciousness"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "1f55829e0af91aa54dd88bb3077444a9d7455bb039d8fbffba9f8aa87cb6c82c",
+    "content_sha256": "355815d18ab5c15dfeff678f0c36a517f1ac692ea016fb0496cdf1489f0ae8e8",
     "quotes": {
       "expanding-consciousness": "archived"
     },
@@ -2972,9 +2972,9 @@
     "cited_by": [
       "linguistics"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "1afd96325c2f8e875a531f87664ad355b2d365f82d78b35942d12fd55cc3e79a",
+    "content_sha256": "1456f8bca9997b152c042197da20cbec4d06c907285ddadfde92faa45662386b",
     "quotes": {
       "linguistics": "archived"
     },
@@ -2986,7 +2986,7 @@
     "cited_by": [
       "love"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "2680fd8d529102f6205dc26d502cfe0c0f2702767c9c1588b0ddc7361542a155",
     "quotes": {
@@ -3000,9 +3000,9 @@
     "cited_by": [
       "attention-schema"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "13253dfb35d23b96f7f7168dc4633af40010ce16186cbccdd12eb0dbaa57087f",
+    "content_sha256": "41755f17b729320dda487662115425642ea689b8bb14485ac30274918caf3f82",
     "quotes": {
       "attention-schema": "unchecked"
     },
@@ -3012,7 +3012,7 @@
     "cited_by": [
       "context"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "017c3073b44a7a4b39944fbc161e3a8f96ff534db9c149d226aed90b083f732a",
     "quotes": {
@@ -3026,9 +3026,9 @@
     "cited_by": [
       "physical-existence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "2eb2b6aa7152d7f263063b9e17e730fd5219b9c6ca97f7832be4f484fcfb0bf0",
+    "content_sha256": "9d1de524bced228f443cec2a40b42c062c60818495b51d64a10801458bceaa85",
     "quotes": {
       "physical-existence": "present"
     },
@@ -3038,9 +3038,9 @@
     "cited_by": [
       "noumena"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "8d796030d9fa810e17c2320967546af01d5a3d39f25e7d1f3b8bf87e6ca22569",
+    "content_sha256": "ec376eaa62a57a27ae9be2a55dc15c8e912ec9af0943ce17c91d9a23ce709bf6",
     "quotes": {
       "noumena": "present"
     },
@@ -3050,7 +3050,7 @@
     "cited_by": [
       "novelty"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "83c1c9f75c869872ecb97ce9b215859ea07823863c67929ce6a57496fd90fb22",
     "quotes": {
@@ -3062,7 +3062,7 @@
     "cited_by": [
       "paradox"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "5015fdee42e45481a8abf169e5ef3ee93b833c6dd1aa334e9282a7bbbab6af06",
     "quotes": {
@@ -3076,7 +3076,7 @@
     "cited_by": [
       "pattern"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "b4ae3b8641c010a62b128b4e3b6633bf66db03e28b7c0023977076dfaf77eb34",
     "quotes": {
@@ -3091,7 +3091,7 @@
     "cited_by": [
       "perspective"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "700203e5fce1c2bf608e030f21c2dd78dffc78c93e5674d3341726acfee43583",
     "quotes": {
@@ -3105,9 +3105,9 @@
     "cited_by": [
       "phenomena"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "bd45fcb2c62d175f53bcc4fc2149e86624fa22005f53a53479375be3eb8c8e23",
+    "content_sha256": "bcdd9d4a3003772d1525ae98de3eb62c49b0dfa070c90f000cb92dba2a1099dd",
     "quotes": {
       "phenomena": "moved"
     },
@@ -3117,9 +3117,9 @@
     "cited_by": [
       "philosophy"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "ca79e2a48feca6758db44420dbbd0b91a7b1b2570299d31a040e09510d249a89",
+    "content_sha256": "5dd084f495cff4e7543ac84c23676b37ad7fb2e5f1afe3f53ae2dac629858b5a",
     "quotes": {
       "philosophy": "archived"
     },
@@ -3131,7 +3131,7 @@
     "cited_by": [
       "physical-existence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "d49c4d2b1c04cbd55bc2e1b31af4874159af448728ade82a5f344881d9087df2",
     "quotes": {
@@ -3145,9 +3145,9 @@
     "cited_by": [
       "conceptual-existence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "f80a99f249158f66fb1f186599ee8054ea99bd6830394eba7f02b329d126cc3c",
+    "content_sha256": "d07b3110efd3e3dcb98dcd9a3e3e36f2026c94f4bb7e4aa04c42cd6c50a2a166",
     "quotes": {
       "conceptual-existence": "archived"
     },
@@ -3159,7 +3159,7 @@
     "cited_by": [
       "pneuma"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "f9ce9333e17030d686ed5bb21b68d6535f340eafe9c0e7e8a536386bef9a8435",
     "quotes": {
@@ -3171,7 +3171,7 @@
     "cited_by": [
       "project"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "339369c94aa03756ac1005161771aafaa35e759f1e2fd26949f851b25b7f2ddd",
     "quotes": {
@@ -3183,7 +3183,7 @@
     "cited_by": [
       "qualitative"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "d15190e03141fc7dbc99c5d0afba83e34036525ec07f6c78d8db4d7854110c26",
     "quotes": {
@@ -3195,7 +3195,7 @@
     "cited_by": [
       "quantitative"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "fefb6400327bd455d799290958b8775108793e78085bf151bc0867861b28bb92",
     "quotes": {
@@ -3207,9 +3207,9 @@
     "cited_by": [
       "reality"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "34cdb7ce1b7438b1c7673346e24fb279eb6f2d4b5cfed80ce3da994311783d14",
+    "content_sha256": "14e66f497ab319918197d40b0fca3977a94cc5b150d6370334d58fa11ed3a70c",
     "quotes": {
       "reality": "archived"
     },
@@ -3221,9 +3221,9 @@
     "cited_by": [
       "science"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "fa83fdf346d144f8c02c54db04dfddaddc320b1664adf78b996de062f00d412a",
+    "content_sha256": "8ddfd776c580c451380a135e3e70518e5b058f420961e920ed840451bfeea216",
     "quotes": {
       "science": "archived"
     },
@@ -3235,9 +3235,9 @@
     "cited_by": [
       "signal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "1303e6ce1bce63ccae83929434ace17b7caa28bf541a959af9c8e3aef5d1a0a6",
+    "content_sha256": "8ad5430626585a6abd45a35c43fb0485c01aa23ac4490c2bb84318f0abae3323",
     "quotes": {
       "signal": "archived"
     },
@@ -3249,7 +3249,7 @@
     "cited_by": [
       "signal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "737f7c84921bf6f9c804cf44567be306ebad7d2f38e3c393820831e28d7c6a8c",
     "quotes": {
@@ -3261,7 +3261,7 @@
     "cited_by": [
       "signal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "a7f7d8d584aa13e26f7410d7064f21a88ec62d1c1aa8cfd271cd450a3adf2551",
     "quotes": {
@@ -3276,9 +3276,9 @@
       "entity",
       "soul"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "893dc9fca8fcaf326837cc89019c0a3eb7c6c71122f466412fce75898f676919",
+    "content_sha256": "2792260e6a254ccf57c7a147e018bc45462121fa89ad354f28a9ee397464d196",
     "quotes": {
       "entity": "unchecked",
       "soul": "archived"
@@ -3291,7 +3291,7 @@
     "cited_by": [
       "spirit"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "3792ed40b5d274b18d8ee16ecf9e64c7c8b4e77d23cdbbcb21e23db70166a250",
     "quotes": {
@@ -3305,7 +3305,7 @@
     "cited_by": [
       "evolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "db2589975ffffd0dcdc3cbc8c1b68aafb6f1a1c946fd04e41ada0ad12ed00952",
     "quotes": {
@@ -3317,7 +3317,7 @@
     "cited_by": [
       "spirituality"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "529d8168943e48e9cdd0bf3562ae576ebf1ca19240cd51687535269506b1769f",
     "quotes": {
@@ -3329,7 +3329,7 @@
     "cited_by": [
       "state"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "30b49d45753d7a80df9f92e8f38e715637865eb8ae2bc40c3a6ac8974e289496",
     "quotes": {
@@ -3344,7 +3344,7 @@
     "cited_by": [
       "story"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "cdbf32f43708e545888be553863fa83d8b9d282c825881aab0bf29b7a1b8987b",
     "quotes": {
@@ -3362,7 +3362,7 @@
       "entity",
       "system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "a53e89df606fa18bac799b72627852d67c9e0ff7783271b7cb1272c575beb7ad",
     "quotes": {
@@ -3378,7 +3378,7 @@
     "cited_by": [
       "evolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "ea3ad349bb32dedec74460237a1a823a337c7ac40a50d394c55a6e7b41185378",
     "quotes": {
@@ -3390,7 +3390,7 @@
     "cited_by": [
       "technology"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "3651f12b71b8076b4bc2350303db484881a70adca398595d2898dfcd0d9d68f4",
     "quotes": {
@@ -3404,9 +3404,9 @@
     "cited_by": [
       "art"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "bdb24b5ff0978e1a06020b82b370c9dc738236c9384dce99b0d14b8ec6a5b2c8",
+    "content_sha256": "900b4aede3463e81e41aea24735965429c8d6648b07319a5abce2b0717f289c3",
     "quotes": {
       "art": "archived"
     },
@@ -3418,9 +3418,9 @@
     "cited_by": [
       "evolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "43a5bbf8143dd595bce80567ade26153e7267f121df77dfc660902852cce2e43",
+    "content_sha256": "5a14a63ed015e3ed4d894e247c96ac927456922daa3eb6df5c962b0a62df778b",
     "quotes": {
       "evolution": "unchecked"
     },
@@ -3430,9 +3430,9 @@
     "cited_by": [
       "tool"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "46da27a39bd45247d970078f848013ee275c42facb93650c96ffe095eae53860",
+    "content_sha256": "6334834ad927e4492f0c8943d14e78f3487b216960ae43ce9123a289276acd8e",
     "quotes": {
       "tool": "unchecked"
     },
@@ -3442,7 +3442,7 @@
     "cited_by": [
       "tradition"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "e3724f825b290163e246e3cf7dcc5765606d51c03d45d3b67b41ffb81a525eb3",
     "quotes": {
@@ -3456,9 +3456,9 @@
     "cited_by": [
       "transcendence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "88a37a4cb1777669b69467dc4b3a9345b8650163ed2e5b80b6585106257f6f1e",
+    "content_sha256": "c4ecd36ac8d810ff487b2cea89e2546d7e4deb0c12a9b1a691b20f61b99f0b31",
     "quotes": {
       "transcendence": "present"
     },
@@ -3468,7 +3468,7 @@
     "cited_by": [
       "type"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "7db2b66f1c0ca09820ff728354e6045041311113f626119b05599f81cfb83f71",
     "quotes": {
@@ -3480,7 +3480,7 @@
     "cited_by": [
       "technology"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "15786f513d7ce1114d35a14285406dbe3ca3d17c4303807a32ca05553d7c9576",
     "quotes": {
@@ -3492,7 +3492,7 @@
     "cited_by": [
       "evolution"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "939d0c9754c443b91a35ce999da3ad60b983910047e2a4a3b9de5cc70936db49",
     "quotes": {
@@ -3504,7 +3504,7 @@
     "cited_by": [
       "signal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "6ddb269217a748c26f6f2a1dfe596dc77eb4bfe4e031467999580492ee396063",
     "quotes": {
@@ -3519,9 +3519,9 @@
     "cited_by": [
       "abstract-system"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "6f87021c38a806a899bf1f032829dda029cea510cd46ea876e9d78931cd663b7",
+    "content_sha256": "0f2b27daf2e498da2b57e59bbd9caf9904e6bcee49a92d2cb8bb085bbc00d552",
     "quotes": {
       "abstract-system": "present"
     },
@@ -3531,9 +3531,9 @@
     "cited_by": [
       "conceptual-existence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "90ca0bfa42efc4d8f3b7c334a4006d5b0e0ac2d55ccd8368dbe9346ae1d54dff",
+    "content_sha256": "4a60786de5c80badece17c0b2900f52c5ac52c6ac906f5864da232764f3027e2",
     "quotes": {
       "conceptual-existence": "present"
     },
@@ -3543,7 +3543,7 @@
     "cited_by": [
       "contextual-systems"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "706e81e83433a9c6b2b30310d630248bb0a1debc1712a1cc0b6f172f51c3448a",
     "quotes": {
@@ -3555,9 +3555,9 @@
     "cited_by": [
       "ecosystem"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "8061695c71e3204180d3b78dcc153dbd2b61cfc1da42746f8575bd0b37180997",
+    "content_sha256": "daadf1a2a029dad589f48e8d7323fc94a6c7800df4dc8fe62bde6414a53821a8",
     "quotes": {
       "ecosystem": "archived"
     },
@@ -3570,9 +3570,9 @@
       "conceptual-existence",
       "physical-existence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "fb3a81cfa9e31a66480bdd668be1c6eec09af693760a697a63ecf57053ecfd12",
+    "content_sha256": "4ae9f66f7101d175d96127d70e1b9dfae0a8d4fb1b073e15b363fa649ca3609b",
     "quotes": {
       "conceptual-existence": "present",
       "physical-existence": "present"
@@ -3583,7 +3583,7 @@
     "cited_by": [
       "noumena"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "23e69b106e8fd71a24044a4ac8eae68a9e1a1ada5c2e5c3859d6f6dfb5382e59",
     "quotes": {
@@ -3595,7 +3595,7 @@
     "cited_by": [
       "phenomena"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "7d9e381193eed00ff11fd74d6ab8f3d474f1166fc74b97ce2785a95098904bf2",
     "quotes": {
@@ -3607,9 +3607,9 @@
     "cited_by": [
       "physical-existence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "f6393a1771b3b8f5bf1a1cd314fd4d9f8c97e419bf8989fa0b6c387e05774915",
+    "content_sha256": "dbb0b27186b2039ad3b7cdf0585f8094bef0b378ce0e638de88e181748254acd",
     "quotes": {
       "physical-existence": "present"
     },
@@ -3619,9 +3619,9 @@
     "cited_by": [
       "pneuma"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
-    "content_sha256": "21a9091fb5ac660fe6588291b294e287468945b7d4f077d9fa20e154fba8d9b6",
+    "content_sha256": "343ab3a8c000044d5eb5d17c36a3c5c84b6cb94b9bca51f51708b0aac0b2248c",
     "quotes": {
       "pneuma": "present"
     },
@@ -3631,7 +3631,7 @@
     "cited_by": [
       "project"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "e2372dfbb55341cbff4c4c8c4f3d6f66f3ebd341b905f9ae9c3313424bd0228e",
     "quotes": {
@@ -3643,7 +3643,7 @@
     "cited_by": [
       "qualitative"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "4b2fa0042504695d4454e39fd2f2e5ef3ee79ec3ee38e4618cc08f1c03053805",
     "quotes": {
@@ -3655,7 +3655,7 @@
     "cited_by": [
       "quantitative"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "494e24bfbc73b5e27e94507bfa389e7441d4b12523e84ed12aad4e3fe4026918",
     "quotes": {
@@ -3667,7 +3667,7 @@
     "cited_by": [
       "evolutionary-linguistics"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "9e9532e3e7b9725667e715642c2ca508bfcf96d59f3b6dd911af1e1a0768e531",
     "quotes": {
@@ -3679,7 +3679,7 @@
     "cited_by": [
       "category-theory"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "7272ec766cb4b48097d286c519458c041ae89bfba2d6bba5eeb7c938fc1c2d27",
     "quotes": {
@@ -3691,7 +3691,7 @@
     "cited_by": [
       "implicit-scope"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "e56846a7ee92b4827d2ad742975069e8cbe66c994aa88c32f421d30c4ef46b0e",
     "quotes": {
@@ -3703,7 +3703,7 @@
     "cited_by": [
       "category-theory"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "10a76eebe08be6ccf2c1dc42d30a6e13f167ab26ae094137dbaaf04d98a64101",
     "quotes": {
@@ -3715,7 +3715,7 @@
     "cited_by": [
       "abstraction"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "c672e6464b898482febed38c70f4d713144378f9effcf49b5acd2a5b5239c7d4",
     "quotes": {
@@ -3727,7 +3727,7 @@
     "cited_by": [
       "noumena"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 403,
     "content_sha256": "d0b40e2fe1d2e1529da5642e8ecbd2a16c0449b581c5ac639836df5c4c81118c",
     "quotes": {
@@ -3741,7 +3741,7 @@
     "cited_by": [
       "phenomena"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 403,
     "content_sha256": "52188b5daae79c1adc87d84f7f0c38c829471458756896527acca83ffed109a4",
     "quotes": {
@@ -3755,7 +3755,7 @@
     "cited_by": [
       "pneuma"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 403,
     "content_sha256": "3b7c2bd9201cda23c71ab5464f2be21fae059b70a26feeb629864a57c287b00e",
     "quotes": {
@@ -3769,7 +3769,7 @@
     "cited_by": [
       "project"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 403,
     "content_sha256": "efa41e5a1f0f5e8cce8a849177f8066ab2cc59abb66d0c8f4d612075a4c74049",
     "quotes": {
@@ -3783,7 +3783,7 @@
     "cited_by": [
       "fractal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "67bae9f9d8773c01a784951f055cbb75afe254b32a9c338a13fdaad19450e0e0",
     "quotes": {
@@ -3795,7 +3795,7 @@
     "cited_by": [
       "fractal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "67bae9f9d8773c01a784951f055cbb75afe254b32a9c338a13fdaad19450e0e0",
     "quotes": {
@@ -3807,7 +3807,7 @@
     "cited_by": [
       "fractal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
     "quotes": {
@@ -3819,7 +3819,7 @@
     "cited_by": [
       "fractal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
     "quotes": {
@@ -3831,7 +3831,7 @@
     "cited_by": [
       "fractal"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
     "quotes": {
@@ -3843,7 +3843,7 @@
     "cited_by": [
       "this-philosophy"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
     "quotes": {
@@ -3855,7 +3855,7 @@
     "cited_by": [
       "concrescence"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
     "quotes": {
@@ -3867,7 +3867,7 @@
     "cited_by": [
       "abstraction"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
     "quotes": {
@@ -3879,7 +3879,7 @@
     "cited_by": [
       "category-theory"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
     "quotes": {
@@ -3891,7 +3891,7 @@
     "cited_by": [
       "consciousness"
     ],
-    "fetched_at": "2026-10-26T12:40:01Z",
+    "fetched_at": "2026-11-02T15:24:10Z",
     "status": 200,
     "content_sha256": "aed82b90181d9f00d8cb4b674486f89a148a83f36e31b893b28e71b6f71dc0bf",
     "quotes": {
