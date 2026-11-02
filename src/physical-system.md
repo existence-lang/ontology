@@ -21,7 +21,7 @@ The Cosmic Scale</a> is a demonstration of scope (at different scales) in the ph
 
 > (physics) The portion of the physical universe chosen for analysis, with everything outside the system known as the environment.
 
-<a href="http://en.wikipedia.org/wiki/Physical_system" target="_blank">Physical System (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Physical_system" target="_blank">Physical System (Wikipedia)</a> <a href="https://web.archive.org/web/20150102125412/http://en.wikipedia.org/wiki/Physical_system" target="_blank">(archived 2015-01-02)</a>
 
 > the portion of the physical universe chosen for analysis
 
