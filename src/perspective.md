@@ -32,7 +32,7 @@ A perspective influences the [reality](./reality.md) of the entity.
 
 > By analogy, sound recording technique to adjust and integrate sound sources seemingly naturally
 
-<a href="https://en.wikipedia.org/wiki/Perspective" target="_blank">Perspective (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Perspective" target="_blank">Perspective (Wikipedia)</a> <a href="https://web.archive.org/web/20150107162802/https://en.wikipedia.org/wiki/Perspective" target="_blank">(archived 2015-01-07)</a>
 
 > Perspectivity, the formation of an image in a picture plane of a scene viewed from a fixed point, and its modelization in geometry
 

@@ -12,7 +12,7 @@ A paradox is an invitation to explore the [concept](./concept.md) to [expand con
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/paradox" target="_blank">paradox (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/paradox" target="_blank">paradox (wiktionary)</a> <a href="https://web.archive.org/web/20150214063554/http://en.wiktionary.org/wiki/paradox" target="_blank">(archived 2015-02-14)</a>
 
 > ### Noun
 

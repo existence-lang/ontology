@@ -12,7 +12,7 @@ See [redefine](./redefine.md).
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/redefinition" target="_blank">redefinition (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/redefinition" target="_blank">redefinition (wiktionary)</a> <a href="https://web.archive.org/web/20140809121932/http://en.wiktionary.org/wiki/redefinition" target="_blank">(archived 2014-08-09)</a>
 
 > ### Noun
 

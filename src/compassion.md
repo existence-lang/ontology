@@ -36,7 +36,7 @@ Compassion matters because it is the bridge that connects [entities](./entity.md
 
 > Compassion is often regarded as having an emotional aspect to it, though when based on cerebral notions such as fairness, justice and interdependence, it may be considered rational in nature and its application understood as an activity based on sound judgment. There is also an aspect of compassion which regards a quantitative dimension, such that individual's compassion is often given a property of "depth," "vigour," or "passion." The etymology of "compassion" is Latin, meaning "co-suffering." More involved than simple empathy, compassion commonly gives rise to an active desire to alleviate another's suffering.
 
-<a href="http://en.wikipedia.org/wiki/Self-compassion" target="_blank">Self-compassion (Wikipedia)</a>
+<a href="http://en.wikipedia.org/wiki/Self-compassion" target="_blank">Self-compassion (Wikipedia)</a> <a href="https://web.archive.org/web/20150507143617/http://en.wikipedia.org/wiki/Self-compassion" target="_blank">(archived 2015-05-07)</a>
 
 > Self-compassion is extending compassion to one's self in instances of perceived inadequacy, failure, or general suffering. Dr. Kristin Neff has defined self-compassion as being composed of three main components - self-kindness, common humanity, and mindfulness.
 

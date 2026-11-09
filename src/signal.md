@@ -12,7 +12,7 @@ A signal transmits [information](./information.md) from one [entity](./entity.md
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/signal" target="_blank">signal (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/signal" target="_blank">signal (wiktionary)</a> <a href="https://web.archive.org/web/20150326135422/http://en.wiktionary.org/wiki/signal" target="_blank">(archived 2015-03-26)</a>
 
 > ### Noun
 
