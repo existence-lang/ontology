@@ -272,6 +272,15 @@
       "class": "sources",
       "check": "dead_link",
       "severity": "error",
+      "term": "coherence",
+      "message": "source http://www.meditationplex.com/meditation-benefits/effects-meditation-brain-coherence-intelligence/ returned HTTP 403",
+      "fix": "replace the link with the archived copy http://web.archive.org/web/20190812035956/http://www.meditationplex.com:80/meditation-benefits/effects-meditation-brain-coherence-intelligence/",
+      "fixed": true
+    },
+    {
+      "class": "sources",
+      "check": "dead_link",
+      "severity": "error",
       "term": "attention-schema",
       "message": "source http://www.princeton.edu/~graziano/Consciousness_Research.html returned HTTP 403",
       "fix": "replace the link with the archived copy http://web.archive.org/web/20190421012750/http://www.princeton.edu:80/~graziano/Consciousness_Research.html",
@@ -369,11 +378,11 @@
     }
   ],
   "summary": {
-    "errors": 9,
+    "errors": 10,
     "warnings": 31,
     "accepted": 0,
-    "fixable": 27,
-    "fixed": 27
+    "fixable": 28,
+    "fixed": 28
   },
   "clean": false
 }
