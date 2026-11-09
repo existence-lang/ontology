@@ -12,7 +12,7 @@ Understanding coercion matters because it illuminates the boundary between volun
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/coerce" target="_blank">coerce (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/coerce" target="_blank">coerce (wiktionary)</a> <a href="https://web.archive.org/web/20150305202954/http://en.wiktionary.org/wiki/coerce" target="_blank">(archived 2015-03-05)</a>
 
 > ### Verb
 
@@ -22,7 +22,7 @@ Understanding coercion matters because it illuminates the boundary between volun
 
 > (transitive, computing) to force an attribute, normally of a data type, to take on the attribute of another data type.
 
-<a href="http://en.wiktionary.org/wiki/coercion" target="_blank">coercion (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/coercion" target="_blank">coercion (wiktionary)</a> <a href="https://web.archive.org/web/20150111161001/http://en.wiktionary.org/wiki/coercion" target="_blank">(archived 2015-01-11)</a>
 
 > ### Noun
 
