@@ -288,6 +288,15 @@
     },
     {
       "class": "sources",
+      "check": "dead_link",
+      "severity": "error",
+      "term": "algorithm",
+      "message": "source http://xlinux.nist.gov/dads/ returned HTTP 502",
+      "fix": "replace the link with the archived copy http://web.archive.org/web/20261114045334/https://xlinux.nist.gov/dads/",
+      "fixed": true
+    },
+    {
+      "class": "sources",
       "check": "quote_moved",
       "severity": "warning",
       "term": "accuracy",
@@ -378,11 +387,11 @@
     }
   ],
   "summary": {
-    "errors": 10,
+    "errors": 11,
     "warnings": 31,
     "accepted": 0,
-    "fixable": 28,
-    "fixed": 28
+    "fixable": 29,
+    "fixed": 29
   },
   "clean": false
 }
