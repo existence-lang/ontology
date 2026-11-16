@@ -30,7 +30,7 @@ Coherence increases the [Intelligence](./intelligence.md), efficiency, & capabil
 
 <a href="https://en.wikipedia.org/wiki/Coherence" target="_blank">Coherence (Wikipedia)</a>
 
-<a href="http://www.meditationplex.com/meditation-benefits/effects-meditation-brain-coherence-intelligence/" target="_blank">Effects of Meditation on Brain Coherence and Intelligence (meditationplex.com)</a>
+<a href="http://web.archive.org/web/20190812035956/http://www.meditationplex.com:80/meditation-benefits/effects-meditation-brain-coherence-intelligence/" target="_blank">Effects of Meditation on Brain Coherence and Intelligence (meditationplex.com)</a>
 
 ### [Pattern](./pattern.md) Expression
 

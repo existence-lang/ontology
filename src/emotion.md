@@ -12,7 +12,7 @@ Emotions influence a person's thoughts & actions.
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/emotion" target="_blank">emotion (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/emotion" target="_blank">emotion (wiktionary)</a> <a href="https://web.archive.org/web/20150216053151/http://en.wiktionary.org/wiki/emotion" target="_blank">(archived 2015-02-16)</a>
 
 > ### Noun
 

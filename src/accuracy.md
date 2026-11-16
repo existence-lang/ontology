@@ -24,7 +24,7 @@ Relates to [precision](./precision.md), [information](./information.md), [scope]
 
 > Exact conformity to truth, or to a rule or model; degree of conformity of a measure to a true or standard value.
 
-<a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">Accuracy and Precision (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">Accuracy and Precision (Wikipedia)</a> <a href="https://web.archive.org/web/20150105105450/https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">(archived 2015-01-05)</a>
 
 > accuracy of a measurement system is the degree of closeness of measurements of a quantity to that quantity's actual (true) value
 

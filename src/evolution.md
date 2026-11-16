@@ -30,7 +30,7 @@ In modern [culture](./culture.md), Evolution often refers to Biological Evolutio
 
 > (dance, sports) A turning movement of the body.
 
-<a href="http://www.etymonline.com/index.php?term=evolution" target="_blank">Evolution (etymonline.com)</a>
+<a href="http://web.archive.org/web/20170722040432/http://www.etymonline.com/index.php?term=evolution" target="_blank">Evolution (etymonline.com)</a>
 
 <a href="https://en.wikipedia.org/wiki/Evolution_(disambiguation)" target="_blank">Evolution (Wikipedia)</a> <a href="https://web.archive.org/web/20141014232907/https://en.wikipedia.org/wiki/Evolution_(disambiguation)" target="_blank">(archived 2014-10-14)</a>
 

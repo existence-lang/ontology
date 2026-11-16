@@ -20,7 +20,7 @@ Most platforms only instrument the phenomenal layer. This is necessary but insuf
 
 > <a href="https://en.wikipedia.org/wiki/Phenomenon" target="_blank">Wikipedia</a>: A phenomenon, sometimes spelled phaenomenon, is an observable event.
 
-> <a href="https://www.etymonline.com/word/phenomenon" target="_blank">Etymonline</a>: 1570s, "a fact directly observed, a thing that appears or is perceived, an occurrence," especially a regular kind of fact observed on certain kinds of occasions, from Late Latin phænomenon, from Greek phainomenon "that which appears or is seen," noun use of neuter present participle of phainesthai "to appear"
+> <a href="http://web.archive.org/web/20260225194454/https://www.etymonline.com/word/phenomenon" target="_blank">Etymonline</a>: 1570s, "a fact directly observed, a thing that appears or is perceived, an occurrence," especially a regular kind of fact observed on certain kinds of occasions, from Late Latin phænomenon, from Greek phainomenon "that which appears or is seen," noun use of neuter present participle of phainesthai "to appear"
 
 ### [Pattern](./pattern.md) Expression
 

@@ -20,7 +20,7 @@ In human-agent collaboration, shared pneuma means both parties are animated by t
 
 > <a href="https://en.wikipedia.org/wiki/Pneuma" target="_blank">Wikipedia</a>: Pneuma is an ancient Greek word for "breath", and in a religious context for "spirit".
 
-> <a href="https://www.etymonline.com/word/pneuma" target="_blank">Etymonline</a>: from Greek pneuma "a blowing, a wind, blast; breeze; influence; breathed air, breath; odor, scent; spirit of a person; inspiration, a spirit, ghost," from pnein "to blow, to breathe,"
+> <a href="http://web.archive.org/web/20250313234253/https://www.etymonline.com/word/pneuma" target="_blank">Etymonline</a>: from Greek pneuma "a blowing, a wind, blast; breeze; influence; breathed air, breath; odor, scent; spirit of a person; inspiration, a spirit, ghost," from pnein "to blow, to breathe,"
 
 ### [Pattern](./pattern.md) Expression
 

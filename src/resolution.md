@@ -68,7 +68,7 @@ A skewed projection of an Object/Concept in a different Resolution based on the 
 
 > The moment in which the conflict ends and the outcome of the action is clear.
 
-<a href="http://www.etymonline.com/index.php?term=resolution" target="_blank">Resolution (etymonline.com)</a> <a href="https://web.archive.org/web/20160124073344/http://www.etymonline.com/index.php?term=resolution" target="_blank">(archived 2016-01-24)</a>
+<a href="https://web.archive.org/web/20160124073344/http://www.etymonline.com/index.php?term=resolution" target="_blank">Resolution (etymonline.com)</a> <a href="https://web.archive.org/web/20160124073344/http://www.etymonline.com/index.php?term=resolution" target="_blank">(archived 2016-01-24)</a>
 
 > late 14c., "a breaking into parts," from Old French resolution (14c.) or directly from Latin resolutionem (nominative resolutio) "process of reducing things into simpler forms," from past participle stem of resolvere "loosen" (see resolve). Sense of "a solving" (as of mathematical problems) first recorded 1540s, as is that of "power of holding firmly" (compare resolute). Sense of "decision or expression of a meeting" is from c.1600. Meaning "effect of an optical instrument" is from 1860. New Year's resolutions in reference to a specific intention to better oneself is at least from 1780s, and through 19c. generally of a pious nature.
 
