@@ -28,7 +28,7 @@ Being [aware](./awareness.md) of other realities has the quality to allows an en
 
 ### [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/reality" target="_blank">reality (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/reality" target="_blank">reality (wiktionary)</a> <a href="https://web.archive.org/web/20150819095329/http://en.wiktionary.org/wiki/reality" target="_blank">(archived 2015-08-19)</a>
 
 > ### Noun
 

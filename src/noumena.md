@@ -20,7 +20,7 @@ Making the noumenal explicit is the core challenge of [alignment](./coherence.md
 
 > <a href="https://en.wikipedia.org/wiki/Noumenon" target="_blank">Wikipedia</a>: The term noumenon is generally used in contrast with, or in relation to, the term phenomenon, which refers to any object of the senses.
 
-> <a href="https://www.etymonline.com/word/noumenon" target="_blank">Etymonline</a>: "that which can be the object only of a purely intellectual intuition" (opposed to a phenomenon), 1796, a term introduced by Kant, from Greek noumenon "that which is perceived," neuter passive present participle of noein "to apprehend, perceive by the mind"
+> <a href="http://web.archive.org/web/20250723185319/https://www.etymonline.com/word/noumenon" target="_blank">Etymonline</a>: "that which can be the object only of a purely intellectual intuition" (opposed to a phenomenon), 1796, a term introduced by Kant, from Greek noumenon "that which is perceived," neuter passive present participle of noein "to apprehend, perceive by the mind"
 
 ### [Pattern](./pattern.md) Expression
 

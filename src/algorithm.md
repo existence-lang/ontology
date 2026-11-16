@@ -8,7 +8,7 @@ A precise step-by-step plan for a procedure that possibly begins with an input v
 
 ### Links
 
-<a href="http://xlinux.nist.gov/dads/" target="_blank">Dictionary of Algorithms and Data Structures</a>
+<a href="http://web.archive.org/web/20261114045334/https://xlinux.nist.gov/dads/" target="_blank">Dictionary of Algorithms and Data Structures</a>
 
 ## [Epistemology](./epistemology.md)
 

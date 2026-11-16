@@ -26,7 +26,7 @@ A project's [story](./story.md) is the sequence of decisions and changes that pr
 >
 > A project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific objective.
 
-> <a href="https://www.etymonline.com/word/project" target="_blank">Etymonline — project</a>
+> <a href="http://web.archive.org/web/20260825183737/https://www.etymonline.com/word/project" target="_blank">Etymonline — project</a>
 >
 > "a plan, draft, scheme, design," from Medieval Latin proiectum "something thrown forth," noun use of neuter of Latin proiectus, past participle of proicere "stretch out, thrust out, throw forth,"
 
